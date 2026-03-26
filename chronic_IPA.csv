@@ -1,0 +1,547 @@
+﻿Gene,GeneName,Type,miRNA,Phenotypes
+1700008P02Rik,Uncharacterized protein,,miR-30e-5p; miR-30a-5p,increased total body fat amount
+A830018L16Rik,A830018L16Rik protein,,miR-340-5p; miR-376b-5p,increased fasting circulating glucose level
+Aak1,AP2-associated protein kinase 1,Kinase,miR-205-5p; miR-182-5p; miR-101b-3p,impaired glucose tolerance
+Aasdhppt,L-aminoadipate-semialdehyde dehydrogenase-phosphopantetheinyl transferase,Enzyme,miR-101b-3p,improved glucose tolerance
+Abcc5,ATP-binding cassette sub-family C member 5,Transporter,miR-101b-3p,impaired glucose tolerance
+Ablim1,Actin-binding LIM protein 1,,miR-146a-5p,increased lean body mass
+Acadvl,"Very long-chain specific acyl-CoA dehydrogenase, mitochondrial",Enzyme,miR-124-3p,impaired glucose tolerance
+Acbd5,Acyl-CoA-binding domain-containing protein 5,,miR-19b-3p; miR-19a-3p,increased lean body mass; improved glucose tolerance
+Acsl4,Long-chain-fatty-acid--CoA ligase 4,Enzyme,miR-340-5p; miR-19b-3p; miR-19a-3p; miR-101b-3p; miR-145a-5p,increased total body fat amount
+Adamts15,A disintegrin and metalloproteinase with thrombospondin motifs 15,Peptidase,miR-136-5p,increased circulating insulin level
+Adcy1,Adenylate cyclase type 1,Enzyme,miR-124-3p; miR-19b-3p; miR-19a-3p; miR-337-3p,improved glucose tolerance
+Adcy9,Adenylate cyclase type 9,Enzyme,miR-124-3p; miR-19b-3p; miR-19a-3p,increased circulating insulin level
+Adgrf5,Adhesion G protein-coupled receptor F5,G-protein coupled receptor,miR-101b-3p,impaired glucose tolerance
+Adpgk,ADP-dependent glucokinase,Kinase,miR-145a-5p,increased lean body mass
+Adra2a,Alpha-2A adrenergic receptor,G-protein coupled receptor,miR-30e-5p; miR-182-5p; miR-30a-5p,improved glucose tolerance
+Afap1l2,Actin filament-associated protein 1-like 2,,miR-30e-5p; miR-30a-5p,improved glucose tolerance
+Akap13,A-kinase anchor protein 13,,miR-143-3p; miR-101b-3p,improved glucose tolerance
+Akap9,A-kinase anchor protein 9,,miR-133b-3p,increased lean body mass
+Akt2,RAC-beta serine/threonine-protein kinase,Kinase,miR-124-3p,increased lean body mass; increased circulating glucose level
+Alg2,Programmed cell death protein 6,Enzyme,miR-124-3p,increased circulating insulin level
+Ampd3,AMP deaminase 3,Enzyme,miR-143-3p,increased lean body mass
+Ankhd1,Ankyrin repeat and KH domain containing 1,,miR-30e-5p; miR-30a-5p,increased circulating insulin level
+Ankib1,Ankyrin repeat and IBR domain-containing protein 1,Transcription regulator,miR-340-5p; miR-182-5p; miR-19b-3p; miR-19a-3p,increased fasting circulating glucose level
+Ankrd10,Ankyrin repeat domain-containing protein 10,Transcription regulator,miR-124-3p; miR-337-3p,increased total body fat amount
+Ap1g1,AP-1 complex subunit gamma-1,,miR-205-5p; miR-101b-3p; miR-145a-5p; miR-337-3p,increased total body fat amount
+Ap2a1,AP-2 complex subunit alpha-1,Transporter,miR-30e-5p; miR-30a-5p,improved glucose tolerance
+Ap3s1,AP-3 complex subunit sigma-1,Transporter,miR-30e-5p; miR-101b-3p; miR-30a-5p,increased fasting circulating glucose level
+Ap4e1,AP-4 complex subunit epsilon-1,,miR-340-5p; miR-30e-5p; miR-30a-5p,increased lean body mass; impaired glucose tolerance
+Apmap,Adipocyte plasma membrane-associated protein,Enzyme,miR-146a-5p,increased total body fat amount
+Arel1,Apoptosis-resistant E3 ubiquitin protein ligase 1,Enzyme,miR-205-5p; miR-182-5p; miR-145a-5p,increased fasting circulating glucose level
+Arhgap17,Rho GTPase-activating protein 17,,miR-124-3p,improved glucose tolerance
+Arhgap21,Rho GTPase-activating protein 21,,miR-183-5p; miR-19b-3p; miR-19a-3p; miR-145a-5p,increased total body fat amount
+Arhgef4,Rho guanine nucleotide exchange factor 4,,miR-124-3p,increased lean body mass
+Arid3a,AT-rich interactive domain-containing protein 3A,Transcription regulator,miR-30e-5p; miR-30a-5p; miR-874-5p,increased circulating insulin level
+Arid4b,AT-rich interactive domain-containing protein 4B,Transcription regulator,miR-30e-5p; miR-101b-3p; miR-19b-3p; miR-19a-3p; miR-30a-5p,increased lean body mass
+Arl8b,ADP-ribosylation factor-like protein 8B,Enzyme,miR-30e-5p; miR-19b-3p; miR-19a-3p; miR-30a-5p,increased fasting circulating glucose level
+Arsj,Arylsulfatase J,Enzyme,miR-182-5p; miR-101b-3p,increased lean body mass
+Asb7,Ankyrin repeat and SOCS box protein 7,,miR-340-5p; miR-19b-3p; miR-19a-3p,increased fasting circulating glucose level
+Ascc3,Activating signal cointegrator 1 complex subunit 3,Enzyme,miR-30e-5p; miR-30a-5p,increased total body fat amount
+Ash1l,Histone-lysine N-methyltransferase ASH1L,Enzyme,miR-340-5p; miR-133b-3p,increased fasting circulating glucose level
+Aspa,Aspartoacylase,Enzyme,miR-124-3p,increased fasting circulating glucose level
+Atf2,Cyclic AMP-dependent transcription factor ATF-2,Transcription regulator,miR-340-5p; miR-183-5p; miR-19b-3p; miR-19a-3p; miR-101b-3p,increased fasting circulating glucose level
+Atl2,Atlastin-2,,miR-183-5p; miR-30e-5p; miR-19b-3p; miR-19a-3p; miR-30a-5p,increased total body fat amount
+Atp13a3,Polyamine-transporting ATPase 13A3,Transporter,miR-340-5p; miR-183-5p,improved glucose tolerance
+Atp2a2,Sarcoplasmic/endoplasmic reticulum calcium ATPase 2,Transporter,miR-30e-5p; miR-30a-5p; miR-376a-3p,increased fasting circulating glucose level
+Atp6v0b,V-type proton ATPase 21 kDa proteolipid subunit c'',Transporter,miR-337-3p,increased total body fat amount
+Atp8b4,Phospholipid-transporting ATPase (EC 7.6.2.1),Transporter,miR-196a-5p; miR-19b-3p; miR-19a-3p,decreased lean body mass
+AU040320,Expressed sequence AU040320,,miR-145a-5p,increased total body fat amount
+Bach1,Transcription regulator protein BACH1,Transcription regulator,miR-196a-5p; miR-30e-5p; miR-30a-5p,increased fasting circulating glucose level
+Baz2b,Bromodomain adjacent to zinc finger domain protein 2B,,miR-30e-5p; miR-124-3p; miR-101b-3p; miR-30a-5p,increased total body fat amount
+Bbs2,BBSome complex member BBS2,,miR-136-5p,decreased lean body mass
+Bbx,HMG box transcription factor BBX,Transcription regulator,miR-101b-3p; miR-19b-3p; miR-19a-3p,increased total body fat amount
+Bckdhb,"2-oxoisovalerate dehydrogenase subunit beta, mitochondrial",Enzyme,miR-141-5p,increased total body fat amount
+Bcl11b,B-cell lymphoma/leukemia 11B,Transcription regulator,miR-124-3p,increased fasting circulating glucose level
+Becn1,Beclin-1,,miR-30e-5p; miR-30a-5p,increased total body fat amount
+Bicral,BRD4-interacting chromatin-remodeling complex-associated protein-like,,miR-340-5p,increased total body fat amount
+Blcap,Apoptosis inducing factor BLCAP,,miR-340-5p,increased fasting circulating glucose level
+Bloc1s6,Biogenesis of lysosome-related organelles complex 1 subunit 6,,miR-124-3p,improved glucose tolerance
+Bnip3,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,,miR-182-5p; miR-145a-5p,impaired glucose tolerance; increased circulating insulin level
+Brms1l,Breast cancer metastasis-suppressor 1-like protein,,miR-182-5p; miR-183-5p,increased total body fat amount
+Btbd7,BTB/POZ domain-containing protein 7,,miR-340-5p; miR-19b-3p; miR-19a-3p,decreased lean body mass
+Btbd9,BTB/POZ domain-containing protein 9,,miR-141-5p,increased fasting circulating glucose level
+Btg2,Protein BTG2,Transcription regulator,miR-146a-5p; miR-124-3p,increased fasting circulating glucose level
+C9orf72,Guanine nucleotide exchange factor C9orf72 homolog,,miR-30e-5p; miR-124-3p; miR-30a-5p,increased lean body mass
+Cacna2d1,Voltage-dependent calcium channel subunit alpha-2/delta-1,Ion channel,miR-340-5p; miR-182-5p; miR-101b-3p,impaired glucose tolerance
+Cacna2d2,Voltage-dependent calcium channel subunit alpha-2/delta-2,Ion channel,miR-182-5p; miR-874-5p,increased lean body mass
+Cacnb2,Voltage-dependent L-type calcium channel subunit beta-2,Ion channel,miR-30e-5p; miR-30a-5p,impaired glucose tolerance
+Camk1,Calcium/calmodulin-dependent protein kinase type 1,Kinase,miR-141-5p,increased lean body mass
+Camk1d,Calcium/calmodulin-dependent protein kinase type 1D,Kinase,miR-145a-5p; miR-337-3p,increased total body fat amount
+Camk2b,Calcium/calmodulin-dependent protein kinase type II subunit beta,Kinase,miR-874-5p,improved glucose tolerance
+Cand1,Cullin-associated NEDD8-dissociated protein 1,Transcription regulator,miR-30e-5p; miR-19b-3p; miR-19a-3p; miR-30a-5p,increased fasting circulating glucose level
+Cand2,Cullin-associated NEDD8-dissociated protein 2,Transcription regulator,miR-124-3p,increased lean body mass
+Cbx4,E3 SUMO-protein ligase CBX4,Transcription regulator,miR-136-5p,increased total body fat amount
+Cbx6,Chromobox protein homolog 6,,miR-19b-3p; miR-19a-3p; miR-296-5p; miR-141-5p; miR-874-5p,increased lean body mass
+Ccdc103,Dynein axonemal assembly factor 19,,miR-124-3p,increased total body fat amount
+Ccdc116,Coiled-coil domain-containing protein 116,,miR-101b-3p,impaired glucose tolerance
+Ccdc120,Coiled-coil domain-containing protein 120,,miR-30e-5p; miR-30a-5p,increased fasting circulating glucose level
+Ccdc127,Coiled-coil domain-containing protein 127,,miR-337-3p,increased lean body mass
+Ccdc25,Coiled-coil domain-containing protein 25,,miR-145a-5p,impaired glucose tolerance
+Ccdc93,Coiled-coil domain-containing protein 93,,miR-205-5p,increased total body fat amount
+Ccnd2,G1/S-specific cyclin-D2,,miR-124-3p; miR-19b-3p; miR-19a-3p,increased lean body mass; impaired glucose tolerance
+Cdc27,Cell division cycle protein 27 homolog,,miR-205-5p,increased total body fat amount
+Cdh19,"Cadherin 19, type 2",,miR-182-5p,decreased lean body mass
+Cdkn1b,Cyclin-dependent kinase inhibitor 1B,,miR-196a-5p; miR-141-5p,increased fasting circulating glucose level
+Celf4,CUGBP Elav-like family member 4,Translation regulator,miR-133b-3p; miR-30e-5p; miR-30a-5p,impaired glucose tolerance; increased circulating insulin level
+Celsr1,Cadherin EGF LAG seven-pass G-type receptor 1,G-protein coupled receptor,miR-182-5p,increased lean body mass
+Cep128,Centrosomal protein of 128 kDa,,miR-340-5p,improved glucose tolerance
+Cep250,Centrosome-associated protein CEP250,,miR-182-5p,increased total body fat amount
+Chd7,Chromodomain-helicase-DNA-binding protein 7,Enzyme,miR-30e-5p; miR-30a-5p,increased circulating glucose level
+Chmp3,Charged multivesicular body protein 3,,miR-205-5p,impaired glucose tolerance
+Chn1,N-chimaerin,,miR-205-5p; miR-182-5p,increased lean body mass
+Chrdl1,Chordin-like protein 1,,miR-30e-5p; miR-136-5p; miR-30a-5p; miR-337-3p,increased fasting circulating glucose level
+Chrnb2,Neuronal acetylcholine receptor subunit beta-2,Transmembrane receptor,miR-874-5p,increased total body fat amount
+Cisd2,CDGSH iron-sulfur domain-containing protein 2,,miR-340-5p,increased lean body mass
+Clcnkb,Chloride channel protein ClC-Kb,Ion channel,miR-337-3p,increased lean body mass; improved glucose tolerance
+Cmtr2,Cap-specific mRNA,Enzyme,miR-124-3p; miR-183-5p,increased lean body mass
+Cnep1r1,Nuclear envelope phosphatase-regulatory subunit 1,,miR-340-5p; miR-124-3p; miR-143-3p,decreased lean body mass
+Cnksr2,Connector enhancer of kinase suppressor of ras 2,,miR-19b-3p; miR-19a-3p,impaired glucose tolerance
+Cnot4,CCR4-NOT transcription complex subunit 4,Enzyme,miR-19b-3p; miR-19a-3p; miR-874-5p,increased total body fat amount
+Cnot7,CCR4-NOT transcription complex subunit 7,Transcription regulator,miR-136-5p; miR-19b-3p; miR-19a-3p,increased lean body mass
+Cobll1,Cordon-bleu protein-like 1,,miR-340-5p,increased lean body mass
+Cog3,Conserved oligomeric Golgi complex subunit 3,,miR-340-5p,increased circulating insulin level
+Cops7a,COP9 signalosome complex subunit 7a,,miR-143-3p,improved glucose tolerance
+Cpd,Carboxypeptidase D,Peptidase,miR-196a-5p; miR-340-5p; miR-124-3p; miR-146a-5p; miR-143-3p,impaired glucose tolerance
+Cs,"Citrate synthase, mitochondrial",Enzyme,miR-19b-3p; miR-19a-3p,impaired glucose tolerance
+Csmd3,CUB and sushi domain-containing protein 3,Enzyme,miR-340-5p; miR-145a-5p,increased lean body mass
+Ctdspl,CTD small phosphatase-like protein,,miR-183-5p; miR-124-3p; miR-101b-3p,impaired glucose tolerance
+Ctdspl2,CTD small phosphatase-like protein 2,Phosphatase,miR-340-5p; miR-146a-5p,increased lean body mass
+Ctif,CBP80/20-dependent translation initiation factor,,miR-874-5p,improved glucose tolerance
+Cyb561,Transmembrane ascorbate-dependent reductase CYB561,Enzyme,miR-133b-3p; miR-30e-5p; miR-182-5p; miR-30a-5p,increased total body fat amount
+Cygb,Cytoglobin,Transporter,miR-874-5p,increased lean body mass
+D630045J12Rik,RIKEN cDNA D630045J12 gene,,miR-30e-5p; miR-182-5p; miR-30a-5p,improved glucose tolerance
+Daam2,Disheveled-associated activator of morphogenesis 2,,miR-124-3p,increased fasting circulating glucose level
+Dbn1,Drebrin,,miR-19b-3p; miR-19a-3p; miR-874-5p,increased lean body mass; increased fasting circulating glucose level
+Dcun1d3,DCN1-like protein 3,,miR-340-5p; miR-30e-5p; miR-182-5p; miR-19b-3p; miR-19a-3p; miR-30a-5p,increased lean body mass; improved glucose tolerance
+Dcx,Neuronal migration protein doublecortin,,miR-340-5p; miR-30e-5p; miR-146a-5p; miR-30a-5p,increased circulating insulin level
+Ddhd1,Phospholipase DDHD1,Enzyme,miR-340-5p,increased lean body mass
+Dennd5b,DENN domain-containing protein 5B,,miR-182-5p; miR-145a-5p,increased lean body mass; improved glucose tolerance
+Depdc5,GATOR1 complex protein DEPDC5,,miR-136-5p,increased total body fat amount; impaired glucose tolerance
+Dgcr2,Integral membrane protein DGCR2/IDD,,miR-183-5p; miR-182-5p,impaired glucose tolerance
+Dgkd,Diacylglycerol kinase delta,Kinase,miR-340-5p,decreased lean body mass
+Dicer1,Endoribonuclease Dicer,Enzyme,miR-196a-5p; miR-19b-3p; miR-19a-3p,decreased lean body mass
+Dis3,Exosome complex exonuclease RRP44,Enzyme,miR-136-5p,impaired glucose tolerance
+Dlg2,Disks large homolog 2,Kinase,miR-340-5p; miR-205-5p,increased lean body mass
+Dlgap2,Disks large-associated protein 2,,miR-340-5p; miR-30e-5p; miR-30a-5p,increased fasting circulating glucose level
+Dlgap4,Disks large-associated protein 4,,miR-30e-5p; miR-30a-5p,increased lean body mass
+Dlk1,Protein delta homolog 1,,miR-143-3p,increased total body fat amount
+Dmd,Dystrophin,,miR-340-5p; miR-124-3p; miR-101b-3p,increased lean body mass
+Dmxl2,DmX-like protein 2,,miR-133b-3p; miR-205-5p; miR-19b-3p; miR-19a-3p; miR-101b-3p,increased total body fat amount
+Dnajc14,DnaJ homolog subfamily C member 14,,miR-133b-3p,increased lean body mass
+Dnajc5g,DnaJ heat shock protein family,,miR-205-5p,increased fasting circulating glucose level; increased circulating insulin level
+Dnmt3a,DNA,Enzyme,miR-30e-5p; miR-30a-5p,increased total body fat amount
+Dock9,Dedicator of cytokinesis protein 9,,miR-182-5p; miR-145a-5p,increased lean body mass
+Dpp9,Dipeptidyl peptidase 9,Peptidase,miR-340-5p,decreased lean body mass
+Dppa1,Developmental pluripotency associated 1,,miR-182-5p,increased lean body mass
+Duoxa2,Dual oxidase maturation factor 2,,miR-124-3p,increased total body fat amount; improved glucose tolerance
+Dusp3,Dual specificity protein phosphatase 3,Phosphatase,miR-124-3p,increased total body fat amount; increased circulating insulin level
+E2f3,Transcription factor E2F3,Transcription regulator,miR-30e-5p; miR-30a-5p,increased total body fat amount; impaired glucose tolerance
+Ebf2,Transcription factor COE2,Transcription regulator,miR-133b-3p; miR-205-5p; miR-30e-5p; miR-19b-3p; miR-19a-3p; miR-101b-3p; miR-30a-5p,impaired glucose tolerance
+Ech1,"Delta(3,5)-Delta(2,4)-dienoyl-CoA isomerase, mitochondrial",Enzyme,miR-874-5p,increased total body fat amount
+Edem1,ER degradation-enhancing alpha-mannosidase-like protein 1,Enzyme,miR-133b-3p; miR-124-3p,increased lean body mass
+Efna5,Ephrin-A5,Kinase,miR-124-3p,increased fasting circulating glucose level
+Efr3b,Protein EFR3 homolog B,,miR-874-5p,increased lean body mass; impaired glucose tolerance
+Egfem1,EGF-like and EMI domain-containing protein 1,,miR-205-5p,impaired glucose tolerance
+Ehmt1,Histone-lysine N-methyltransferase EHMT1,Enzyme,miR-101b-3p,increased lean body mass
+Eif1ad,Probable RNA-binding protein EIF1AD,,miR-124-3p,decreased lean body mass
+Eif4g2,Eukaryotic translation initiation factor 4 gamma 2,Translation regulator,miR-146a-5p; miR-19b-3p; miR-19a-3p; miR-101b-3p,impaired glucose tolerance
+Elk1,ETS domain-containing protein Elk-1,Transcription regulator,miR-296-5p,increased circulating insulin level
+Elk4,ETS domain-containing protein Elk-4,Transcription regulator,miR-124-3p; miR-141-5p,decreased lean body mass
+Elmo1,Engulfment and cell motility protein 1,,miR-182-5p; miR-145a-5p,increased lean body mass
+Elmod1,ELMO domain-containing protein 1,,miR-143-3p,increased lean body mass
+Elmod2,ELMO domain-containing protein 2,,miR-30e-5p; miR-19b-3p; miR-19a-3p; miR-30a-5p; miR-141-5p,increased total body fat amount
+Elovl5,Very long chain fatty acid elongase 5,Enzyme,miR-124-3p; miR-30e-5p; miR-19b-3p; miR-19a-3p; miR-101b-3p; miR-30a-5p,increased total body fat amount; improved glucose tolerance
+Emc3,ER membrane protein complex subunit 3,,miR-124-3p,increased total body fat amount
+Emx1,Homeobox protein EMX1,Transcription regulator,miR-874-5p,increased lean body mass
+Enox1,Ecto-NOX disulfide-thiol exchanger 1,Enzyme,miR-124-3p,increased total body fat amount
+Entpd1,Ectonucleoside triphosphate diphosphohydrolase 1,Enzyme,miR-136-5p; miR-376a-3p,increased lean body mass
+Epas1,Endothelial PAS domain-containing protein 1,Transcription regulator,miR-340-5p; miR-182-5p,increased total body fat amount
+Epb41l5,Band 4.1-like protein 5,,miR-30e-5p; miR-184-3p; miR-145a-5p; miR-30a-5p,increased lean body mass
+Epc1,Enhancer of polycomb homolog 1,Transcription regulator,miR-30e-5p; miR-101b-3p; miR-19b-3p; miR-19a-3p; miR-30a-5p,increased lean body mass
+Erlin1,Erlin-1,,miR-30e-5p; miR-101b-3p; miR-30a-5p; miR-145a-5p,decreased lean body mass
+Erp44,Endoplasmic reticulum resident protein 44,Enzyme,miR-340-5p; miR-183-5p,increased lean body mass
+Esco1,N-acetyltransferase ESCO1,Enzyme,miR-30e-5p; miR-30a-5p,increased lean body mass
+Exoc3,Exocyst complex component 3,Transporter,miR-136-5p,increased lean body mass
+Extl1,Exostosin-like 1,Enzyme,miR-145a-5p,increased total body fat amount
+F2,Prothrombin,Peptidase,miR-146a-5p,increased total body fat amount
+Fadd,FAS-associated death domain protein,,miR-124-3p,increased total body fat amount
+Fads1,Acyl-CoA,Enzyme,miR-133b-3p,improved glucose tolerance
+Fam117b,Protein FAM117B,,miR-133b-3p; miR-30e-5p; miR-30a-5p,increased lean body mass
+Fam120a,Constitutive coactivator of PPAR-gamma-like protein 1,,miR-136-5p,increased lean body mass
+Fam83a,Protein FAM83A,,miR-133b-3p,impaired glucose tolerance
+Fam83d,Protein FAM83D,,miR-19b-3p; miR-19a-3p,increased fasting circulating glucose level
+Far2,Fatty acyl-CoA reductase 2,Enzyme,miR-19b-3p; miR-19a-3p,increased fasting circulating glucose level
+Farp1,"FERM, ARHGEF and pleckstrin domain-containing protein 1",,miR-182-5p; miR-124-3p,increased fasting circulating glucose level
+Fastk,Fas-activated serine/threonine kinase,Kinase,miR-19b-3p; miR-19a-3p,improved glucose tolerance
+Fbxl3,F-box/LRR-repeat protein 3,Enzyme,miR-340-5p; miR-376b-5p; miR-101b-3p,decreased lean body mass
+Fbxo11,F-box only protein 11,Enzyme,miR-376b-5p; miR-141-5p,increased lean body mass; increased fasting circulating glucose level
+Fbxo30,F-box only protein 30,Enzyme,miR-340-5p; miR-133b-3p; miR-124-3p; miR-30e-5p; miR-19b-3p; miR-19a-3p; miR-30a-5p,improved glucose tolerance
+Fgf10,Fibroblast growth factor 10,Growth factor,miR-19b-3p; miR-19a-3p,increased total body fat amount
+Flnb,Filamin-B,,miR-182-5p; miR-145a-5p,increased total body fat amount
+Fnbp1l,Formin-binding protein 1-like,,miR-182-5p; miR-124-3p,increased lean body mass
+Fndc3a,Fibronectin type-III domain-containing protein 3A,,miR-30e-5p; miR-19b-3p; miR-19a-3p; miR-101b-3p; miR-30a-5p; miR-145a-5p,increased total body fat amount
+Fndc4,Fibronectin type III domain-containing protein 4,,miR-337-3p,increased fasting circulating glucose level
+Fnip1,Folliculin-interacting protein 1,,miR-196a-5p,improved glucose tolerance
+Fos,Protein c-Fos,Transcription regulator,miR-101b-3p,increased total body fat amount
+Foxo3,Forkhead box protein O3,Transcription regulator,miR-182-5p,impaired glucose tolerance
+Foxp1,Forkhead box protein P1,Transcription regulator,miR-183-5p; miR-19b-3p; miR-19a-3p,increased lean body mass
+Foxp2,Forkhead box protein P2,Transcription regulator,miR-133b-3p; miR-182-5p; miR-19b-3p; miR-19a-3p,increased body weight
+Frmd5,FERM domain-containing protein 5,,miR-182-5p; miR-183-5p; miR-143-3p,increased total body fat amount
+Fst,Follistatin,,miR-30e-5p; miR-30a-5p,increased total body fat amount
+Fut4,"Alpha-(1,3)-fucosyltransferase 4",Enzyme,miR-337-3p,increased total body fat amount
+Fyttd1,UAP56-interacting factor,,miR-182-5p,increased total body fat amount
+Fzd3,Frizzled-3,G-protein coupled receptor,miR-340-5p; miR-30e-5p; miR-182-5p; miR-376b-5p; miR-30a-5p; miR-337-3p,increased total body fat amount; impaired glucose tolerance
+G2e3,G2/M phase-specific E3 ubiquitin-protein ligase,Enzyme,miR-340-5p; miR-205-5p; miR-124-3p; miR-146a-5p; miR-30e-5p; miR-143-3p; miR-30a-5p,increased total body fat amount
+Gabra2,Gamma-aminobutyric acid receptor subunit alpha-2,Ion channel,miR-196a-5p,increased lean body mass
+Gad2,Glutamate decarboxylase 2,Enzyme,miR-182-5p,impaired glucose tolerance
+Galnt18,Polypeptide N-acetylgalactosaminyltransferase 18,Enzyme,miR-340-5p,increased lean body mass
+Gas7,Growth arrest-specific protein 7,,miR-196a-5p,increased total body fat amount
+Gclc,Glutamate--cysteine ligase catalytic subunit,Enzyme,miR-101b-3p,increased lean body mass
+Gda,Solute carrier family 25 member 16,Enzyme,miR-133b-3p; miR-19b-3p; miR-19a-3p; miR-141-5p,increased lean body mass
+Gdap2,Ganglioside-induced differentiation-associated protein 2,,miR-124-3p; miR-146a-5p,increased lean body mass
+Gdi2,Rab GDP dissociation inhibitor beta,,miR-136-5p; miR-101b-3p,impaired glucose tolerance
+Gfpt2,Glutamine--fructose-6-phosphate aminotransferase [isomerizing] 2,Enzyme,miR-30e-5p; miR-124-3p; miR-30a-5p,increased fasting circulating glucose level
+Ghrh,Somatoliberin,,miR-184-3p,increased total body fat amount; impaired glucose tolerance
+Gigyf2,GRB10-interacting GYF protein 2,,miR-30e-5p; miR-143-3p; miR-30a-5p,increased fasting circulating glucose level
+Gmeb2,Glucocorticoid modulatory element-binding protein 2,Transcription regulator,miR-30e-5p; miR-30a-5p,increased lean body mass
+Gmps,GMP synthase [glutamine-hydrolyzing],Enzyme,miR-146a-5p,increased total body fat amount
+Gngt2,Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-T2,Enzyme,miR-133b-3p,increased lean body mass; increased fasting circulating glucose level
+Gpbp1,Vasculin,Transcription regulator,miR-145a-5p,improved glucose tolerance
+Gpr22,G-protein coupled receptor 22,G-protein coupled receptor,miR-340-5p; miR-182-5p,increased lean body mass
+Gpr83,G-protein coupled receptor 83,G-protein coupled receptor,miR-337-3p,impaired glucose tolerance
+Gpx3,Glutathione peroxidase 3,Enzyme,miR-205-5p; miR-874-5p,impaired glucose tolerance
+Greb1l,GREB1-like protein,,miR-101b-3p,increased total body fat amount
+Grik4,"Glutamate receptor ionotropic, kainate 4",Ion channel,miR-874-5p,increased total body fat amount; impaired glucose tolerance
+Grm3,Metabotropic glutamate receptor 3,G-protein coupled receptor,miR-30e-5p; miR-30a-5p,increased total body fat amount; impaired glucose tolerance
+Gtf2a1,Transcription initiation factor IIA subunit 1,Transcription regulator,miR-196a-5p; miR-30e-5p; miR-124-3p; miR-19b-3p; miR-19a-3p; miR-30a-5p; miR-141-5p,increased total body fat amount
+Gulo,L-gulonolactone oxidase,Enzyme,miR-143-3p,decreased lean body mass
+Gys2,"Glycogen [starch] synthase, liver",Enzyme,miR-182-5p,increased total body fat amount
+Gzf1,GDNF-inducible zinc finger protein 1,Transcription regulator,miR-124-3p; miR-30e-5p; miR-30a-5p; miR-874-5p,increased total body fat amount
+Hbs1l,HBS1-like protein,Translation regulator,miR-30e-5p; miR-376b-5p; miR-19b-3p; miR-19a-3p; miR-30a-5p,improved glucose tolerance
+Hdgfl3,Hepatoma-derived growth factor-related protein 3,,miR-101b-3p,increased total body fat amount
+Heca,"Hdc homolog, cell cycle regulator",,miR-376b-5p; miR-146a-5p,increased total body fat amount
+Herc3,Hect domain and RLD 3,Enzyme,miR-205-5p; miR-340-5p,increased lean body mass
+Hipk3,Homeodomain-interacting protein kinase 3,Kinase,miR-205-5p; miR-124-3p; miR-146a-5p; miR-19b-3p; miR-19a-3p,increased fasting circulating glucose level
+Hsf5,Heat shock factor protein 5,Transcription regulator,miR-205-5p; miR-340-5p; miR-337-3p,increased total body fat amount; increased fasting circulating glucose level
+Hspb3,Heat shock protein beta-3,,miR-141-5p,increased fasting circulating glucose level
+Hyal6,Hyaluronidase,,miR-340-5p,impaired glucose tolerance
+Ide,Insulin-degrading enzyme,Peptidase,miR-340-5p; miR-30e-5p; miR-143-3p; miR-30a-5p,increased lean body mass
+Ifi205,Interferon-activable protein 205-A,,miR-101b-3p,increased fasting circulating glucose level
+Ifnar1,Interferon alpha/beta receptor 1,Transmembrane receptor,miR-145a-5p,improved glucose tolerance
+Igsf11,Immunoglobulin superfamily member 11,,miR-141-5p,increased fasting circulating glucose level
+Il31ra,Interleukin-31 receptor subunit alpha,Transmembrane receptor,miR-124-3p; miR-296-5p,increased total body fat amount
+Immp2l,Mitochondrial inner membrane protease subunit 2,Peptidase,miR-141-5p,decreased lean body mass
+Impact,Protein IMPACT,,miR-30e-5p; miR-30a-5p,increased fasting circulating glucose level
+Ing5,Inhibitor of growth protein 5,,miR-196a-5p,impaired glucose tolerance
+Ino80d,INO80 complex subunit D,,miR-340-5p; miR-30e-5p; miR-146a-5p; miR-124-3p; miR-182-5p; miR-101b-3p; miR-143-3p; miR-30a-5p; miR-141-5p,increased lean body mass
+Inpp5a,Inositol polyphosphate-5-phosphatase A,Phosphatase,miR-340-5p; miR-182-5p,increased total body fat amount
+Insig1,Insulin-induced gene 1 protein,,miR-182-5p; miR-145a-5p,impaired glucose tolerance
+Ipo11,Importin-11,,miR-296-5p,increased fasting circulating glucose level
+Irak2,Interleukin-1 receptor-associated kinase-like 2,Kinase,miR-136-5p,increased total body fat amount
+Itch,E3 ubiquitin-protein ligase Itchy,Enzyme,miR-19b-3p; miR-19a-3p,increased lean body mass
+Jakmip2,Janus kinase and microtubule interacting protein 2,,miR-30e-5p; miR-30a-5p,increased circulating glucose level
+Jmjd4,2-oxoglutarate and iron-dependent oxygenase JMJD4,Enzyme,miR-143-3p,increased lean body mass
+Kat2b,Histone acetyltransferase KAT2B,Enzyme,miR-205-5p; miR-340-5p,impaired glucose tolerance
+Kbtbd8,Kelch repeat and BTB domain-containing protein 8,,miR-30e-5p; miR-19b-3p; miR-19a-3p; miR-30a-5p,increased total body fat amount
+Kctd7,BTB/POZ domain-containing protein KCTD7,Ion channel,miR-30e-5p; miR-30a-5p,increased fasting circulating glucose level
+Kdm3a,Lysine-specific demethylase 3A,Transcription regulator,miR-30e-5p; miR-136-5p; miR-30a-5p,impaired glucose tolerance
+Kdm4c,Lysine-specific demethylase 4C,Enzyme,miR-340-5p,increased lean body mass
+Klhdc10,Kelch domain-containing protein 10,,miR-133b-3p; miR-337-3p,increased circulating glucose level
+Klhl42,Kelch-like protein 42,Enzyme,miR-146a-5p; miR-124-3p; miR-19b-3p; miR-19a-3p; miR-296-5p,increased lean body mass
+Kmt2a,Histone-lysine N-methyltransferase 2A,Enzyme,miR-205-5p; miR-182-5p; miR-136-5p; miR-376a-3p,increased lean body mass
+Krt75,"Keratin, type II cytoskeletal 75",,miR-182-5p; miR-145a-5p,increased total body fat amount
+Laptm4a,Lysosomal-associated transmembrane protein 4A,,miR-19b-3p; miR-19a-3p,increased fasting circulating glucose level
+Lcp1,Plastin-2,,miR-124-3p,increased fasting circulating glucose level
+Lepr,Leptin receptor gene-related protein,Transmembrane receptor,miR-30e-5p; miR-30a-5p,increased total body fat amount; increased circulating glucose level
+Leprot,Leptin receptor gene-related protein (Endospanin-1) (OB-R gene-related protein) (OB-RGRP),,miR-340-5p,increased lean body mass
+Letmd1,LETM1 domain-containing protein 1,,miR-101b-3p,increased total body fat amount; increased fasting circulating glucose level
+Lipe,Hormone-sensitive lipase,Enzyme,miR-124-3p,increased circulating insulin level
+Lmna,Prelamin-A/C [Cleaved into: Lamin-A/C],,miR-205-5p; miR-124-3p,improved glucose tolerance
+Lmod3,Leiomodin-3,,miR-205-5p,increased total body fat amount; improved glucose tolerance; increased circulating insulin level
+Lonrf2,LON peptidase N-terminal domain and ring finger 2,,miR-182-5p; miR-145a-5p,impaired glucose tolerance
+Lpar1,Lysophosphatidic acid receptor 1,G-protein coupled receptor,miR-205-5p,improved glucose tolerance
+Lpp,Lipoma-preferred partner homolog,,miR-124-3p; miR-30e-5p; miR-182-5p; miR-19b-3p; miR-19a-3p; miR-30a-5p,abnormal lean body mass
+Lrrc15,Leucine-rich repeat-containing protein 15,,miR-146a-5p,improved glucose tolerance
+Lrrk1,Leucine-rich repeat serine/threonine-protein kinase 1,Kinase,miR-182-5p; miR-19b-3p; miR-19a-3p,increased total body fat amount
+Macrod2,ADP-ribose glycohydrolase MACROD2,Enzyme,miR-340-5p,increased fasting circulating glucose level
+Magi2,"Membrane-associated guanylate kinase, WW and PDZ domain-containing protein 2",Enzyme,miR-205-5p; miR-376b-5p; miR-30e-5p; miR-19b-3p; miR-19a-3p; miR-101b-3p; miR-145a-5p; miR-30a-5p,increased body weight
+Map3k1,Mitogen-activated protein kinase kinase kinase 1,Kinase,miR-340-5p; miR-196a-5p; miR-124-3p; miR-136-5p; miR-19b-3p; miR-19a-3p,increased lean body mass
+Mbd6,Methyl-CpG-binding domain protein 6,,miR-19b-3p; miR-19a-3p; miR-337-3p; miR-874-5p,increased fasting circulating glucose level
+Mcmbp,Mini-chromosome maintenance complex-binding protein,,miR-340-5p,decreased lean body mass
+Mcu,"Calcium uniporter protein, mitochondrial",Ion channel,miR-124-3p,increased total body fat amount; increased fasting circulating glucose level
+Me1,NADP-dependent malic enzyme,Enzyme,miR-30e-5p; miR-30a-5p,improved glucose tolerance
+Mecom,Histone-lysine N-methyltransferase MECOM,Transcription regulator,miR-133b-3p; miR-182-5p; miR-19b-3p; miR-19a-3p,increased lean body mass
+Mical2,[F-actin]-monooxygenase MICAL2,Enzyme,miR-340-5p; miR-205-5p; miR-124-3p; miR-30e-5p; miR-183-5p; miR-30a-5p,decreased lean body mass
+Mindy2,Ubiquitin carboxyl-terminal hydrolase MINDY-2,Transporter,miR-101b-3p,increased total body fat amount
+Mlec,Malectin,,miR-874-5p,increased lean body mass
+Mllt3,Protein AF-9,Transcription regulator,miR-133b-3p; miR-124-3p; miR-136-5p,increased total body fat amount
+Mmaa,"Methylmalonic aciduria type A homolog, mitochondrial",Enzyme,miR-340-5p,increased total body fat amount; impaired glucose tolerance
+Mpdz,Multiple PDZ domain protein,,miR-101b-3p; miR-143-3p,improved glucose tolerance
+Mpzl2,Myelin protein zero-like protein 2,,miR-101b-3p; miR-145a-5p,increased total body fat amount
+Msi2,RNA-binding protein Musashi homolog 2,,miR-205-5p; miR-30e-5p; miR-143-3p; miR-30a-5p,increased total body fat amount
+Mta1,Metastasis-associated protein MTA1,Transcription regulator,miR-30e-5p; miR-30a-5p,increased total body fat amount
+Mturn,Maturin,,miR-182-5p,increased lean body mass
+Myh10,Myosin-10,Enzyme,miR-124-3p,increased fasting circulating glucose level
+Mylk4,Myosin light chain kinase family member 4,Kinase,miR-124-3p; miR-296-5p; miR-141-5p,increased total body fat amount
+Myo6,Unconventional myosin-VI,,miR-340-5p; miR-143-3p,increased lean body mass
+Mysm1,Deubiquitinase MYSM1,Enzyme,miR-340-5p,increased total body fat amount
+Naa10,N-alpha-acetyltransferase 10,Enzyme,miR-337-3p,increased lean body mass; improved glucose tolerance
+Nacc1,Nucleus accumbens-associated protein 1,Transcription regulator,miR-101b-3p,impaired glucose tolerance
+Nadk,NAD kinase,Kinase,miR-30e-5p; miR-30a-5p,increased lean body mass
+Natd1,increased lean body mass,,miR-124-3p,Lean/Body weight
+Nbea,Neurobeachin,,miR-19b-3p; miR-19a-3p,increased total body fat amount
+Nbr1,Next to BRCA1 gene 1 protein,,miR-340-5p,impaired glucose tolerance
+Ncald,Neurocalcin-delta,,miR-133b-3p; miR-182-5p; miR-30e-5p; miR-19a-3p; miR-19b-3p; miR-30a-5p,increased circulating insulin level
+Ncaph,Condensin complex subunit 2,,miR-376b-5p,increased lean body mass
+Ncoa1,Nuclear receptor coactivator 1,Transcription regulator,miR-340-5p,increased lean body mass
+Ncor2,Nuclear receptor corepressor 2,Transcription regulator,miR-184-3p,increased lean body mass
+Nedd4,E3 ubiquitin-protein ligase NEDD4,Enzyme,miR-30e-5p; miR-30a-5p,impaired glucose tolerance
+Neurl4,Neuralized-like protein 4,,miR-296-5p,increased lean body mass
+Nexmif,Neurite extension and migration factor,Enzyme,miR-340-5p; miR-182-5p; miR-143-3p,increased total body fat amount
+Nfat5,Nuclear factor of activated T-cells 5,Transcription regulator,miR-340-5p; miR-205-5p; miR-30e-5p; miR-146a-5p; miR-182-5p; miR-124-3p; miR-30a-5p; miR-337-3p,improved glucose tolerance
+Nhlh2,Helix-loop-helix protein 2,Transcription regulator,miR-340-5p; miR-376b-5p; miR-30e-5p; miR-30a-5p,increased total body fat amount; impaired glucose tolerance
+Nisch,Nischarin,,miR-136-5p,impaired glucose tolerance
+Nnt,"NAD(P) transhydrogenase, mitochondrial",Enzyme,miR-136-5p,increased circulating glucose level
+Notch3,Neurogenic locus notch homolog protein 3,Transcription regulator,miR-340-5p,improved glucose tolerance
+Nr2c2,Nuclear receptor subfamily 2 group C member 2,Ligand-dependent nuclear receptor,miR-196a-5p; miR-340-5p,impaired glucose tolerance
+Nras,GTPase NRas,Enzyme,miR-196a-5p; miR-124-3p; miR-145a-5p,increased circulating glucose level
+Nrcam,Neuronal cell adhesion molecule,,miR-340-5p; miR-182-5p,increased fasting circulating glucose level
+Nrsn1,Neurensin-1,,miR-143-3p,increased fasting circulating glucose level
+Nsd3,Histone-lysine N-methyltransferase NSD3,Transcription regulator,miR-182-5p; miR-30e-5p; miR-19b-3p; miR-19a-3p; miR-30a-5p,increased total body fat amount
+Nsun5,28S rRNA,Enzyme,miR-337-3p,increased fasting circulating glucose level
+Ntrk2,BDNF/NT-3 growth factors receptor,Kinase,miR-196a-5p; miR-124-3p,increased lean body mass
+Nucks1,Nuclear ubiquitous casein and cyclin-dependent kinase substrate 1,Transcription regulator,miR-340-5p,increased lean body mass
+Nudt13,"NAD(P)H pyrophosphatase NUDT13, mitochondrial",Enzyme,miR-182-5p,increased fasting circulating glucose level
+Nup205,Nucleoporin 205,,miR-340-5p,increased total body fat amount
+Nup37,Nucleoporin Nup37,Transporter,miR-101b-3p,increased lean body mass
+Nxn,Nucleoredoxin,Enzyme,miR-124-3p,increased fasting circulating glucose level
+Oaf,Out at first protein homolog,,miR-124-3p; miR-136-5p,increased lean body mass
+Ogfod1,Prolyl 3-hydroxylase OGFOD1,Enzyme,miR-30e-5p; miR-30a-5p,increased lean body mass
+Osbpl11,Oxysterol-binding protein-related protein 11,,miR-124-3p,increased total body fat amount; improved glucose tolerance
+Osbpl3,Oxysterol-binding protein-related protein 3,,miR-340-5p; miR-124-3p,increased lean body mass
+Pacs2,Phosphofurin acidic cluster sorting protein 2,,miR-337-3p,increased total body fat amount
+Palm,Lens fiber major intrinsic protein,,miR-124-3p,impaired glucose tolerance
+Papola,Poly(A) polymerase alpha,Enzyme,miR-30e-5p; miR-30a-5p,decreased lean body mass
+Parp1,Poly [ADP-ribose] polymerase 1,Enzyme,miR-146a-5p,increased fasting circulating glucose level
+Pbx3,Pre-B-cell leukemia transcription factor 3,Transcription regulator,miR-196a-5p; miR-101b-3p,increased total body fat amount
+Pcdh18,Protocadherin 18,,miR-182-5p; miR-101b-3p,increased lean body mass
+Pcdh8,Protocadherin-8,,miR-124-3p; miR-182-5p,impaired glucose tolerance
+Pcsk5,Proprotein convertase subtilisin/kexin type 5,Peptidase,miR-19b-3p; miR-19a-3p; miR-145a-5p,increased lean body mass; increased fasting circulating glucose level
+Pcx,"Pyruvate carboxylase, mitochondrial",,miR-182-5p; miR-143-3p,increased total body fat amount
+Pdcd6ip,Programmed cell death 6-interacting protein,,miR-141-5p,abnormal lean body mass
+Pde1a,"Dual specificity calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1A",Enzyme,miR-141-5p,increased lean body mass
+Pdzd8,PDZ domain-containing protein 8,,miR-182-5p,increased lean body mass
+Peak1,Inactive tyrosine-protein kinase PEAK1,Kinase,miR-133b-3p; miR-124-3p; miR-145a-5p,increased lean body mass
+Peli1,E3 ubiquitin-protein ligase pellino homolog 1,Enzyme,miR-340-5p; miR-30e-5p; miR-30a-5p,increased lean body mass; improved glucose tolerance
+Per2,Period circadian protein homolog 2,Transcription regulator,miR-30e-5p; miR-30a-5p,increased lean body mass
+Pfkfb2,"6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 2",Enzyme,miR-101b-3p; miR-337-3p,increased fasting circulating glucose level
+Pfn1,Profilin-1,,miR-182-5p,improved glucose tolerance
+Phf20l1,PHD finger protein 20-like protein 1,,miR-182-5p; miR-101b-3p,increased lean body mass
+Phf8,Histone lysine demethylase PHF8,Enzyme,miR-337-3p,improved glucose tolerance
+Pias2,E3 SUMO-protein ligase PIAS2,Transcription regulator,miR-205-5p; miR-183-5p,increased total body fat amount; increased circulating insulin level
+Pip4k2c,Phosphatidylinositol 5-phosphate 4-kinase type-2 gamma,Kinase,miR-124-3p,increased fasting circulating glucose level
+Pitpnc1,Cytoplasmic phosphatidylinositol transfer protein 1,Transporter,miR-340-5p,increased lean body mass; improved glucose tolerance
+Pitpnm1,Membrane-associated phosphatidylinositol transfer protein 1,Transporter,miR-296-5p,increased lean body mass
+Pld5,Inactive phospholipase D5,,miR-340-5p,decreased lean body mass
+Plxnb2,Plexin-B2,Transmembrane receptor,miR-124-3p,increased lean body mass
+Pnisr,Arginine/serine-rich protein PNISR,,miR-30e-5p; miR-30a-5p,decreased lean body mass
+Pold3,DNA polymerase delta subunit 3,Transcription regulator,miR-143-3p,increased circulating insulin level
+Pparg,Peroxisome proliferator-activated receptor gamma,Ligand-dependent nuclear receptor,miR-340-5p,increased total body fat amount; increased fasting circulating glucose level
+Ppp2r1b,Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A beta isoform,Phosphatase,miR-30e-5p; miR-124-3p; miR-143-3p; miR-30a-5p,increased fasting circulating glucose level
+Ppp2r2a,Serine/threonine-protein phosphatase 2A 55 kDa regulatory subunit B alpha isoform,Phosphatase,miR-183-5p; miR-136-5p; miR-101b-3p,decreased lean body mass
+Ppp2r5c,Serine/threonine-protein phosphatase 2A 56 kDa regulatory subunit gamma isoform,,miR-183-5p,increased total body fat amount
+Ppp3ca,Protein phosphatase 3 catalytic subunit alpha,Phosphatase,miR-205-5p; miR-30e-5p; miR-182-5p; miR-145a-5p; miR-30a-5p; miR-874-5p,increased body weight
+Ppp4r3b,Serine/threonine-protein phosphatase 4 regulatory subunit 3B,,miR-101b-3p,impaired glucose tolerance
+Ppp5c,Serine/threonine-protein phosphatase 5,Phosphatase,miR-296-5p,increased lean body mass
+Prc1,Protein regulator of cytokinesis 1,,miR-19b-3p; miR-19a-3p,increased total body fat amount
+Prg4,Phospholipid phosphatase-related protein type 2,,miR-146a-5p,improved glucose tolerance
+Prkch,Protein kinase C eta type,Kinase,miR-183-5p,increased lean body mass
+Prkd1,Serine/threonine-protein kinase D1,Kinase,miR-124-3p,increased circulating insulin level
+Prob1,Proline rich basic protein 1,,miR-337-3p,increased total body fat amount
+Prss35,Inactive serine protease 35,Peptidase,miR-19b-3p; miR-19a-3p,impaired glucose tolerance
+Pskh1,Serine/threonine-protein kinase H1,Kinase,miR-124-3p,improved glucose tolerance
+Pstpip2,Proline-serine-threonine phosphatase-interacting protein 2,,miR-141-5p,improved glucose tolerance
+Pth1r,Parathyroid hormone/parathyroid hormone-related peptide receptor,G-protein coupled receptor,miR-133b-3p,increased total body fat amount
+Pttg1ip,Pituitary tumor-transforming gene 1 protein-interacting protein,,miR-124-3p; miR-184-3p,increased total body fat amount
+Pum2,Pumilio homolog 2,,miR-340-5p,increased lean body mass
+Pxk,PX domain-containing protein kinase-like protein,Kinase,miR-874-5p,increased total body fat amount
+Rab11a,Ras-related protein Rab-11A,Enzyme,miR-340-5p; miR-124-3p,improved glucose tolerance
+Rab11fip1,Rab11 family-interacting protein 1,,miR-205-5p; miR-196a-5p; miR-124-3p,increased fasting circulating glucose level
+Rab15,Ras-related protein Rab-15,Enzyme,miR-30e-5p; miR-30a-5p,decreased circulating insulin level
+Rab23,Ras-related protein Rab-23,Enzyme,miR-30e-5p; miR-182-5p; miR-30a-5p,decreased lean body mass
+Rab28,Ras-related protein Rab-28,Enzyme,miR-101b-3p,increased total body fat amount
+Rab8a,Ras-related protein Rab-8A,Enzyme,miR-30e-5p; miR-30a-5p,decreased lean body mass
+Rabl6,Rab-like protein 6,,miR-30e-5p; miR-30a-5p,increased lean body mass
+Ranbp10,Ran-binding protein 10,,miR-124-3p,increased circulating glucose level
+Rbl1,Retinoblastoma-like protein 1,Transcription regulator,miR-182-5p; miR-124-3p; miR-146a-5p,improved glucose tolerance
+Rbms1,"RNA-binding motif, single-stranded-interacting protein 1",,miR-340-5p; miR-124-3p; miR-19b-3p; miR-19a-3p,decreased lean body mass; impaired glucose tolerance
+Rbmx,"RNA-binding motif protein, X chromosome",,miR-133b-3p,increased circulating insulin level
+Rbpj,Recombining binding protein suppressor of hairless,Transcription regulator,miR-133b-3p; miR-196a-5p,improved glucose tolerance
+Rbpms2,RNA-binding protein with multiple splicing 2,,miR-205-5p,increased total body fat amount
+Reg3d,Regenerating islet-derived 3 delta,,miR-143-3p,increased lean body mass
+Rfx6,DNA-binding protein RFX6,Enzyme,miR-340-5p; miR-30e-5p; miR-30a-5p,impaired glucose tolerance
+Rhbdd1,Rhomboid-related protein 4,Peptidase,miR-124-3p,decreased lean body mass
+Rilpl1,RILP-like protein 1,,miR-124-3p,increased fasting circulating glucose level
+Rilpl2,RILP-like protein 2,,miR-340-5p,increased fasting circulating glucose level
+Rnf169,E3 ubiquitin-protein ligase RNF169,,miR-30e-5p; miR-183-5p; miR-146a-5p; miR-376b-5p; miR-30a-5p,increased lean body mass
+Rnf216,E3 ubiquitin-protein ligase RNF216,Enzyme,miR-124-3p; miR-19b-3p; miR-19a-3p; miR-145a-5p,increased fasting circulating glucose level
+Rrbp1,Ribosome-binding protein 1,,miR-124-3p,increased lean body mass
+Rreb1,Ras-responsive element-binding protein 1,Transcription regulator,miR-124-3p; miR-183-5p; miR-145a-5p; miR-141-5p; miR-874-5p,increased lean body mass
+Rspo1,R-spondin-1,,miR-145a-5p,increased lean body mass
+Rspo4,R-spondin-4,,miR-296-5p,increased fasting circulating glucose level
+Rsu1,Ras suppressor protein 1,,miR-124-3p; miR-182-5p,increased total body fat amount
+Rufy2,RUN and FYVE domain-containing protein 2,,miR-205-5p; miR-146a-5p; miR-124-3p; miR-145a-5p,impaired glucose tolerance
+Runx2,Runt-related transcription factor 2,Transcription regulator,miR-205-5p; miR-30e-5p; miR-124-3p; miR-19b-3p; miR-19a-3p; miR-30a-5p,increased lean body mass
+Rwdd2a,RWD domain-containing protein 2A,,miR-133b-3p,decreased lean body mass
+S100b,Protein S100-B,,miR-337-3p,increased circulating glucose level
+Sap30,Histone deacetylase complex subunit SAP30,Transcription regulator,miR-30e-5p; miR-30a-5p,increased circulating glucose level
+Scarb2,Lysosome membrane protein 2,Transmembrane receptor,miR-340-5p,increased lean body mass
+Scml4,Sex comb on midleg-like protein 4,,miR-182-5p,increased circulating glucose level
+Sdc1,Syndecan-1,Enzyme,miR-19b-3p; miR-19a-3p,improved glucose tolerance
+Sebox,Homeobox protein SEBOX,Transcription regulator,miR-19b-3p; miR-19a-3p,increased fasting circulating glucose level
+Sec23a,Protein transport protein Sec23A,Transporter,miR-30e-5p; miR-30a-5p,increased lean body mass
+Sec24d,"SEC24 homolog D, COPII coat complex component",Transporter,miR-30e-5p; miR-30a-5p,impaired glucose tolerance
+Sec61b,Protein transport protein Sec61 subunit beta,Transporter,miR-133b-3p,increased circulating insulin level
+Secisbp2l,Selenocysteine insertion sequence-binding protein 2-like,,miR-340-5p; miR-376b-5p,increased lean body mass
+Selenok,Selenoprotein K,,miR-340-5p,increased total body fat amount
+Sema4d,Semaphorin-4D,Transmembrane receptor,miR-340-5p,increased total body fat amount
+Serinc2,Serine incorporator 2,Transporter,miR-124-3p,impaired glucose tolerance
+Sfrp2,Secreted frizzled-related protein 2,Transmembrane receptor,miR-101b-3p,decreased lean body mass
+Sfxn1,Sideroflexin-1,Transporter,miR-340-5p; miR-376b-5p; miR-145a-5p,increased fasting circulating glucose level
+Sfxn3,Sideroflexin-3,Transporter,miR-133b-3p,increased circulating insulin level
+Sgms1,Phosphatidylcholine:ceramide cholinephosphotransferase 1,Enzyme,miR-205-5p; miR-124-3p; miR-182-5p,increased lean body mass
+Shisa7,Protein shisa-7,,miR-183-5p,increased lean body mass
+Shisal1,Protein shisa-like-1,,miR-874-5p,increased fasting circulating glucose level
+Shtn1,Shootin-1,,miR-19b-3p; miR-19a-3p,decreased lean body mass
+Sik3,Serine/threonine-protein kinase SIK3,Kinase,miR-340-5p; miR-183-5p,increased lean body mass; improved glucose tolerance
+Sirpa,Tyrosine-protein phosphatase non-receptor type substrate 1,Phosphatase,miR-145a-5p,impaired glucose tolerance
+Siva1,Apoptosis regulatory protein Siva,,miR-340-5p; miR-19b-3p; miR-19a-3p,increased fasting circulating glucose level
+Skor1,SKI family transcriptional corepressor 1,Transcription regulator,miR-101b-3p,increased circulating glucose level
+Slc1a4,Neutral amino acid transporter A,Transporter,miR-124-3p; miR-143-3p; miR-874-5p,improved glucose tolerance
+Slc20a2,Sodium-dependent phosphate transporter 2,Transporter,miR-340-5p; miR-101b-3p,increased total body fat amount; impaired glucose tolerance
+Slc24a3,Sodium/potassium/calcium exchanger 3,Transporter,miR-19b-3p; miR-19a-3p,increased lean body mass
+Slc25a15,Mitochondrial ornithine transporter 1,Transporter,miR-136-5p,increased total body fat amount
+Slc25a21,Mitochondrial 2-oxodicarboxylate carrier,Transporter,miR-340-5p,increased total body fat amount
+Slc25a46,Mitochondrial outer membrane protein SLC25A46,,miR-196a-5p,increased circulating glucose level
+Slc26a2,Sulfate transporter,Transporter,miR-124-3p,impaired glucose tolerance
+Slc2a13,Proton myo-inositol cotransporter,Transporter,miR-340-5p; miR-101b-3p,impaired glucose tolerance
+Slc30a7,Zinc transporter 7,Transporter,miR-133b-3p; miR-340-5p; miR-124-3p; miR-30e-5p; miR-30a-5p,increased total body fat amount; impaired glucose tolerance
+Slc40a1,Ferroportin,Transporter,miR-124-3p,increased total body fat amount
+Slc50a1,Sugar transporter SWEET1,Transporter,miR-133b-3p; miR-124-3p,increased fasting circulating glucose level
+Slc6a2,Sodium-dependent noradrenaline transporter,Transporter,miR-143-3p,impaired glucose tolerance
+Slc7a11,Cystine/glutamate transporter,Transporter,miR-196a-5p; miR-30e-5p; miR-143-3p; miR-30a-5p,increased circulating glucose level
+Slitrk1,SLIT and NTRK-like protein 1,,miR-340-5p; miR-183-5p; miR-376b-5p,improved glucose tolerance
+Smagp,Small cell adhesion glycoprotein,,miR-874-5p,increased lean body mass
+Smc6,Structural maintenance of chromosomes protein 6,,miR-182-5p,increased total body fat amount
+Snap47,Synaptosomal-associated protein 47,,miR-182-5p,decreased lean body mass
+Spn,Leukosialin,Transmembrane receptor,miR-133b-3p; miR-184-3p,increased total body fat amount
+Spryd3,SPRY domain containing 3,,miR-19b-3p; miR-19a-3p,increased circulating insulin level
+Sptssb,Serine palmitoyltransferase small subunit B,Enzyme,miR-30e-5p; miR-30a-5p,increased fasting circulating glucose level
+Ss18,Protein SSXT,Transcription regulator,miR-183-5p; miR-101b-3p,increased circulating glucose level
+Ssbp2,Single-stranded DNA-binding protein 2,Transcription regulator,miR-340-5p,increased lean body mass
+Ssh2,Protein phosphatase Slingshot homolog 2,Phosphatase,miR-30e-5p; miR-145a-5p; miR-30a-5p,increased lean body mass
+Sst,Somatostatin [Cleaved into: Antrin; Somatostatin-28; Somatostatin-14; Neuronostatin,,miR-101b-3p,increased total body fat amount
+Steap3,Metalloreductase STEAP3,Transporter,miR-124-3p,impaired glucose tolerance
+Stim2,Stromal interaction molecule 2,Transporter,miR-30e-5p; miR-30a-5p; miR-145a-5p,increased lean body mass
+Stk38,Serine/threonine-protein kinase 38,Kinase,miR-124-3p; miR-19b-3p; miR-19a-3p,increased fasting circulating glucose level
+Stmn4,Stathmin-4,,miR-337-3p,improved glucose tolerance
+Strn3,Striatin-3,Transcription regulator,miR-340-5p; miR-143-3p; miR-101b-3p; miR-19b-3p; miR-19a-3p,increased fasting circulating glucose level
+Stx16,Syntaxin-16,Transporter,miR-340-5p; miR-101b-3p,increased lean body mass; improved glucose tolerance
+Stxbp1,Syntaxin-binding protein 1,Transporter,miR-146a-5p,impaired glucose tolerance
+Sun1,SUN domain-containing protein 1,,miR-340-5p; miR-145a-5p,increased total body fat amount
+Surf4,Surfeit locus protein 4,,miR-30e-5p; miR-30a-5p,impaired glucose tolerance
+Suv39h2,Histone-lysine N-methyltransferase SUV39H2,Transcription regulator,miR-340-5p; miR-124-3p,increased fasting circulating glucose level
+Swt1,Transcriptional protein SWT1,,miR-30e-5p; miR-30a-5p,increased total body fat amount; impaired glucose tolerance
+Syk,Tyrosine-protein kinase SYK,Kinase,miR-143-3p; miR-874-5p,increased total body fat amount
+Syncrip,Heterogeneous nuclear ribonucleoprotein Q,,miR-182-5p; miR-101b-3p,impaired glucose tolerance
+Syne2,Nesprin-2,,miR-182-5p,increased lean body mass
+Syt1,Synaptotagmin-1,Transporter,miR-133b-3p; miR-146a-5p; miR-183-5p; miR-19b-3p; miR-19a-3p,decreased lean body mass
+Sytl4,Synaptotagmin-like protein 4,Transporter,miR-30e-5p; miR-136-5p; miR-337-3p; miR-30a-5p,improved glucose tolerance
+Taf15,TATA-box binding protein associated factor 15,,miR-182-5p,increased fasting circulating glucose level
+Tanc2,Protein TANC2,Transcription regulator,miR-340-5p; miR-146a-5p; miR-376b-5p; miR-143-3p; miR-296-5p,impaired glucose tolerance
+Tbc1d2b,TBC1 domain family member 2B,,miR-30e-5p; miR-337-3p,increased lean body mass
+Tcf20,Transcription factor 20,Transcription regulator,miR-143-3p,increased total body fat amount; increased circulating insulin level
+Tcf7l2,Transcription factor 7-like 2,Transcription regulator,miR-182-5p,increased lean body mass
+Tead1,Transcriptional enhancer factor TEF-1,Transcription regulator,miR-205-5p; miR-133b-3p; miR-124-3p; miR-101b-3p,increased total body fat amount; impaired glucose tolerance
+Tenm4,Teneurin-4,,miR-182-5p,decreased lean body mass
+Tex261,Protein TEX261,,miR-124-3p,increased lean body mass
+Tfap4,Transcription factor AP4,Transcription regulator,miR-124-3p; miR-101b-3p,increased lean body mass
+Tfeb,Transcription factor EB,Transcription regulator,miR-124-3p,increased total body fat amount
+Thsd7a,"Thrombospondin type-1 domain-containing protein 7A [Cleaved into: Thrombospondin type-1 domain-containing protein 7A, soluble form]",,miR-340-5p; miR-101b-3p; miR-141-5p,decreased lean body mass
+Tifab,TRAF-interacting protein with FHA domain-containing protein B,,miR-874-5p,increased lean body mass
+Tle4,Transducin-like enhancer protein 4,Transcription regulator,miR-182-5p,increased total body fat amount; impaired glucose tolerance
+Tlk1,Serine/threonine-protein kinase tousled-like 1,Kinase,miR-340-5p,impaired glucose tolerance
+Tmem108,Transmembrane protein 108,,miR-340-5p,increased total body fat amount
+Tmem115,Transmembrane protein 115,,miR-182-5p,increased lean body mass
+Tmem129,E3 ubiquitin-protein ligase TM129,Enzyme,miR-124-3p,increased total body fat amount
+Tmem161b,Transmembrane protein 161B,,miR-376b-5p; miR-136-5p,increased total body fat amount
+Tmem240,Transmembrane protein 240,,miR-340-5p; miR-874-5p,increased fasting circulating glucose level
+Tmem248,Transmembrane protein 248,,miR-340-5p,increased lean body mass
+Tmem260,Protein O-mannosyl-transferase TMEM260,Enzyme,miR-182-5p,increased lean body mass
+Tmem9b,Transmembrane protein 9B,,miR-19b-3p; miR-19a-3p; miR-145a-5p,increased total body fat amount
+Tmprss2,Transmembrane protease serine 2,Peptidase,miR-196a-5p,improved glucose tolerance
+Tnks,Poly [ADP-ribose] polymerase tankyrase-1,Enzyme,miR-19b-3p; miR-19a-3p,increased lean body mass; increased fasting circulating glucose level
+Tns3,Tensin-3,Phosphatase,miR-182-5p,increased fasting circulating glucose level
+Topors,E3 ubiquitin-protein ligase Topors,Enzyme,miR-340-5p,increased total body fat amount; increased circulating glucose level
+Trappc10,Trafficking protein particle complex subunit 10,,miR-124-3p,increased total body fat amount; increased circulating insulin level
+Trim35,E3 ubiquitin-protein ligase TRIM35,,miR-205-5p,increased total body fat amount
+Trim37,E3 ubiquitin-protein ligase TRIM37,Enzyme,miR-182-5p,increased total body fat amount; improved glucose tolerance
+Trim39,E3 ubiquitin-protein ligase TRIM39,,miR-124-3p,increased fasting circulating glucose level
+Trio,Triple functional domain protein,Kinase,miR-182-5p; miR-30e-5p; miR-101b-3p; miR-145a-5p; miR-30a-5p,impaired glucose tolerance
+Tspan13,Tetraspanin-13,,miR-143-3p; miR-141-5p,increased total body fat amount
+Tspan18,Tetraspanin-18,,miR-196a-5p; miR-184-3p; miR-874-5p,increased fasting circulating glucose level
+Tspan9,Tetraspanin-9,,miR-182-5p,increased total body fat amount
+Ttbk1,Tau-tubulin kinase 2,Kinase,miR-30e-5p; miR-30a-5p,increased lean body mass; increased circulating glucose level
+Ttc7,Tetratricopeptide repeat protein 7A,,miR-124-3p,increased total body fat amount
+Tulp3,Tubby-related protein 3,,miR-124-3p,increased total body fat amount; impaired glucose tolerance
+Twf1,Twinfilin-1,Kinase,miR-30e-5p; miR-30a-5p,increased lean body mass
+Ube2d3,Ubiquitin-conjugating enzyme E2 D3,Enzyme,miR-30e-5p; miR-19b-3p; miR-19a-3p; miR-145a-5p; miR-30a-5p,decreased lean body mass
+Ube2j1,Ubiquitin-conjugating enzyme E2 J1,Enzyme,miR-30e-5p; miR-30a-5p,increased total body fat amount
+Ube2w,Ubiquitin-conjugating enzyme E2 W,Enzyme,miR-30e-5p; miR-145a-5p; miR-30a-5p,increased fasting circulating glucose level
+Ube3a,Ubiquitin-protein ligase E3A,Enzyme,miR-101b-3p; miR-141-5p,increased total body fat amount
+Ube3c,Ubiquitin-protein ligase E3C,Enzyme,miR-30e-5p; miR-30a-5p,increased total body fat amount
+Ube4a,Ubiquitin conjugation factor E4 A,Enzyme,miR-340-5p; miR-124-3p,increased total body fat amount; impaired glucose tolerance
+Uchl4,Ubiquitin carboxyl-terminal hydrolase isozyme L4,Peptidase,miR-101b-3p,increased fasting circulating glucose level
+Ufm1,Ubiquitin-fold modifier 1,,miR-101b-3p,increased total body fat amount
+Upf3b,UPF3 regulator of nonsense transcripts homolog B,Transporter,miR-124-3p,increased fasting circulating glucose level
+Urm1,Ubiquitin-related modifier 1,,miR-141-5p,impaired glucose tolerance
+Usp1,Ubiquitin carboxyl-terminal hydrolase 1,Peptidase,miR-340-5p; miR-124-3p,increased circulating insulin level
+Usp12,Ubiquitin carboxyl-terminal hydrolase 12,Peptidase,miR-296-5p,increased total body fat amount; impaired glucose tolerance
+Usp13,Ubiquitin carboxyl-terminal hydrolase 13,Peptidase,miR-340-5p; miR-182-5p; miR-874-5p,increased total body fat amount
+Usp15,Ubiquitin carboxyl-terminal hydrolase 15,Peptidase,miR-340-5p; miR-30e-5p; miR-101b-3p; miR-30a-5p; miR-296-5p,increased lean body mass; improved glucose tolerance
+Usp30,Ubiquitin carboxyl-terminal hydrolase 30,Peptidase,miR-124-3p,impaired glucose tolerance
+Usp31,ubiquitinyl hydrolase 1 (EC 3.4.19.12),Peptidase,miR-19b-3p; miR-19a-3p; miR-145a-5p,increased lean body mass; increased circulating glucose level
+Usp36,Ubiquitin carboxyl-terminal hydrolase 36,Peptidase,miR-337-3p,increased circulating glucose level
+Usp38,Ubiquitin carboxyl-terminal hydrolase 38,Peptidase,miR-124-3p; miR-101b-3p,increased total body fat amount
+Usp40,Ubiquitin carboxyl-terminal hydrolase 40,Peptidase,miR-101b-3p; miR-337-3p,increased total body fat amount
+Usp47,Ubiquitin carboxyl-terminal hydrolase 47,Peptidase,miR-340-5p; miR-30e-5p; miR-101b-3p; miR-30a-5p; miR-337-3p,increased circulating glucose level
+Vangl2,Vang-like protein 2,,miR-182-5p; miR-337-3p,increased circulating glucose level
+Vapb,Vesicle-associated membrane protein-associated protein B,,miR-133b-3p; miR-146a-5p; miR-143-3p; miR-19b-3p; miR-19a-3p; miR-337-3p,improved glucose tolerance
+Vdac1,Non-selective voltage-gated ion channel VDAC1,Ion channel,miR-183-5p,impaired glucose tolerance
+Vdr,Vitamin D3 receptor,Transcription regulator,miR-874-5p,increased lean body mass
+Vkorc1l1,Vitamin K epoxide reductase complex subunit 1-like protein 1,Enzyme,miR-30e-5p; miR-124-3p; miR-101b-3p; miR-30a-5p; miR-296-5p,increased lean body mass; increased fasting circulating glucose level
+Vps13b,Intermembrane lipid transfer protein VPS13B,Transporter,miR-146a-5p,increased total body fat amount; impaired glucose tolerance
+Vsig4,V-set and immunoglobulin domain containing 4,,miR-874-5p,increased lean body mass
+Vwa8,von Willebrand factor A domain-containing protein 8,Enzyme,miR-145a-5p,increased fasting circulating glucose level
+Washc4,WASH complex subunit 4,,miR-30e-5p; miR-30a-5p,increased fasting circulating glucose level
+Wdr37,WD repeat-containing protein 37,,miR-340-5p; miR-196a-5p; miR-136-5p,increased circulating insulin level
+Wdr6,tRNA,,miR-337-3p,improved glucose tolerance
+Xrcc5,X-ray repair cross-complementing protein 5,Enzyme,miR-340-5p,decreased lean body mass
+Xylb,Xylulose kinase,Kinase,miR-133b-3p,increased total body fat amount
+Ylpm1,YLP motif-containing protein 1,Transcription regulator,miR-101b-3p,increased total body fat amount; increased fasting circulating glucose level
+Ythdc2,3'-5' RNA helicase YTHDC2,Enzyme,miR-30e-5p; miR-30a-5p; miR-141-5p,increased total body fat amount
+Zcchc2,Zinc finger CCHC domain-containing protein 2,,miR-30e-5p; miR-101b-3p; miR-30a-5p,increased total body fat amount
+Zdhhc2,Palmitoyltransferase ZDHHC2,Enzyme,miR-182-5p; miR-124-3p; miR-141-5p,increased fasting circulating glucose level
+Zer1,Protein zer-1 homolog,,miR-182-5p; miR-874-5p,improved glucose tolerance
+Zfp202,Zinc finger protein 202,Transcription regulator,miR-141-5p,increased total body fat amount
+Zfp36,mRNA decay activator protein ZFP36,Transcription regulator,miR-182-5p,increased fasting circulating glucose level
+Zfp422,Zinc finger protein 22,,miR-136-5p,improved glucose tolerance
+Zfp462,Zinc finger protein 462,Transcription regulator,miR-196a-5p,increased total body fat amount; impaired glucose tolerance
+Zfp513,Zinc finger protein 513,Transcription regulator,miR-340-5p,increased circulating glucose level
+Zfp629,Zinc finger protein 629,Transcription regulator,miR-133b-3p,increased total body fat amount
+Zfp664,Zinc finger protein 664,Transcription regulator,miR-340-5p,impaired glucose tolerance
+Zfp746,Zinc finger protein 746,Transcription regulator,miR-30e-5p; miR-30a-5p; miR-337-3p,increased total body fat amount
+Zfp84,Zinc finger protein 84,,miR-337-3p,increased lean body mass
+Zhx3,Zinc fingers and homeoboxes protein 3,Transcription regulator,miR-205-5p; miR-133b-3p,increased lean body mass
+Zmym2,Zinc finger MYM-type protein 2,Transcription regulator,miR-183-5p; miR-101b-3p,increased total body fat amount

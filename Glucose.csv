@@ -1,0 +1,619 @@
+﻿Gene,Gene Name,Phenotype,Parameter
+Hsd17b8,(3R)-3-hydroxyacyl-CoA dehydrogenase,increased fasting circulating glucose level,Fasted blood glucose concentration
+Pdp1,"[Pyruvate dehydrogenase [acetyl-transferring]]-phosphatase 1, mitochondrial",improved glucose tolerance,Area under glucose response curve
+Agpat4,1-acyl-sn-glycerol-3-phosphate acyltransferase delta,increased fasting circulating glucose level,Fasted blood glucose concentration
+Plcz1,"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase zeta-1",increased fasting circulating glucose level,Fasted blood glucose concentration
+Nsun5,28S rRNA,increased fasting circulating glucose level,Fasted blood glucose concentration
+Haao,"3-hydroxyanthranilate 3,4-dioxygenase",increased circulating glucose level,Glucose
+Thap12,52 kDa repressor of the inhibitor of the protein kinase,increased circulating glucose level,Glucose
+Prkab1,5'-AMP-activated protein kinase subunit beta-1,impaired glucose tolerance,Initial response to glucose challenge
+Pfkfb2,"6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 2",increased fasting circulating glucose level,Fasted blood glucose concentration
+Abi2,Abl interactor 2,increased fasting circulating glucose level,Fasted blood glucose concentration
+Zfyve19,Abscission/NoCut checkpoint regulator,increased circulating glucose level,Glucose
+Afap1l2,Actin filament-associated protein 1-like 2,improved glucose tolerance,Initial response to glucose challenge
+Fads1,Acyl-CoA,improved glucose tolerance,Initial response to glucose challenge
+Acbd5,Acyl-CoA-binding domain-containing protein 5,improved glucose tolerance,Area under glucose response curve
+Acoxl,Acyl-coenzyme A oxidase-like protein,improved glucose tolerance,Initial response to glucose challenge
+Acyp1,Acylphosphatase-1,increased circulating glucose level,Glucose
+Adora2a,Adenosine receptor A2a,increased circulating glucose level,Glucose
+Adora2b,Adenosine receptor A2b,increased fasting circulating glucose level,Fasted blood glucose concentration
+Adcy1,Adenylate cyclase type 1,improved glucose tolerance,Area under glucose response curve
+Adgra1,Adhesion G protein-coupled receptor A1,improved glucose tolerance,Area under glucose response curve
+Adgrf5,Adhesion G protein-coupled receptor F5,impaired glucose tolerance,Initial response to glucose challenge
+Slc25a4,ADP/ATP translocase 1,improved glucose tolerance,Area under glucose response curve
+Macrod2,ADP-ribose glycohydrolase MACROD2,increased fasting circulating glucose level,Fasted blood glucose concentration
+Arl8b,ADP-ribosylation factor-like protein 8B,increased fasting circulating glucose level,Fasted blood glucose concentration
+Akap13,A-kinase anchor protein 13,improved glucose tolerance,Initial response to glucose challenge
+Abhd17a,Alpha/beta hydrolase domain-containing protein 17A,improved glucose tolerance,Area under glucose response curve
+Adra2a,Alpha-2A adrenergic receptor,improved glucose tolerance,Area under glucose response curve
+Snca,Alpha-synuclein,increased fasting circulating glucose level,Fasted blood glucose concentration
+Anapc7,Anaphase-promoting complex subunit 7,impaired glucose tolerance,Area under glucose response curve
+Angptl3,Angiopoietin-related protein 3,increased fasting circulating glucose level,Fasted blood glucose concentration
+Abtb1,Ankyrin repeat and BTB/POZ domain-containing protein 1,increased fasting circulating glucose level,Fasted blood glucose concentration
+Ankib1,Ankyrin repeat and IBR domain-containing protein 1,increased fasting circulating glucose level,Fasted blood glucose concentration
+Asb7,Ankyrin repeat and SOCS box protein 7,increased fasting circulating glucose level,Fasted blood glucose concentration
+Atr,Anthrax toxin receptor 1,increased fasting circulating glucose level,Fasted blood glucose concentration
+Rigi,Antiviral innate immune response receptor RIG-I,impaired glucose tolerance,Area under glucose response curve
+Ap2a1,AP-2 complex subunit alpha-1,improved glucose tolerance,Initial response to glucose challenge
+Aak1,AP2-associated protein kinase 1,impaired glucose tolerance,Initial response to glucose challenge
+Ap3s1,AP-3 complex subunit sigma-1,increased fasting circulating glucose level,Fasted blood glucose concentration
+Ap4e1,AP-4 complex subunit epsilon-1,impaired glucose tolerance,Area under glucose response curve
+Apoc4,Apolipoprotein C-IV,impaired glucose tolerance,Initial response to glucose challenge
+Blcap,Apoptosis inducing factor BLCAP,increased fasting circulating glucose level,Fasted blood glucose concentration
+Siva1,Apoptosis regulatory protein Siva,increased fasting circulating glucose level,Fasted blood glucose concentration
+Aifm3,Apoptosis-inducing factor 3,increased fasting circulating glucose level,Fasted blood glucose concentration
+Arel1,Apoptosis-resistant E3 ubiquitin protein ligase 1,increased fasting circulating glucose level,Fasted blood glucose concentration
+Aqp1,Aquaporin-1,impaired glucose tolerance,Initial response to glucose challenge
+Cyp19a1,Aromatase,increased fasting circulating glucose level,Fasted blood glucose concentration
+Arrdc1,Arrestin domain-containing protein 1,increased fasting circulating glucose level,Fasted blood glucose concentration
+Aspa,Aspartoacylase,increased fasting circulating glucose level,Fasted blood glucose concentration
+Atp5mc2,"ATP synthase F(0) complex subunit C2, mitochondrial",increased fasting circulating glucose level,Fasted blood glucose concentration
+Atp5po,"ATP synthase peripheral stalk subunit OSCP, mitochondrial",improved glucose tolerance,Area under glucose response curve
+Abca7,ATP-binding cassette sub-family A member 7,increased fasting circulating glucose level,Fasted blood glucose concentration
+Abcc5,ATP-binding cassette sub-family C member 5,impaired glucose tolerance,Area under glucose response curve
+Abcd3,ATP-binding cassette sub-family D member 3,improved glucose tolerance,Area under glucose response curve
+Dhx29,ATP-dependent RNA helicase DHX29,impaired glucose tolerance,Initial response to glucose challenge
+Dhx30,ATP-dependent RNA helicase DHX30,increased fasting circulating glucose level,Fasted blood glucose concentration
+Kcnj11,ATP-sensitive inward rectifier potassium channel 11,impaired glucose tolerance,Area under glucose response curve
+Coq8b,"Atypical kinase COQ8B, mitochondrial",impaired glucose tolerance,Area under glucose response curve
+Bag2,BAG family molecular chaperone regulator 2,increased fasting circulating glucose level,Fasted blood glucose concentration
+Epb41l1,Band 4.1-like protein 1,improved glucose tolerance,Area under glucose response curve
+Bbs5,BBSome complex member BBS5,impaired glucose tolerance,Area under glucose response curve
+Bcl11b,B-cell lymphoma/leukemia 11B,increased fasting circulating glucose level,Fasted blood glucose concentration
+Bnip3,BCL2/adenovirus E1B 19 kDa protein-interacting protein 3,impaired glucose tolerance,Area under glucose response curve
+Eno3,Beta-enolase,impaired glucose tolerance,Area under glucose response curve
+Sncb,Beta-synuclein,impaired glucose tolerance,Initial response to glucose challenge
+Baat,Bile acid-CoA:amino acid N-acyltransferase,improved glucose tolerance,Area under glucose response curve
+Bloc1s6,Biogenesis of lysosome-related organelles complex 1 subunit 6,improved glucose tolerance,Initial response to glucose challenge
+Bola2,BolA-like protein 2,improved glucose tolerance,Initial response to glucose challenge
+Bmp10,Bone morphogenetic protein 10,improved glucose tolerance,Area under glucose response curve
+Bpifc,BPI fold-containing family C protein,impaired glucose tolerance,Area under glucose response curve
+Emsy,BRCA2-interacting transcriptional repressor EMSY,impaired glucose tolerance,Initial response to glucose challenge
+Bltp1,Bridge-like lipid transfer protein family member 1,impaired glucose tolerance,Initial response to glucose challenge
+Brd7,Bromodomain-containing protein 7,increased circulating glucose level,Glucose
+Tnfaip1,BTB/POZ domain-containing adapter for CUL3-mediated RhoA degradation protein 2,increased circulating glucose level,Glucose
+Btbd9,BTB/POZ domain-containing protein 9,increased fasting circulating glucose level,Fasted blood glucose concentration
+Kctd7,BTB/POZ domain-containing protein KCTD7,increased fasting circulating glucose level,Fasted blood glucose concentration
+Mcu,"Calcium uniporter protein, mitochondrial",increased fasting circulating glucose level,Fasted blood glucose concentration
+Camk2b,Calcium/calmodulin-dependent protein kinase type II subunit beta,improved glucose tolerance,Area under glucose response curve
+Cabp5,Calcium-binding protein 5,impaired glucose tolerance,Area under glucose response curve
+Capn11,Calpain-11,impaired glucose tolerance,Area under glucose response curve
+Capn12,Calpain-12,increased circulating glucose level,Glucose
+Carmil2,"Capping protein, Arp2/3 and myosin-I linker protein 2",increased circulating glucose level,Glucose
+Car13,Carbonic anhydrase 13,impaired glucose tolerance,Initial response to glucose challenge
+Cpd,Carboxypeptidase D,impaired glucose tolerance,Area under glucose response curve
+Cpe,Carboxypeptidase E,impaired glucose tolerance,Area under glucose response curve
+Csnk1g2,Casein kinase I isoform gamma-2,increased circulating glucose level,Glucose
+Casp4,Caspase-4,increased circulating glucose level,Glucose
+Ctsm,Cathepsin M,increased fasting circulating glucose level,Fasted blood glucose concentration
+Ctif,CBP80/20-dependent translation initiation factor,improved glucose tolerance,Initial response to glucose challenge
+Cibar1,CBY1-interacting BAR domain-containing protein 1,improved glucose tolerance,Area under glucose response curve
+Ccr9,C-C chemokine receptor type 9,impaired glucose tolerance,Area under glucose response curve
+Trnt1,"CCA tRNA nucleotidyltransferase 1, mitochondrial",increased circulating glucose level,Glucose
+Cnot3,CCR4-NOT transcription complex subunit 3,improved glucose tolerance,Area under glucose response curve
+Cdk5rap3,CDK5 regulatory subunit-associated protein 3,increased fasting circulating glucose level,Fasted blood glucose concentration
+Rad1,Cell cycle checkpoint protein RAD1,increased fasting circulating glucose level,Fasted blood glucose concentration
+Cdc20,Cell division cycle protein 20 homolog,improved glucose tolerance,Area under glucose response curve
+Lyar,Cell growth-regulating nucleolar protein,impaired glucose tolerance,Area under glucose response curve
+Cenpe,Centromere-associated protein E,increased fasting circulating glucose level,Fasted blood glucose concentration
+Cep57l1,Centrosomal protein CEP57L1,increased fasting circulating glucose level,Fasted blood glucose concentration
+Cep126,Centrosomal protein of 126 kDa,increased fasting circulating glucose level,Fasted blood glucose concentration
+Cep128,Centrosomal protein of 128 kDa,improved glucose tolerance,Area under glucose response curve
+Chmp3,Charged multivesicular body protein 3,impaired glucose tolerance,Area under glucose response curve
+Clcnkb,Chloride channel protein ClC-Kb,improved glucose tolerance,Area under glucose response curve
+Slc44a4,Choline transporter-like protein 4,increased fasting circulating glucose level,Fasted blood glucose concentration
+Chrdl1,Chordin-like protein 1,increased fasting circulating glucose level,Fasted blood glucose concentration
+Chd7,Chromodomain-helicase-DNA-binding protein 7,increased circulating glucose level,Glucose
+Chd8,Chromodomain-helicase-DNA-binding protein 8,impaired glucose tolerance,Initial response to glucose challenge
+Cs,"Citrate synthase, mitochondrial",impaired glucose tolerance,Area under glucose response curve
+Cldnd2,Claudin domain-containing protein 2,increased fasting circulating glucose level,Fasted blood glucose concentration
+Ccdc116,Coiled-coil domain-containing protein 116,impaired glucose tolerance,Initial response to glucose challenge
+Ccdc120,Coiled-coil domain-containing protein 120,increased fasting circulating glucose level,Fasted blood glucose concentration
+Ccdc25,Coiled-coil domain-containing protein 25,impaired glucose tolerance,Area under glucose response curve
+Ccdc66,Coiled-coil domain-containing protein 66,impaired glucose tolerance,Area under glucose response curve
+Col14a1,Collagen alpha-1(XIV) chain,impaired glucose tolerance,Area under glucose response curve
+Col18a1,Collagen alpha-1(XVIII) chain [Cleaved into: Endostatin; Non-collagenous domain 1,increased fasting circulating glucose level,Fasted blood glucose concentration
+Commd9,COMM domain-containing protein 9,impaired glucose tolerance,Initial response to glucose challenge
+C1qtnf5,Complement C1q tumor necrosis factor-related protein 5,increased fasting circulating glucose level,Fasted blood glucose concentration
+Cfb,Complement factor B,increased fasting circulating glucose level,Fasted blood glucose concentration
+Crx,Cone-rod homeobox protein,increased fasting circulating glucose level,Fasted blood glucose concentration
+Cnksr2,Connector enhancer of kinase suppressor of ras 2,impaired glucose tolerance,Area under glucose response curve
+Cops7a,COP9 signalosome complex subunit 7a,improved glucose tolerance,Area under glucose response curve
+Ctdspl,CTD small phosphatase-like protein,impaired glucose tolerance,Area under glucose response curve
+Celf4,CUGBP Elav-like family member 4,impaired glucose tolerance,Area under glucose response curve
+Cul4a,Cullin-4A,increased fasting circulating glucose level,Fasted blood glucose concentration
+Cand1,Cullin-associated NEDD8-dissociated protein 1,increased fasting circulating glucose level,Fasted blood glucose concentration
+Cxcr1,C-X-C chemokine receptor type 1,increased fasting circulating glucose level,Fasted blood glucose concentration
+Cxcr2,C-X-C chemokine receptor type 2,improved glucose tolerance,Area under glucose response curve
+Atf2,Cyclic AMP-dependent transcription factor ATF-2,increased fasting circulating glucose level,Fasted blood glucose concentration
+Cinp,Cyclin-dependent kinase 2-interacting protein,increased fasting circulating glucose level,Fasted blood glucose concentration
+Cdkn1b,Cyclin-dependent kinase inhibitor 1B,increased fasting circulating glucose level,Fasted blood glucose concentration
+Atg4b,Cysteine protease ATG4B,increased fasting circulating glucose level,Fasted blood glucose concentration
+Slc7a11,Cystine/glutamate transporter,increased circulating glucose level,Glucose
+Cox7c,"Cytochrome c oxidase subunit 7C, mitochondrial",increased fasting circulating glucose level,Fasted blood glucose concentration
+Cyp4b1,Cytochrome P450 4B1,increased fasting circulating glucose level,Fasted blood glucose concentration
+Cyp7b1,Cytochrome P450 7B1,impaired glucose tolerance,Initial response to glucose challenge
+Dync1h1,Cytoplasmic dynein 1 heavy chain 1,impaired glucose tolerance,Area under glucose response curve
+Pitpnc1,Cytoplasmic phosphatidylinositol transfer protein 1,improved glucose tolerance,Area under glucose response curve
+Nt5c1b,Cytosolic 5'-nucleotidase 1B,impaired glucose tolerance,Area under glucose response curve
+Dact3,Dapper homolog 3,improved glucose tolerance,Area under glucose response curve
+Dcun1d3,DCN1-like protein 3,improved glucose tolerance,Area under glucose response curve
+Dennd5b,DENN domain-containing protein 5B,improved glucose tolerance,Area under glucose response curve
+Dspp,Dentin sialophosphoprotein,improved glucose tolerance,Area under glucose response curve
+Dnase1l2,Deoxyribonuclease-1-like 2,increased fasting circulating glucose level,Fasted blood glucose concentration
+Dbil5,Diazepam-binding inhibitor-like 5,increased circulating glucose level,Glucose
+Ctbs,Di-N-acetylchitobiase,impaired glucose tolerance,Initial response to glucose challenge
+Dpp4,Dipeptidyl peptidase 4,improved glucose tolerance,Area under glucose response curve
+Dpp8,Dipeptidyl peptidase 8,impaired glucose tolerance,Area under glucose response curve
+Daam2,Disheveled-associated activator of morphogenesis 2,increased fasting circulating glucose level,Fasted blood glucose concentration
+Dlgap2,Disks large-associated protein 2,increased fasting circulating glucose level,Fasted blood glucose concentration
+Ercc5,DNA excision repair protein ERCC-5,increased fasting circulating glucose level,Fasted blood glucose concentration
+Pole2,DNA polymerase epsilon subunit 2,impaired glucose tolerance,Area under glucose response curve
+Rfx6,DNA-binding protein RFX6,impaired glucose tolerance,Area under glucose response curve
+Polr2f,"DNA-directed RNA polymerases I, II, and III subunit RPABC2",impaired glucose tolerance,Initial response to glucose challenge
+Dnajb3,DnaJ homolog subfamily B member 3,increased fasting circulating glucose level,Fasted blood glucose concentration
+Dnajb7,DnaJ homolog subfamily B member 7,increased fasting circulating glucose level,Fasted blood glucose concentration
+Dnajc15,DnaJ homolog subfamily C member 15,increased circulating glucose level,Glucose
+Dnajc30,"DnaJ homolog subfamily C member 30, mitochondrial",improved glucose tolerance,Area under glucose response curve
+Dpm2,Dolichol phosphate-mannose biosynthesis regulatory protein,impaired glucose tolerance,Area under glucose response curve
+Krtcap2,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit KCP2,impaired glucose tolerance,Area under glucose response curve
+Dbn1,Drebrin,increased fasting circulating glucose level,Fasted blood glucose concentration
+Dbnl,Drebrin-like protein,increased circulating glucose level,Glucose
+Duoxa2,Dual oxidase maturation factor 2,improved glucose tolerance,Area under glucose response curve
+Dusp8,Dual specificity protein phosphatase 8,impaired glucose tolerance,Area under glucose response curve
+Dynlrb2,Dynein light chain roadblock-type 2,increased fasting circulating glucose level,Fasted blood glucose concentration
+Dmwd,Dystrophia myotonica WD repeat-containing protein,increased fasting circulating glucose level,Fasted blood glucose concentration
+Trim25,E3 ubiquitin/ISG15 ligase TRIM25,impaired glucose tolerance,Initial response to glucose challenge
+Dtx1,E3 ubiquitin-protein ligase DTX1,increased circulating glucose level,Glucose
+Dtx4,E3 ubiquitin-protein ligase DTX4,impaired glucose tolerance,Area under glucose response curve
+Marchf2,E3 ubiquitin-protein ligase MARCHF2,impaired glucose tolerance,Area under glucose response curve
+Marchf3,E3 ubiquitin-protein ligase MARCHF3,increased fasting circulating glucose level,Fasted blood glucose concentration
+Marchf6,E3 ubiquitin-protein ligase MARCHF6,impaired glucose tolerance,Initial response to glucose challenge
+Nedd4,E3 ubiquitin-protein ligase NEDD4,impaired glucose tolerance,Area under glucose response curve
+Peli1,E3 ubiquitin-protein ligase pellino homolog 1,improved glucose tolerance,Area under glucose response curve
+Rnf10,E3 ubiquitin-protein ligase RNF10,improved glucose tolerance,Area under glucose response curve
+Rnf123,E3 ubiquitin-protein ligase RNF123,improved glucose tolerance,Area under glucose response curve
+Rnf216,E3 ubiquitin-protein ligase RNF216,increased fasting circulating glucose level,Fasted blood glucose concentration
+Topors,E3 ubiquitin-protein ligase Topors,increased circulating glucose level,Glucose
+Trim37,E3 ubiquitin-protein ligase TRIM37,improved glucose tolerance,Area under glucose response curve
+Trim39,E3 ubiquitin-protein ligase TRIM39,increased fasting circulating glucose level,Fasted blood glucose concentration
+Egfem1,EGF-like and EMI domain-containing protein 1,impaired glucose tolerance,Area under glucose response curve
+Evl,Ena/VASP-like protein,increased fasting circulating glucose level,Fasted blood glucose concentration
+Elapor1,Endosome/lysosome-associated apoptosis and autophagy regulator 1,increased circulating glucose level,Glucose
+Efna5,Ephrin-A5,increased fasting circulating glucose level,Fasted blood glucose concentration
+Slc29a1,Equilibrative nucleoside transporter 1,improved glucose tolerance,Area under glucose response curve
+Emc4,ER membrane protein complex subunit 4,increased fasting circulating glucose level,Fasted blood glucose concentration
+Eif4g1,Eukaryotic translation initiation factor 4 gamma 1,increased fasting circulating glucose level,Fasted blood glucose concentration
+Eif4g2,Eukaryotic translation initiation factor 4 gamma 2,impaired glucose tolerance,Area under glucose response curve
+Exosc3,Exosome complex component RRP40,increased fasting circulating glucose level,Fasted blood glucose concentration
+Dis3,Exosome complex exonuclease RRP44,impaired glucose tolerance,Initial response to glucose challenge
+Fastk,Fas-activated serine/threonine kinase,improved glucose tolerance,Initial response to glucose challenge
+Fbf1,Fas-binding factor 1,increased fasting circulating glucose level,Fasted blood glucose concentration
+Far2,Fatty acyl-CoA reductase 2,increased fasting circulating glucose level,Fasted blood glucose concentration
+Faah,Fatty-acid amide hydrolase 1,increased fasting circulating glucose level,Fasted blood glucose concentration
+Fbxo11,F-box only protein 11,increased fasting circulating glucose level,Fasted blood glucose concentration
+Fbxo2,F-box only protein 2,increased circulating glucose level,Glucose
+Fbxo30,F-box only protein 30,improved glucose tolerance,Area under glucose response curve
+Fbxl15,F-box/LRR-repeat protein 15,increased fasting circulating glucose level,Fasted blood glucose concentration
+Farp1,"FERM, ARHGEF and pleckstrin domain-containing protein 1",increased fasting circulating glucose level,Fasted blood glucose concentration
+Fhip2a,FHF complex subunit HOOK interacting protein 2A,impaired glucose tolerance,Initial response to glucose challenge
+Fgb,Fibrinogen beta chain [Cleaved into: Fibrinopeptide B; Fibrinogen beta chain],impaired glucose tolerance,Area under glucose response curve
+Fgl1,Fibrinogen-like protein 1,increased circulating glucose level,Glucose
+Fndc4,Fibronectin type III domain-containing protein 4,increased fasting circulating glucose level,Fasted blood glucose concentration
+Fshr,Follicle-stimulating hormone receptor,increased fasting circulating glucose level,Fasted blood glucose concentration
+Fnip1,Folliculin-interacting protein 1,improved glucose tolerance,Area under glucose response curve
+Fstl1,Follistatin-related protein 1,impaired glucose tolerance,Area under glucose response curve
+Foxo3,Forkhead box protein O3,impaired glucose tolerance,Area under glucose response curve
+Fzd3,Frizzled-3,impaired glucose tolerance,Area under glucose response curve
+Gpatch4,G patch domain-containing protein 4,increased fasting circulating glucose level,Fasted blood glucose concentration
+Ccnd2,G1/S-specific cyclin-D2,impaired glucose tolerance,Area under glucose response curve
+Galt,Galactose-1-phosphate uridylyltransferase,impaired glucose tolerance,Area under glucose response curve
+Gal3st1,Galactosylceramide sulfotransferase,improved glucose tolerance,Area under glucose response curve
+Depdc5,GATOR1 complex protein DEPDC5,impaired glucose tolerance,Area under glucose response curve
+Ggps1,Geranylgeranyl pyrophosphate synthase,impaired glucose tolerance,Area under glucose response curve
+Gcgr,Glucagon receptor,improved glucose tolerance,Initial response to glucose challenge
+Glp1r,Glucagon-like peptide 1 receptor,impaired glucose tolerance,Initial response to glucose challenge
+Gckr,Glucokinase regulatory protein,impaired glucose tolerance,Area under glucose response curve
+Gad2,Glutamate decarboxylase 2,impaired glucose tolerance,Area under glucose response curve
+Grik3,"Glutamate receptor ionotropic, kainate 3",increased fasting circulating glucose level,Fasted blood glucose concentration
+Grik4,"Glutamate receptor ionotropic, kainate 4",impaired glucose tolerance,Area under glucose response curve
+Gfpt2,Glutamine--fructose-6-phosphate aminotransferase [isomerizing] 2,increased fasting circulating glucose level,Fasted blood glucose concentration
+Gpx3,Glutathione peroxidase 3,impaired glucose tolerance,Area under glucose response curve
+Gdpd2,Glycerophosphoinositol inositolphosphodiesterase GDPD2,increased fasting circulating glucose level,Fasted blood glucose concentration
+Gsk3a,Glycogen synthase kinase-3 alpha,improved glucose tolerance,Initial response to glucose challenge
+Golga3,Golgin subfamily A member 3,impaired glucose tolerance,Area under glucose response curve
+Pigz,GPI mannosyltransferase 4,increased circulating glucose level,Glucose
+Gpn1,GPN-loop GTPase 1,increased circulating glucose level,Glucose
+Gpr15,G-protein coupled receptor 15,impaired glucose tolerance,Area under glucose response curve
+Gpr83,G-protein coupled receptor 83,impaired glucose tolerance,Initial response to glucose challenge
+Grhl3,Grainyhead-like protein 3 homolog,increased circulating glucose level,Glucose
+Gramd2b,GRAM domain-containing protein 2B,impaired glucose tolerance,Area under glucose response curve
+Gigyf2,GRB10-interacting GYF protein 2,increased fasting circulating glucose level,Fasted blood glucose concentration
+Gimap6,GTPase IMAP family member 6,impaired glucose tolerance,Area under glucose response curve
+Nras,GTPase NRas,increased circulating glucose level,Glucose
+Gng13,Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-13,increased circulating glucose level,Glucose
+Gngt2,Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-T2,increased fasting circulating glucose level,Fasted blood glucose concentration
+Gnl1,Guanine nucleotide-binding protein-like 1,impaired glucose tolerance,Area under glucose response curve
+Gbp2,Guanylate-binding protein 2,increased fasting circulating glucose level,Fasted blood glucose concentration
+Ush1c,Harmonin,improved glucose tolerance,Area under glucose response curve
+Hbs1l,HBS1-like protein,improved glucose tolerance,Area under glucose response curve
+Hsf5,Heat shock factor protein 5,increased fasting circulating glucose level,Fasted blood glucose concentration
+Hspb3,Heat shock protein beta-3,increased fasting circulating glucose level,Fasted blood glucose concentration
+Hspb6,Heat shock protein beta-6,increased fasting circulating glucose level,Fasted blood glucose concentration
+Nhlh2,Helix-loop-helix protein 2,impaired glucose tolerance,Initial response to glucose challenge
+Syncrip,Heterogeneous nuclear ribonucleoprotein Q,impaired glucose tolerance,Area under glucose response curve
+Hnrnpc,Heterogeneous nuclear ribonucleoproteins C1/C2,improved glucose tolerance,Area under glucose response curve
+Gck,Hexokinase-4,impaired glucose tolerance,Area under glucose response curve
+Mettl18,Histidine protein methyltransferase 1 homolog,impaired glucose tolerance,Initial response to glucose challenge
+Kat2b,Histone acetyltransferase KAT2B,impaired glucose tolerance,Area under glucose response curve
+Sap30,Histone deacetylase complex subunit SAP30,increased circulating glucose level,Glucose
+H1f8,Histone H1.8,improved glucose tolerance,Area under glucose response curve
+Phf8,Histone lysine demethylase PHF8,improved glucose tolerance,Initial response to glucose challenge
+Ash1l,Histone-lysine N-methyltransferase ASH1L,increased fasting circulating glucose level,Fasted blood glucose concentration
+Ezh1,Histone-lysine N-methyltransferase EZH1,increased circulating glucose level,Glucose
+Suv39h2,Histone-lysine N-methyltransferase SUV39H2,increased fasting circulating glucose level,Fasted blood glucose concentration
+Gbx1,Homeobox protein GBX-1,increased circulating glucose level,Glucose
+Hoxa2,Homeobox protein Hox-A2,improved glucose tolerance,Initial response to glucose challenge
+Meis3,Homeobox protein Meis3,impaired glucose tolerance,Area under glucose response curve
+Sebox,Homeobox protein SEBOX,increased fasting circulating glucose level,Fasted blood glucose concentration
+Hipk3,Homeodomain-interacting protein kinase 3,increased fasting circulating glucose level,Fasted blood glucose concentration
+Hunk,Hormonally up-regulated neu tumor-associated kinase,increased circulating glucose level,Glucose
+Hycc1,Hyccin,increased fasting circulating glucose level,Fasted blood glucose concentration
+Irgm1,Immunity-related GTPase family M protein 1,improved glucose tolerance,Area under glucose response curve
+Igsf11,Immunoglobulin superfamily member 11,increased fasting circulating glucose level,Fasted blood glucose concentration
+Igsf8,Immunoglobulin superfamily member 8,impaired glucose tolerance,Area under glucose response curve
+Ipo11,Importin-11,increased fasting circulating glucose level,Fasted blood glucose concentration
+Rhbdf2,Inactive rhomboid protein 2,increased circulating glucose level,Glucose
+Prss35,Inactive serine protease 35,impaired glucose tolerance,Area under glucose response curve
+Ing5,Inhibitor of growth protein 5,impaired glucose tolerance,Area under glucose response curve
+Irag1,"Inositol 1,4,5-triphosphate receptor associated 1",increased fasting circulating glucose level,Fasted blood glucose concentration
+Insig1,Insulin-induced gene 1 protein,impaired glucose tolerance,Area under glucose response curve
+Insyn2b,INSYN2B protein,increased circulating glucose level,Glucose
+Dgcr2,Integral membrane protein DGCR2/IDD,impaired glucose tolerance,Area under glucose response curve
+Ifnar1,Interferon alpha/beta receptor 1,improved glucose tolerance,Area under glucose response curve
+Ifi205,Interferon-activable protein 205-A,increased fasting circulating glucose level,Fasted blood glucose concentration
+Il10ra,Interleukin-10 receptor subunit alpha,improved glucose tolerance,Initial response to glucose challenge
+Il12b,Interleukin-12 subunit beta,impaired glucose tolerance,Initial response to glucose challenge
+Il15,Interleukin-15,impaired glucose tolerance,Area under glucose response curve
+Il2ra,Interleukin-2 receptor subunit alpha,improved glucose tolerance,Area under glucose response curve
+Kcnn4,Intermediate conductance calcium-activated potassium channel protein 4,increased fasting circulating glucose level,Fasted blood glucose concentration
+Vps13b,Intermembrane lipid transfer protein VPS13B,impaired glucose tolerance,Area under glucose response curve
+Iqcf1,IQ domain-containing protein F1,impaired glucose tolerance,Area under glucose response curve
+Iqsec3,IQ motif and SEC7 domain-containing protein 3,impaired glucose tolerance,Area under glucose response curve
+Ism1,Isthmin-1,improved glucose tolerance,Initial response to glucose challenge
+Klhdc10,Kelch domain-containing protein 10,increased circulating glucose level,Glucose
+Krt8,"Keratin, type II cytoskeletal 8",improved glucose tolerance,Initial response to glucose challenge
+Kifap3,Kinesin-associated protein 3,impaired glucose tolerance,Area under glucose response curve
+Kntc1,Kinetochore-associated protein 1,increased fasting circulating glucose level,Fasted blood glucose concentration
+Afmid,Kynurenine formamidase,increased circulating glucose level,Glucose
+Ky,Kyphoscoliosis peptidase,increased circulating glucose level,Glucose
+Aasdhppt,L-aminoadipate-semialdehyde dehydrogenase-phosphopantetheinyl transferase,improved glucose tolerance,Area under glucose response curve
+Mrpl39,Large ribosomal subunit protein mL39,increased circulating glucose level,Glucose
+Mrpl22,Large ribosomal subunit protein uL22m,increased fasting circulating glucose level,Fasted blood glucose concentration
+Ltbp2,Latent-transforming growth factor beta-binding protein 2,increased fasting circulating glucose level,Fasted blood glucose concentration
+Lmod3,Leiomodin-3,improved glucose tolerance,Area under glucose response curve
+Palm,Lens fiber major intrinsic protein,impaired glucose tolerance,Initial response to glucose challenge
+Lepr,Leptin receptor gene-related protein,increased circulating glucose level,Glucose
+Letmd1,LETM1 domain-containing protein 1,increased fasting circulating glucose level,Fasted blood glucose concentration
+Lrrc15,Leucine-rich repeat-containing protein 15,improved glucose tolerance,Area under glucose response curve
+Lrrc41,Leucine-rich repeat-containing protein 41,increased circulating glucose level,Glucose
+Cidec,Lipid transferase CIDEC,increased fasting circulating glucose level,Fasted blood glucose concentration
+Lbp,Lipopolysaccharide-binding protein,increased fasting circulating glucose level,Fasted blood glucose concentration
+Loricrin,Loricrin,improved glucose tolerance,Area under glucose response curve
+Brcc3dc,Lys-63-specific deubiquitinase BRCC36-like,impaired glucose tolerance,Area under glucose response curve
+Kdm3a,Lysine-specific demethylase 3A,impaired glucose tolerance,Area under glucose response curve
+Lpar1,Lysophosphatidic acid receptor 1,improved glucose tolerance,Area under glucose response curve
+Cyb561a3,Lysosomal membrane ascorbate-dependent ferrireductase CYB561A3,increased fasting circulating glucose level,Fasted blood glucose concentration
+Laptm4a,Lysosomal-associated transmembrane protein 4A,increased fasting circulating glucose level,Fasted blood glucose concentration
+Lamp5,Lysosome-associated membrane glycoprotein 5,increased fasting circulating glucose level,Fasted blood glucose concentration
+Loxl1,Lysyl oxidase homolog 1,increased fasting circulating glucose level,Fasted blood glucose concentration
+Mpp2,MAGUK p55 subfamily member 2,impaired glucose tolerance,Area under glucose response curve
+Mapkapk2,MAP kinase-activated protein kinase 2,increased circulating glucose level,Glucose
+Mlx,Max-like protein X,increased fasting circulating glucose level,Fasted blood glucose concentration
+Med11,Mediator of RNA polymerase II transcription subunit 11,increased fasting circulating glucose level,Fasted blood glucose concentration
+Mrap2,Melanocortin-2 receptor accessory protein 2,impaired glucose tolerance,Area under glucose response curve
+Mtnr1b,Melatonin receptor type 1B,improved glucose tolerance,Area under glucose response curve
+Mmgt2,Membrane magnesium transporter 2,impaired glucose tolerance,Initial response to glucose challenge
+Grm3,Metabotropic glutamate receptor 3,impaired glucose tolerance,Area under glucose response curve
+Steap3,Metalloreductase STEAP3,impaired glucose tolerance,Area under glucose response curve
+Mbd6,Methyl-CpG-binding domain protein 6,increased fasting circulating glucose level,Fasted blood glucose concentration
+Mmaa,"Methylmalonic aciduria type A homolog, mitochondrial",impaired glucose tolerance,Area under glucose response curve
+Ogn,Mimecan,increased fasting circulating glucose level,Fasted blood glucose concentration
+Mgme1,Mitochondrial genome maintenance exonuclease 1,improved glucose tolerance,Area under glucose response curve
+Slc25a18,Mitochondrial glutamate carrier 2,impaired glucose tolerance,Area under glucose response curve
+Dnajc19,Mitochondrial import inner membrane translocase subunit TIM14,increased circulating glucose level,Glucose
+Slc25a46,Mitochondrial outer membrane protein SLC25A46,increased circulating glucose level,Glucose
+Ccdc51,Mitochondrial potassium channel,increased fasting circulating glucose level,Fasted blood glucose concentration
+Mapkbp1,Mitogen-activated protein kinase-binding protein 1,impaired glucose tolerance,Area under glucose response curve
+Mocs2,Molybdopterin synthase catalytic subunit,increased fasting circulating glucose level,Fasted blood glucose concentration
+Zfp36,mRNA decay activator protein ZFP36,increased fasting circulating glucose level,Fasted blood glucose concentration
+Mpdz,Multiple PDZ domain protein,improved glucose tolerance,Initial response to glucose challenge
+Cd33,Myeloid cell surface antigen CD33,increased fasting circulating glucose level,Fasted blood glucose concentration
+Myh10,Myosin-10,increased fasting circulating glucose level,Fasted blood glucose concentration
+Myo3a,Myosin-IIIa,impaired glucose tolerance,Area under glucose response curve
+Nagk,N-acetyl-D-glucosamine kinase,increased fasting circulating glucose level,Fasted blood glucose concentration
+Nat8f2,N-acetyltransferase family 8 member 2,increased fasting circulating glucose level,Fasted blood glucose concentration
+Nnt,"NAD(P) transhydrogenase, mitochondrial",increased circulating glucose level,Glucose
+Nudt13,"NAD(P)H pyrophosphatase NUDT13, mitochondrial",increased fasting circulating glucose level,Fasted blood glucose concentration
+Ndufs3,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 3, mitochondrial",increased circulating glucose level,Glucose
+Me1,NADP-dependent malic enzyme,improved glucose tolerance,Area under glucose response curve
+Naa10,N-alpha-acetyltransferase 10,improved glucose tolerance,Initial response to glucose challenge
+Nae1,NEDD8-activating enzyme E1 regulatory subunit,increased fasting circulating glucose level,Fasted blood glucose concentration
+Nrsn1,Neurensin-1,increased fasting circulating glucose level,Fasted blood glucose concentration
+Nrxn1,Neurexin-1-beta,impaired glucose tolerance,Area under glucose response curve
+Notch3,Neurogenic locus notch homolog protein 3,improved glucose tolerance,Area under glucose response curve
+Nrcam,Neuronal cell adhesion molecule,increased fasting circulating glucose level,Fasted blood glucose concentration
+Hpca,Neuron-specific calcium-binding protein hippocalcin,impaired glucose tolerance,Initial response to glucose challenge
+Slc1a4,Neutral amino acid transporter A,improved glucose tolerance,Area under glucose response curve
+Nbr1,Next to BRCA1 gene 1 protein,impaired glucose tolerance,Area under glucose response curve
+Nisch,Nischarin,impaired glucose tolerance,Area under glucose response curve
+Vdac1,Non-selective voltage-gated ion channel VDAC1,impaired glucose tolerance,Area under glucose response curve
+Nrde2,Nuclear exosome regulator NRDE2,increased fasting circulating glucose level,Fasted blood glucose concentration
+Nfat5,Nuclear factor of activated T-cells 5,improved glucose tolerance,Area under glucose response curve
+Ncoa3,Nuclear receptor coactivator 3,impaired glucose tolerance,Area under glucose response curve
+Nr2c2,Nuclear receptor subfamily 2 group C member 2,impaired glucose tolerance,Initial response to glucose challenge
+Nol8,Nucleolar protein 8,increased fasting circulating glucose level,Fasted blood glucose concentration
+Nxn,Nucleoredoxin,increased fasting circulating glucose level,Fasted blood glucose concentration
+Nacc1,Nucleus accumbens-associated protein 1,impaired glucose tolerance,Area under glucose response curve
+Ociad1,OCIA domain-containing protein 1,impaired glucose tolerance,Area under glucose response curve
+Odad3,Outer dynein arm-docking complex subunit 3,impaired glucose tolerance,Area under glucose response curve
+Knl1,Outer kinetochore KNL1 complex subunit KNL1,impaired glucose tolerance,Area under glucose response curve
+Osbpl11,Oxysterol-binding protein-related protein 11,improved glucose tolerance,Initial response to glucose challenge
+Trip13,Pachytene checkpoint protein 2 homolog,increased fasting circulating glucose level,Fasted blood glucose concentration
+Pax5,Paired box protein Pax-5,impaired glucose tolerance,Initial response to glucose challenge
+Pald1,Paladin,impaired glucose tolerance,Area under glucose response curve
+Zdhhc2,Palmitoyltransferase ZDHHC2,increased fasting circulating glucose level,Fasted blood glucose concentration
+Pdx1,Pancreas/duodenum homeobox protein 1,impaired glucose tolerance,Area under glucose response curve
+Pard6a,Partitioning defective 6 homolog alpha,impaired glucose tolerance,Area under glucose response curve
+Pclaf,PCNA-associated factor,impaired glucose tolerance,Initial response to glucose challenge
+Pdlim4,PDZ and LIM domain protein 4,improved glucose tolerance,Area under glucose response curve
+Pcm1,Pericentriolar material 1 protein,impaired glucose tolerance,Area under glucose response curve
+Acox3,Peroxisomal acyl-coenzyme A oxidase 3,impaired glucose tolerance,Area under glucose response curve
+Pparg,Peroxisome proliferator-activated receptor gamma,increased fasting circulating glucose level,Fasted blood glucose concentration
+Phf5a,PHD finger-like domain-containing protein 5A,increased fasting circulating glucose level,Fasted blood glucose concentration
+Farsa,Phenylalanine--tRNA ligase alpha subunit,impaired glucose tolerance,Initial response to glucose challenge
+Pnmt,Phenylethanolamine N-methyltransferase,improved glucose tolerance,Area under glucose response curve
+Pip4k2c,Phosphatidylinositol 5-phosphate 4-kinase type-2 gamma,increased fasting circulating glucose level,Fasted blood glucose concentration
+Pigc,Phosphatidylinositol N-acetylglucosaminyltransferase subunit C,impaired glucose tolerance,Area under glucose response curve
+Mtmr3,"Phosphatidylinositol-3,5-bisphosphate 3-phosphatase MTMR3",impaired glucose tolerance,Area under glucose response curve
+Plaat3,Phospholipase A and acyltransferase 3,impaired glucose tolerance,Area under glucose response curve
+Prg4,Phospholipid phosphatase-related protein type 2,improved glucose tolerance,Area under glucose response curve
+Atp8a2,Phospholipid-transporting ATPase IB,increased circulating glucose level,Glucose
+Atp8b1,Phospholipid-transporting ATPase IC,improved glucose tolerance,Area under glucose response curve
+Pgbd5,PiggyBac transposable element-derived protein 5,impaired glucose tolerance,Area under glucose response curve
+Pitx3,Pituitary homeobox 3,increased fasting circulating glucose level,Fasted blood glucose concentration
+Lcp1,Plastin-2,increased fasting circulating glucose level,Fasted blood glucose concentration
+Plekha1,Pleckstrin homology domain-containing family A member 1,improved glucose tolerance,Area under glucose response curve
+Parp1,Poly [ADP-ribose] polymerase 1,increased fasting circulating glucose level,Fasted blood glucose concentration
+Tnks,Poly [ADP-ribose] polymerase tankyrase-1,increased fasting circulating glucose level,Fasted blood glucose concentration
+Atp13a3,Polyamine-transporting ATPase 13A3,improved glucose tolerance,Area under glucose response curve
+Pcgf1,Polycomb group RING finger protein 1,increased fasting circulating glucose level,Fasted blood glucose concentration
+Bves,Popeye domain-containing protein 1,improved glucose tolerance,Area under glucose response curve
+Prdm14,PR domain zinc finger protein 14,impaired glucose tolerance,Area under glucose response curve
+Prdm4,PR domain zinc finger protein 4,impaired glucose tolerance,Area under glucose response curve
+Prdm8,PR domain zinc finger protein 8,impaired glucose tolerance,Area under glucose response curve
+Psg22,Pregnancy-specific glycoprotein 22,increased fasting circulating glucose level,Fasted blood glucose concentration
+Lmna,Prelamin-A/C [Cleaved into: Lamin-A/C],improved glucose tolerance,Initial response to glucose challenge
+Setx,Probable helicase senataxin,improved glucose tolerance,Area under glucose response curve
+Pfn1,Profilin-1,improved glucose tolerance,Area under glucose response curve
+Pstpip2,Proline-serine-threonine phosphatase-interacting protein 2,improved glucose tolerance,Area under glucose response curve
+Pomc,Pro-opiomelanocortin,impaired glucose tolerance,Area under glucose response curve
+Pcsk5,Proprotein convertase subtilisin/kexin type 5,increased fasting circulating glucose level,Fasted blood glucose concentration
+Prss8,Prostasin,increased fasting circulating glucose level,Fasted blood glucose concentration
+Pate4,Prostate and testis expressed protein 4,increased fasting circulating glucose level,Fasted blood glucose concentration
+Abhd14a,Protein ABHD14A,improved glucose tolerance,Area under glucose response curve
+Prmt9,Protein arginine N-methyltransferase 9,improved glucose tolerance,Area under glucose response curve
+Btg2,Protein BTG2,increased fasting circulating glucose level,Fasted blood glucose concentration
+Ddi2,Protein DDI1 homolog 2,impaired glucose tolerance,Area under glucose response curve
+Efr3b,Protein EFR3 homolog B,impaired glucose tolerance,Initial response to glucose challenge
+Fam131a,Protein FAM131A,impaired glucose tolerance,Area under glucose response curve
+Fam163a,Protein FAM163A,improved glucose tolerance,Area under glucose response curve
+Fam184b,Protein FAM184B,increased circulating glucose level,Glucose
+Fam221a,Protein FAM221A,increased circulating glucose level,Glucose
+Fam83a,Protein FAM83A,impaired glucose tolerance,Initial response to glucose challenge
+Fam83d,Protein FAM83D,increased fasting circulating glucose level,Fasted blood glucose concentration
+Fam83h,Protein FAM83H,increased circulating glucose level,Glucose
+Ilrun,Protein ILRUN,impaired glucose tolerance,Area under glucose response curve
+Impact,Protein IMPACT,increased fasting circulating glucose level,Fasted blood glucose concentration
+Pacsin2,Protein kinase C and casein kinase substrate in neurons protein 2,increased fasting circulating glucose level,Fasted blood glucose concentration
+Mtss2,Protein MTSS 2,increased circulating glucose level,Glucose
+Ptch2,Protein patched homolog 2,increased fasting circulating glucose level,Fasted blood glucose concentration
+Ppp1r14a,Protein phosphatase 1 regulatory subunit 14A,increased fasting circulating glucose level,Fasted blood glucose concentration
+Ttll10,Protein polyglycylase TTLL10,impaired glucose tolerance,Area under glucose response curve
+S100b,Protein S100-B,increased circulating glucose level,Glucose
+Shisal1,Protein shisa-like-1,increased fasting circulating glucose level,Fasted blood glucose concentration
+Ss18,Protein SSXT,increased circulating glucose level,Glucose
+Tanc2,Protein TANC2,impaired glucose tolerance,Area under glucose response curve
+Zer1,Protein zer-1 homolog,improved glucose tolerance,Area under glucose response curve
+Eef2kmt,Protein-lysine N-methyltransferase EEF2KMT,impaired glucose tolerance,Area under glucose response curve
+Pcdh8,Protocadherin-8,impaired glucose tolerance,Area under glucose response curve
+Slc2a13,Proton myo-inositol cotransporter,impaired glucose tolerance,Area under glucose response curve
+Slc30a2,Proton-coupled zinc antiporter SLC30A2,increased fasting circulating glucose level,Fasted blood glucose concentration
+Rel,Proto-oncogene c-Rel,impaired glucose tolerance,Area under glucose response curve
+Pudp,Pseudouridine-5'-phosphatase,increased fasting circulating glucose level,Fasted blood glucose concentration
+Ubr7,Putative E3 ubiquitin-protein ligase UBR7,improved glucose tolerance,Area under glucose response curve
+Pwwp2b,PWWP domain-containing protein 2B,impaired glucose tolerance,Area under glucose response curve
+Pycr2,Pyrroline-5-carboxylate reductase 2,increased fasting circulating glucose level,Fasted blood glucose concentration
+Pdpr,"Pyruvate dehydrogenase phosphatase regulatory subunit, mitochondrial",improved glucose tolerance,Area under glucose response curve
+Gdi2,Rab GDP dissociation inhibitor beta,impaired glucose tolerance,Area under glucose response curve
+Rabgap1,Rab GTPase-activating protein 1,improved glucose tolerance,Area under glucose response curve
+Rab11fip1,Rab11 family-interacting protein 1,increased fasting circulating glucose level,Fasted blood glucose concentration
+Rab11fip3,Rab11 family-interacting protein 3,improved glucose tolerance,Initial response to glucose challenge
+Rabl2,Rab-like protein 2A,impaired glucose tolerance,Area under glucose response curve
+Akt2,RAC-beta serine/threonine-protein kinase,increased circulating glucose level,Glucose
+Ranbp10,Ran-binding protein 10,increased circulating glucose level,Glucose
+Rin3,Ras and Rab interactor 3,increased fasting circulating glucose level,Fasted blood glucose concentration
+Rab11a,Ras-related protein Rab-11A,improved glucose tolerance,Initial response to glucose challenge
+Ptprd,Receptor-type tyrosine-protein phosphatase delta,improved glucose tolerance,Area under glucose response curve
+Rbpj,Recombining binding protein suppressor of hairless,improved glucose tolerance,Initial response to glucose challenge
+Rtbdn,Retbindin,improved glucose tolerance,Area under glucose response curve
+Rbl1,Retinoblastoma-like protein 1,improved glucose tolerance,Initial response to glucose challenge
+Arhgap17,Rho GTPase-activating protein 17,improved glucose tolerance,Area under glucose response curve
+Rnaset2b,Ribonuclease T2-B,impaired glucose tolerance,Area under glucose response curve
+Rilpl1,RILP-like protein 1,increased fasting circulating glucose level,Fasted blood glucose concentration
+Rilpl2,RILP-like protein 2,increased fasting circulating glucose level,Fasted blood glucose concentration
+Rbms1,"RNA-binding motif, single-stranded-interacting protein 1",impaired glucose tolerance,Area under glucose response curve
+Rspo4,R-spondin-4,increased fasting circulating glucose level,Fasted blood glucose concentration
+Rufy2,RUN and FYVE domain-containing protein 2,impaired glucose tolerance,Area under glucose response curve
+Atp2a2,Sarcoplasmic/endoplasmic reticulum calcium ATPase 2,increased fasting circulating glucose level,Fasted blood glucose concentration
+Bscl2,Seipin,improved glucose tolerance,Initial response to glucose challenge
+Septin5,Septin-5,improved glucose tolerance,Area under glucose response curve
+Serinc2,Serine incorporator 2,impaired glucose tolerance,Area under glucose response curve
+Sptssb,Serine palmitoyltransferase small subunit B,increased fasting circulating glucose level,Fasted blood glucose concentration
+Stk33,Serine/threonine-protein kinase 33,increased fasting circulating glucose level,Fasted blood glucose concentration
+Stk38,Serine/threonine-protein kinase 38,increased fasting circulating glucose level,Fasted blood glucose concentration
+Pskh1,Serine/threonine-protein kinase H1,improved glucose tolerance,Area under glucose response curve
+Nek2,Serine/threonine-protein kinase Nek2,increased fasting circulating glucose level,Fasted blood glucose concentration
+Sik3,Serine/threonine-protein kinase SIK3,improved glucose tolerance,Area under glucose response curve
+Tlk1,Serine/threonine-protein kinase tousled-like 1,impaired glucose tolerance,Area under glucose response curve
+Ppp2r2b,Serine/threonine-protein phosphatase 2A 55 kDa regulatory subunit B beta isoform,increased fasting circulating glucose level,Fasted blood glucose concentration
+Ppp2r1b,Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A beta isoform,increased fasting circulating glucose level,Fasted blood glucose concentration
+Ppp4r3b,Serine/threonine-protein phosphatase 4 regulatory subunit 3B,impaired glucose tolerance,Area under glucose response curve
+Ppp6c,Serine/threonine-protein phosphatase 6 catalytic subunit,increased fasting circulating glucose level,Fasted blood glucose concentration
+Sars1,"Serine--tRNA ligase, cytoplasmic",improved glucose tolerance,Area under glucose response curve
+Scml4,Sex comb on midleg-like protein 4,increased circulating glucose level,Glucose
+Sh2b1,SH2B adapter protein 1,impaired glucose tolerance,Area under glucose response curve
+Shld1,Shieldin complex subunit 1,impaired glucose tolerance,Area under glucose response curve
+Sfxn1,Sideroflexin-1,increased fasting circulating glucose level,Fasted blood glucose concentration
+Skor1,SKI family transcriptional corepressor 1,increased circulating glucose level,Glucose
+Slitrk1,SLIT and NTRK-like protein 1,improved glucose tolerance,Area under glucose response curve
+Knstrn,Small kinetochore-associated protein,increased fasting circulating glucose level,Fasted blood glucose concentration
+Atp1a3,Sodium/potassium-transporting ATPase subunit alpha-3,improved glucose tolerance,Area under glucose response curve
+Slc6a2,Sodium-dependent noradrenaline transporter,impaired glucose tolerance,Area under glucose response curve
+Slc20a2,Sodium-dependent phosphate transporter 2,impaired glucose tolerance,Area under glucose response curve
+Slc12a5,Solute carrier family 12 member 5,impaired glucose tolerance,Area under glucose response curve
+Slc2a2,"Solute carrier family 2, facilitated glucose transporter member 2",increased fasting circulating glucose level,Fasted blood glucose concentration
+Slc22a16,Solute carrier family 22 member 16,impaired glucose tolerance,Area under glucose response curve
+Slco6c1,Solute carrier organic anion transporter family member 6C1,increased fasting circulating glucose level,Fasted blood glucose concentration
+Ghrh,Somatoliberin,impaired glucose tolerance,Area under glucose response curve
+Gh,Somatotropin,impaired glucose tolerance,Area under glucose response curve
+Shh,Sonic hedgehog protein,impaired glucose tolerance,Area under glucose response curve
+Spart,Spartin,increased fasting circulating glucose level,Fasted blood glucose concentration
+Spag4,Sperm-associated antigen 4 protein,increased fasting circulating glucose level,Fasted blood glucose concentration
+Spice1,Spindle and centriole-associated protein 1,improved glucose tolerance,Initial response to glucose challenge
+Spryd4,SPRY domain-containing protein 4,increased fasting circulating glucose level,Fasted blood glucose concentration
+Gcn1,Stalled ribosome sensor GCN1,increased circulating glucose level,Glucose
+Stmn4,Stathmin-4,improved glucose tolerance,Area under glucose response curve
+Cyp17a1,"Steroid 17-alpha-hydroxylase/17,20 lyase",improved glucose tolerance,Area under glucose response curve
+Cyp27a1,"Sterol 26-hydroxylase, mitochondrial",improved glucose tolerance,Area under glucose response curve
+Strn3,Striatin-3,increased fasting circulating glucose level,Fasted blood glucose concentration
+Sdhb,"Succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial",increased fasting circulating glucose level,Fasted blood glucose concentration
+Slc50a1,Sugar transporter SWEET1,increased fasting circulating glucose level,Fasted blood glucose concentration
+Slc26a2,Sulfate transporter,impaired glucose tolerance,Area under glucose response curve
+Qsox2,Sulfhydryl oxidase 2,increased fasting circulating glucose level,Fasted blood glucose concentration
+Surf4,Surfeit locus protein 4,impaired glucose tolerance,Area under glucose response curve
+Syngr2,Synaptogyrin-2,increased circulating glucose level,Glucose
+Syce1,Synaptonemal complex central element protein 1,improved glucose tolerance,Initial response to glucose challenge
+Sytl4,Synaptotagmin-like protein 4,improved glucose tolerance,Area under glucose response curve
+Sdc1,Syndecan-1,improved glucose tolerance,Initial response to glucose challenge
+Stx16,Syntaxin-16,improved glucose tolerance,Area under glucose response curve
+Stx19,Syntaxin-19,increased fasting circulating glucose level,Fasted blood glucose concentration
+Stxbp1,Syntaxin-binding protein 1,impaired glucose tolerance,Area under glucose response curve
+Ttbk1,Tau-tubulin kinase 2,increased circulating glucose level,Glucose
+Tbccd1,TBCC domain-containing protein 1,impaired glucose tolerance,Initial response to glucose challenge
+Terf2ip,Telomeric repeat-binding factor 2-interacting protein 1,impaired glucose tolerance,Initial response to glucose challenge
+Tns3,Tensin-3,increased fasting circulating glucose level,Fasted blood glucose concentration
+Tspan18,Tetraspanin-18,increased fasting circulating glucose level,Fasted blood glucose concentration
+Ttc38,Tetratricopeptide repeat protein 38,impaired glucose tolerance,Area under glucose response curve
+Trex1,Three-prime repair exonuclease 1,improved glucose tolerance,Initial response to glucose challenge
+Tars3,"Threonine--tRNA ligase 2, cytoplasmic",increased circulating glucose level,Glucose
+Tg,Thyroglobulin,improved glucose tolerance,Area under glucose response curve
+Thra,Thyroid hormone receptor alpha,improved glucose tolerance,Area under glucose response curve
+Tpo,Thyroid peroxidase,improved glucose tolerance,Area under glucose response curve
+Tigd3,Tigger transposable element-derived protein 3,impaired glucose tolerance,Area under glucose response curve
+Trappc9,Trafficking protein particle complex subunit 9,impaired glucose tolerance,Area under glucose response curve
+Ebf2,Transcription factor COE2,impaired glucose tolerance,Area under glucose response curve
+E2f3,Transcription factor E2F3,impaired glucose tolerance,Initial response to glucose challenge
+Sox30,Transcription factor SOX-30,increased fasting circulating glucose level,Fasted blood glucose concentration
+Bach1,Transcription regulator protein BACH1,increased fasting circulating glucose level,Fasted blood glucose concentration
+Tead1,Transcriptional enhancer factor TEF-1,impaired glucose tolerance,Area under glucose response curve
+Swt1,Transcriptional protein SWT1,impaired glucose tolerance,Area under glucose response curve
+Tle4,Transducin-like enhancer protein 4,impaired glucose tolerance,Area under glucose response curve
+Tgfb1i1,Transforming growth factor beta-1-induced transcript 1 protein,improved glucose tolerance,Initial response to glucose challenge
+Trpm1,Transient receptor potential cation channel subfamily M member 1,impaired glucose tolerance,Area under glucose response curve
+Trpv4,Transient receptor potential cation channel subfamily V member 4,increased circulating glucose level,Glucose
+Gpnmb,Transmembrane glycoprotein NMB,increased fasting circulating glucose level,Fasted blood glucose concentration
+Tmprss2,Transmembrane protease serine 2,improved glucose tolerance,Area under glucose response curve
+Tmprss6,Transmembrane protease serine 6,increased fasting circulating glucose level,Fasted blood glucose concentration
+Tmem240,Transmembrane protein 240,increased fasting circulating glucose level,Fasted blood glucose concentration
+Triobp,TRIO and F-actin-binding protein,increased circulating glucose level,Glucose
+Trio,Triple functional domain protein,impaired glucose tolerance,Initial response to glucose challenge
+Wdr6,tRNA,improved glucose tolerance,Area under glucose response curve
+Mettl6,tRNA N(3)-cytidine methyltransferase METTL6,increased fasting circulating glucose level,Fasted blood glucose concentration
+Tulp3,Tubby-related protein 3,impaired glucose tolerance,Area under glucose response curve
+Tuft1,Tuftelin,improved glucose tolerance,Area under glucose response curve
+Sirpa,Tyrosine-protein phosphatase non-receptor type substrate 1,impaired glucose tolerance,Initial response to glucose challenge
+Coq6,"Ubiquinone biosynthesis monooxygenase COQ6, mitochondrial",increased fasting circulating glucose level,Fasted blood glucose concentration
+Usp12,Ubiquitin carboxyl-terminal hydrolase 12,impaired glucose tolerance,Initial response to glucose challenge
+Usp15,Ubiquitin carboxyl-terminal hydrolase 15,improved glucose tolerance,Area under glucose response curve
+Usp30,Ubiquitin carboxyl-terminal hydrolase 30,impaired glucose tolerance,Initial response to glucose challenge
+Usp36,Ubiquitin carboxyl-terminal hydrolase 36,increased circulating glucose level,Glucose
+Usp47,Ubiquitin carboxyl-terminal hydrolase 47,increased circulating glucose level,Glucose
+Uchl4,Ubiquitin carboxyl-terminal hydrolase isozyme L4,increased fasting circulating glucose level,Fasted blood glucose concentration
+Ube4a,Ubiquitin conjugation factor E4 A,impaired glucose tolerance,Area under glucose response curve
+Cdc34,Ubiquitin-conjugating enzyme E2 R1,increased fasting circulating glucose level,Fasted blood glucose concentration
+Ube2w,Ubiquitin-conjugating enzyme E2 W,increased fasting circulating glucose level,Fasted blood glucose concentration
+Urm1,Ubiquitin-related modifier 1,impaired glucose tolerance,Area under glucose response curve
+Uri1,Unconventional prefoldin RPB5 interactor,increased fasting circulating glucose level,Fasted blood glucose concentration
+Vangl2,Vang-like protein 2,increased circulating glucose level,Glucose
+Gpbp1,Vasculin,improved glucose tolerance,Initial response to glucose challenge
+Elovl5,Very long chain fatty acid elongase 5,improved glucose tolerance,Initial response to glucose challenge
+Acadvl,"Very long-chain specific acyl-CoA dehydrogenase, mitochondrial",impaired glucose tolerance,Area under glucose response curve
+Vapb,Vesicle-associated membrane protein-associated protein B,improved glucose tolerance,Initial response to glucose challenge
+Vkorc1l1,Vitamin K epoxide reductase complex subunit 1-like protein 1,increased fasting circulating glucose level,Fasted blood glucose concentration
+Cacna2d1,Voltage-dependent calcium channel subunit alpha-2/delta-1,impaired glucose tolerance,Area under glucose response curve
+Cacnb2,Voltage-dependent L-type calcium channel subunit beta-2,impaired glucose tolerance,Area under glucose response curve
+Kcnh3,Voltage-gated inwardly rectifying potassium channel KCNH3,increased fasting circulating glucose level,Fasted blood glucose concentration
+Vwa8,von Willebrand factor A domain-containing protein 8,increased fasting circulating glucose level,Fasted blood glucose concentration
+Washc4,WASH complex subunit 4,increased fasting circulating glucose level,Fasted blood glucose concentration
+Wdr11,WD repeat-containing protein 11,improved glucose tolerance,Initial response to glucose challenge
+Xkr5,XK-related protein 5,increased fasting circulating glucose level,Fasted blood glucose concentration
+Ylpm1,YLP motif-containing protein 1,increased fasting circulating glucose level,Fasted blood glucose concentration
+Zbtb48,Zinc finger and BTB domain-containing protein 48,impaired glucose tolerance,Initial response to glucose challenge
+Zgpat,Zinc finger CCCH-type with G patch domain-containing protein,increased fasting circulating glucose level,Fasted blood glucose concentration
+Znhit2,Zinc finger HIT domain-containing protein 2,increased circulating glucose level,Glucose
+Zfp422,Zinc finger protein 22,improved glucose tolerance,Initial response to glucose challenge
+Zfp462,Zinc finger protein 462,impaired glucose tolerance,Area under glucose response curve
+Zfp513,Zinc finger protein 513,increased circulating glucose level,Glucose
+Zfp664,Zinc finger protein 664,impaired glucose tolerance,Area under glucose response curve
+Zfp787,Zinc finger protein 787,impaired glucose tolerance,Area under glucose response curve
+Slc30a7,Zinc transporter 7,impaired glucose tolerance,Area under glucose response curve
+Slc39a4,Zinc transporter ZIP4,increased fasting circulating glucose level,Fasted blood glucose concentration
+Tgm6,Tgm6 protein,improved glucose tolerance,Area under glucose response curve
+Abcc8,"ATP-binding cassette, sub-family C member 8",impaired glucose tolerance,Area under glucose response curve
+Fbxl9,F-box and leucine-rich repeat protein 9,impaired glucose tolerance,Area under glucose response curve
+Hyal6,Hyaluronidase,impaired glucose tolerance,Initial response to glucose challenge
+Tmem116,Transmembrane protein 116,improved glucose tolerance,Initial response to glucose challenge
+Klhl32,Kelch-like 32,improved glucose tolerance,Initial response to glucose challenge
+D630045J12Rik,RIKEN cDNA D630045J12 gene,improved glucose tolerance,Area under glucose response curve
+Exoc3l2,Exocyst complex component 3-like 2,impaired glucose tolerance,Area under glucose response curve
+Cpgi15497,,impaired glucose tolerance,Initial response to glucose challenge
+Sec24d,"SEC24 homolog D, COPII coat complex component",impaired glucose tolerance,Area under glucose response curve
+Col4a5,"Collagen, type IV, alpha 5",impaired glucose tolerance,Initial response to glucose challenge
+Herc1,HECT and RLD domain containing E3 ubiquitin protein ligase family member 1,impaired glucose tolerance,Area under glucose response curve
+Ahnak,AHNAK nucleoprotein,improved glucose tolerance,Area under glucose response curve
+Lonrf2,LON peptidase N-terminal domain and ring finger 2,impaired glucose tolerance,Area under glucose response curve
+Ccl26,C-C motif chemokine ligand 26,improved glucose tolerance,Area under glucose response curve
+4933402J07Rik,Uncharacterized protein,improved glucose tolerance,Area under glucose response curve
+Mir129-2,,impaired glucose tolerance,Area under glucose response curve
+Agl,Glycogen debranching enzyme,impaired glucose tolerance,Area under glucose response curve
+2210408I21Rik,RIKEN cDNA 2210408I21 gene,impaired glucose tolerance,Initial response to glucose challenge
+Jakmip2,Janus kinase and microtubule interacting protein 2,increased circulating glucose level,Glucose
+1700030J22Rik,Uncharacterized protein,increased circulating glucose level,Glucose
+Usp31,ubiquitinyl hydrolase 1,increased circulating glucose level,Glucose
+Oas1g,2'-5' oligoadenylate synthase,increased circulating glucose level,Glucose
+Eid2b,EP300 interacting inhibitor of differentiation 2B,increased circulating glucose level,Glucose
+Upf3b,UPF3 regulator of nonsense transcripts homolog B,increased fasting circulating glucose level,Fasted blood glucose concentration
+H1f10,H1.10 linker histone,increased fasting circulating glucose level,Fasted blood glucose concentration
+Abhd12b,Abhydrolase domain containing 12B,increased fasting circulating glucose level,Fasted blood glucose concentration
+Mir203,,increased fasting circulating glucose level,Fasted blood glucose concentration
+Cyp4f16,"Cytochrome P450, family 4, subfamily f, polypeptide 16",increased fasting circulating glucose level,Fasted blood glucose concentration
+Or5b112,Olfactory receptor,increased fasting circulating glucose level,Fasted blood glucose concentration
+A830018L16Rik,A830018L16Rik protein,increased fasting circulating glucose level,Fasted blood glucose concentration
+Fam186b,"Family with sequence similarity 186, member B",increased fasting circulating glucose level,Fasted blood glucose concentration
+Duox2,NAD(P)H oxidase,increased fasting circulating glucose level,Fasted blood glucose concentration
+Dnajc5g,DnaJ heat shock protein family,increased fasting circulating glucose level,Fasted blood glucose concentration
+Wdr36,WD repeat domain 36,increased fasting circulating glucose level,Fasted blood glucose concentration
+F730043M19Rik,Uncharacterized protein,increased fasting circulating glucose level,Fasted blood glucose concentration
+Zfp616,Zinc finger protein 616,increased fasting circulating glucose level,Fasted blood glucose concentration
+Taf15,TATA-box binding protein associated factor 15,increased fasting circulating glucose level,Fasted blood glucose concentration

@@ -1,0 +1,184 @@
+﻿Phenotype,Pathway,p-value (-log10),Genes
+Bodycomposition,Class I MHC mediated antigen processing and presentation,4.96,BECN1;CDC27;CYBA;ERAP1;FBXL3;FBXO11;HECTD3;HERC1;HERC3;ITCH;KBTBD8;KLHL22;KLHL42;LRRC41;NPEPPS;SEC23A;TRIM37;UBE2D3;UBE2J1;UBE2J2;UBE3A;UBE3C;UBE4A;ZBTB16
+Bodycomposition,Neurexins and neuroligins,3.46,DLG2;DLG4;DLGAP4;EPB41L1;EPB41L5;NRXN1;SYT1
+Bodycomposition,SUMOylation of transcription cofactors,3.31,CBX4;NCOA1;NCOR2;PIAS2;TOPORS;UHRF2
+Bodycomposition,Chromatin organization,3.06,ARID4B;DNMT3A;EHMT1;EPC1;KDM4C;KMT2A;MECOM;MTA3;NCOA1;NCOR2;NSD3;SETD1A;SETD1B;USP22
+Bodycomposition,Sleep NREM Signaling ,2.77,Adcy3;ADORA1;GABRA2;GABRG3;MRAS;PER2;SIK1;SIK3;XRCC5
+Bodycomposition,Histone Modification Signaling ,2.52,BAZ2B;CBX4;CBX6;DNMT3A;EHMT1;KDM4C;KMT2A;KMT2E;NSD3;PDGFC;SETD1A;SETD1B;USP22;USP42;XRCC5
+Bodycomposition,Mitochondrial calcium ion transport,2.47,MCU;MICU1;MICU3
+Bodycomposition,M-decay: degradation of maternal mRNAs by maternally stored factors,2.31,CNOT4;CNOT7;DICER1;EIF4G1;KDM4C
+Bodycomposition,XBP1(S) activates chaperone genes,2.27,EDEM1;EXTL1;GSK3A;PDIA6;XBP1
+Bodycomposition,Protein Ubiquitination ,2.25,AMFR;DNAJC14;UBE2D3;UBE2J1;UBE2J2;UBE3A;UBE4A;USP12;USP13;USP15;USP22;USP31;USP38;USP42
+Bodycomposition,RIPK1-mediated regulated necrosis,2.25,FADD;ITCH;PDCD6IP;PELI1
+Bodycomposition,Unfolded protein response,2.23,AMFR;CEBPZ;DNAJC14;EDEM1;PDIA6;PPARG;XBP1
+Bodycomposition,Processing of SMDT1,2.2,MCU;MICU1;MICU3
+Bodycomposition,Transcriptional regulation of pluripotent stem cells,2.13,EPAS1;FOXP1;PRDM14
+Bodycomposition,WNT/β-catenin Signaling,2.06,AKT2;FZD3;GSK3A;PPP2R2A;PPP2R5C;SFRP1;SFRP2;SOX21;TCF7L2;TLE4
+Bodycomposition,Signaling by NOTCH1,2.02,DLK1;ITCH;MAMLD1;NBEA;NCOR2;TLE4
+Bodycomposition,Class I peroxisomal membrane protein import,1.99,ABCD3;ACBD5;PEX3
+Bodycomposition,HIPPO signaling,1.99,DLG2;DLG4;ITCH;PPP2R2A;PPP2R5C;TEAD1
+Bodycomposition,Cell Cycle Regulation by BTG Family Proteins,1.92,CNOT7;E2F3;PPP2R2A;PPP2R5C
+Bodycomposition,BEX2 Signaling ,1.91,AKT2;NHLH2;PDGFC;PPP2R2A;PPP2R5C;TCF7L2
+Bodycomposition,SNARE Signaling ,1.8,Adcy3;CACNA2D2;MYH1;MYL3;RAB8A;SNAP29;STX16;SYT1
+Bodycomposition,UFMylation Signaling ,1.77,AKT2;EIF4G1;NCOA1;UFM1;XBP1
+Bodycomposition,BBSome Signaling ,1.74,ADORA1;BBS2;BBS5;CELSR1;FZD3;GHRHR;GPR22;GPR55;GPR65;IQCB1;LEPR;MC3R;NPY5R;NTRK2;P2RY14;PCM1;RAB8A;TACR3;XBP1
+Bodycomposition,Formation of WDR5-containing histone-modifying complexes,1.74,KMT2A;PHF20L1;SETD1A;SETD1B
+Bodycomposition,Synaptogenesis Signaling ,1.71,Adcy3;AKT2;APOE;CACNA2D2;CDH10;CDH19;CHN1;DLG4;MRAS;NRXN1;NTRK2;PAK1;STX16;SYT1
+Bodycomposition,MyD88 cascade initiated on plasma membrane,1.71,IRAK2;MAP3K1;PELI1
+Bodycomposition,CLEAR Signaling ,1.7,AKT2;ATP6V0B;ATP6V1D;BECN1;DEPDC5;GSK3A;MID1;MRAS;NTRK2;PPP2R2A;PPP2R5C;PPP3CA;TFEB
+Bodycomposition,RAB GEFs exchange GTP for GDP on RABs,1.68,AKT2;DENND5B;RAB3IP;RAB8A;TRAPPC10;TRAPPC9
+Bodycomposition,Cilium Assembly,1.67,AKAP9;BBS2;BBS5;DYNC1I2;DYNLRB2;EXOC3;IQCB1;PCM1;RAB3IP;RAB8A
+Bodycomposition,Ceramide Signaling,1.66,AKT2;FOS;MAP3K1;MRAS;PPP2R2A;PPP2R5C
+Bodycomposition,ATF6 (ATF6-alpha) activates chaperone genes,1.64,NFYA;XBP1
+Bodycomposition,MITF-M-dependent gene expression,1.61,AKT2;ATP6V0B;ATP6V1D;DICER1;DPF1;TCF7L2
+Bodycomposition,PIP3 activates AKT signaling,1.6,AKT2;FGF10;FLT3;GSK3A;NTRK2;PHLPP1;PPP2R5C;PRR5
+Bodycomposition,NAD Phosphorylation and Dephosphorylation,1.56,NADK;PXYLP1
+Bodycomposition,PTEN Regulation,1.55,AKT2;CBX4;CBX6;MECOM;MTA3;PPARG;TNKS;USP13
+Bodycomposition,DNA Methylation and Transcriptional Repression Signaling,1.55,ARID4B;DNMT3A;E2F3;MTA3;TCF20;TEAD1
+Bodycomposition,nNOS Signaling in Neurons,1.54,DLG2;DLG4;PFKM;PPP3CA
+Bodycomposition,Nuclear Cytoskeleton Signaling ,1.51,CDH10;CDH19;DYNC1I2;ITGAE;KIF21B;PPARG;RUNX2;SUN1;SUN2;XRCC5
+Bodycomposition,SUMOylation of intracellular receptors,1.49,PIAS2;PPARG;VDR
+Bodycomposition,TNFR1 Signaling,1.49,FADD;FOS;MAP3K1;PAK1
+Bodycomposition,Tuberculosis Active Signaling ,1.48,AKT2;ATP6V0B;ATP6V1D;CYBA;FOS;GSK3A;PFKM;PPARG;PPP3CA;TNFSF18
+Bodycomposition,Calcium Signaling,1.48,CACNA2D2;CAMK1D;GRIK1;MCU;MICU1;MYH1;MYL3;PPP3CA;RCAN1;TRPC3
+Bodycomposition,Deubiquitination,1.48,BECN1;IDE;INO80D;MYSM1;POLB;TNKS;USP12;USP13;USP15;USP22;USP42
+Bodycomposition,Neddylation,1.46,DCUN1D3;EPAS1;FBXL3;FBXO11;KBTBD8;KLHL22;KLHL42;LRRC41;PUM2;UBE2D3;ZBTB16
+Bodycomposition,Estrogen Receptor Signaling,1.44,Adcy3;AKT2;CACNA2D2;DLG4;FOS;GSK3A;LEPR;MCU;MRAS;MYL3;NCOA1;NCOR2;PAK1;PDGFC;RUNX2;SDHC
+Bodycomposition,Glutamate binding; activation of AMPA receptors and synaptic plasticity,1.42,DLG4;EPB41L1;MYO6
+Bodycomposition,MyD88 dependent cascade initiated on endosome,1.42,IRAK2;MAP3K1;PELI1
+Bodycomposition,Transcriptional regulation of brown and beige adipocyte differentiation,1.42,MTA3;NCOA1;PPARG
+Bodycomposition,RHO GTPase cycle,1.38,ABCD3;ACBD5;ARHGAP21;ARHGEF10L;CHN1;CKB;CYBA;DOCK9;EMC3;FNBP1L;MSI2;MYO6;OSBPL11;PAK1;PEAK1;TNFAIP1;TWF1
+Bodycomposition,PPAR Signaling,1.37,FOS;MRAS;NCOA1;NCOR2;PDGFC;PPARG
+Bodycomposition,Phagosome Formation,1.37,ADORA1;AKT2;AP1G1;CELSR1;ELMO1;FZD3;GHRHR;GPLD1;GPR22;GPR55;GPR65;ITGAE;MC3R;MRAS;MYH1;MYL3;NPY5R;P2RY14;PAK1;PLB1;PLD5;SYK;TACR3
+Bodycomposition,Choline Biosynthesis III,1.36,GPLD1;PLD5
+Bodycomposition,Cellular Effects of Sildenafil (Viagra),1.35,Adcy3;ADORA1;AKT2;CACNA2D2;CELSR1;FADD;FZD3;GHRHR;GPR22;GPR55;GPR65;KCNN1;MC3R;MYH1;MYL3;NPY5R;P2RY14;PDGFC;PPARG;PPP2R2A;PPP2R5C;PPP3CA;TACR3
+Bodycomposition,IL-3 Signaling,1.35,AKT2;FOS;MRAS;PAK1;PPP3CA
+Bodycomposition,Role of JAK2 in Hormone-like Cytokine Signaling,1.33,CCND2;FOS;LEPR;PDGFC
+Bodycomposition,Mitochondrial Division Signaling ,1.33,CACNA2D2;FADD;MCU;MRAS;PDGFC;PPP2R2A;PPP2R5C;PPP3CA
+Bodycomposition,All-trans-decaprenyl Diphosphate Biosynthesis,1.32,PDSS2
+Bodycomposition,Circadian Clock,1.31,FBXL3;NCOA1;PER2;SIK1
+Bodycomposition,Gamma carboxylation; hypusinylation; hydroxylation; and arylsulfatase activation,1.31,ARSJ;JMJD4;OGFOD1;RWDD1
+Bodycomposition,Adipogenesis ,1.31,DGKD;DLK1;FZD3;PER2;PPARG;TXNIP;XBP1
+Bodycomposition,YAP1- and WWTR1 (TAZ)-stimulated gene expression,1.3,RUNX2;TEAD1
+Bodycomposition,Formation of definitive endoderm,1.3,EOMES;TCF7L2
+Bodycomposition,Telomere Extension by Telomerase,1.3,TNKS;XRCC5
+Glucose,Regulation of beta-cell development,3.95,AKT2;GCK;KAT2B;RBPJ;RFX6;SLC2A2
+Glucose,Protein Ubiquitination ,3.89,CDC34;Dnajb3;DNAJB7;DNAJC19;DNAJC30;DNAJC5G;NEDD4;UBE2W;UBE4A;USP12;USP15;USP30;USP31;USP36;USP47
+Glucose,Senescence ,3.51,AKT2;CACNA2D1;CACNB2;CCND2;CDKN1B;E2F3;FOXO3;KAT2B;MAPKAPK2;MCU;NFAT5;NRAS;PARP1;PPP2R1B;RBL1
+Glucose,Surfactant metabolism,3.12,ADGRF5;ADORA2B;ADRA2A;ZDHHC2
+Glucose,SNARE Signaling ,3.1,ADCY1;CACNA2D1;CACNB2;MYH10;RAB11A;SNCA;SNCB;STX16;STXBP1
+Glucose,RHO GTPase cycle,2.83,ABCD3;ABI2;ACBD5;AKAP13;ARHGAP17;CPD;FARP1;HNRNPC;NISCH;OSBPL11;STEAP3;STK38;TNFAIP1;TRIO;VANGL2;VAPB;WDR11;WDR6
+Glucose,Neurexins and neuroligins,2.48,DBNL;DLGAP2;EPB41L1;NRXN1;STXBP1
+Glucose,Cyclins and Cell Cycle Regulation,2.37,CCND2;CDC34;CDKN1B;E2F3;PPP2R1B;RBL1
+Glucose,FOXO-mediated transcription,2.32,AKT2;FOXO3;KAT2B
+Glucose,Synaptogenesis Signaling ,2.3,ADCY1;AKT2;ATF2;CACNA2D1;CACNB2;EFNA5;FARP1;NRAS;NRXN1;SNCA;SNCB;STX16;STXBP1
+Glucose,FLT3 Signaling,2.3,AKT2;CDKN1B;FOXO3;NRAS
+Glucose,Pre-NOTCH Expression and Processing,2.28,ATP2A2;E2F3;KAT2B;NOTCH3;RBPJ
+Glucose,Cell Cycle: G1/S Checkpoint Regulation,2.11,CCND2;CDC34;CDKN1B;E2F3;RBL1
+Glucose,Class I MHC mediated antigen processing and presentation,2.09,AREL1;ASB7;CDC34;FBXO11;FBXO30;HERC1;KCTD7;LRRC41;NEDD4;SEC24D;TRIM37;TRIM39;UBE2W;UBE4A
+Glucose,Ribonucleotide Reductase Signaling ,1.99,AKT2;ATF2;CDC34;E2F3;FOXO3;NRAS;PARP1;TNKS
+Glucose,Estrogen-mediated S-phase Entry,1.93,CDKN1B;E2F3;RBL1
+Glucose,Integration of energy metabolism,1.87,ADCY1;ADRA2A;CACNB2;PPP2R1B;SLC2A2;STXBP1
+Glucose,CSDE1 Signaling ,1.82,AKT2;HNRNPC;SYNCRIP;TRIO
+Glucose,Pulmonary Fibrosis Idiopathic Signaling ,1.79,AKT2;ATF2;COL18A1;COL4A5;EZH1;FOXO3;FZD3;LPAR1;NOTCH3;NRAS;RBPJ;STK38
+Glucose,Signaling by Leptin,1.78,LEPR;SH2B1
+Glucose,Pexophagy,1.78,NBR1;USP30
+Glucose,Regulation of TP53 Activity through Acetylation,1.76,AKT2;ING5;PIP4K2C
+Glucose,Sleep NREM Signaling ,1.74,ADCY1;ADORA2B;ATF2;NRAS;PARP1;SIK3
+Glucose,Cardiac Hypertrophy Signaling (Enhanced),1.74,ADCY1;ADRA2A;AKAP13;AKT2;ATF2;ATP2A2;CACNA2D1;CACNB2;FZD3;GSK3A;IFNAR1;IL10RA;IL12B;MAPKAPK2;NFAT5;NRAS;TG
+Glucose,Acyl Carrier Protein Metabolism,1.74,AASDHPPT
+Glucose,Role of JAK2 in Hormone-like Cytokine Signaling,1.71,CCND2;LEPR;SH2B1;SIRPA
+Glucose,Presynaptic depolarization and calcium channel opening,1.71,CACNA2D1;CACNB2
+Glucose,Arachidonic acid metabolism,1.69,CYP4B1;FAAH;MAPKAPK2
+Glucose,Role of CHK Proteins in Cell Cycle Checkpoint Control,1.69,E2F3;PPP2R1B;RAD1;TLK1
+Glucose,MAPK targets/ Nuclear events mediated by MAP kinases,1.65,ATF2;MAPKAPK2;PPP2R1B
+Glucose,Mitochondrial calcium ion transport,1.64,MCU;VDAC1
+Glucose,Bupropion Degradation,1.64,CYP19A1;CYP4B1
+Glucose,Unfolded protein response,1.62,DNAJB7;DNAJC19;DNAJC5G;INSIG1;PPARG
+Glucose,UFMylation Signaling ,1.57,AKT2;EIF4G1;EIF4G2;SLC7A11
+Glucose,PI3K/AKT Signaling,1.53,AKT2;CDKN1B;FOXO3;GSK3A;IFNAR1;IL10RA;NRAS;PPP2R1B
+Glucose,Cell Cycle Regulation by BTG Family Proteins,1.52,BTG2;E2F3;PPP2R1B
+Glucose,Regulation of cholesterol biosynthesis by SREBP (SREBF),1.52,INSIG1;SEC24D
+Glucose,YAP1- and WWTR1 (TAZ)-stimulated gene expression,1.52,KAT2B;TEAD1
+Glucose,DNA Methylation and Transcriptional Repression Signaling,1.51,E2F3;ERCC5;RBL1;SAP30;TEAD1
+Glucose,Histone Modification Signaling ,1.5,ASH1L;ATF2;EZH1;ING5;KAT2B;KDM3A;NCOA3;PHF8;PRDM8;SUV39H2
+Glucose,Role of WNT/GSK-3β Signaling in the Pathogenesis of Influenza,1.5,CSNK1G2;FZD3;IFNAR1;NCOA3
+Glucose,Notch Signaling,1.49,DTX4;NOTCH3;RBPJ
+Glucose,Mitotic G1 phase and G1/S transition,1.48,AKT2;CCND2;CDKN1B;E2F3;PPP2R1B;RBL1
+Glucose,Neddylation,1.45,ASB7;CAND1;COPS7A;CUL4A;DCUN1D3;FBXO11;FBXO30;KCTD7;LRRC41
+Glucose,Hepatitis B Chronic Liver Pathogenesis Signaling ,1.44,AKT2;ATF2;IFNAR1;NCOA3;NRAS;TRIM37;VDAC1
+Glucose,Anandamide Degradation,1.44,FAAH
+Glucose,Glutamate Dependent Acid Resistance,1.44,GAD2
+Glucose,Aldosterone Signaling in Epithelial Cells,1.43,Dnajb3;DNAJB7;DNAJC19;DNAJC30;DNAJC5G;NEDD4;PIP4K2C
+Glucose,mRNA 3 Prime End Processing Signaling ,1.43,DIS3;E2F3;EIF4G1;EIF4G2;HNRNPC
+Glucose,GABAergic Receptor Signaling  (Enhanced),1.43,ADCY1;CACNA2D1;CACNB2;GAD2;NRXN1;SLC12A5
+Glucose,FOXO-mediated transcription of cell cycle genes,1.42,CDKN1B;FOXO3
+Glucose,Netrin Signaling,1.4,ADORA2B;AKT2;CACNA2D1;CACNB2;NFAT5;STX16;TRIO
+Glucose,DNA damage-induced 14-3-3σ Signaling,1.38,AKT2;CDKN1B;RAD1
+Glucose,Dopamine-DARPP32 Feedback in cAMP Signaling,1.37,ADCY1;ATF2;ATP2A2;CACNA2D1;CACNB2;CSNK1G2;PPP2R1B
+Glucose,GABA synthesis; release; reuptake and degradation,1.37,GAD2;STXBP1
+Glucose,NFE2L2 regulating anti-oxidant/detoxification enzymes,1.37,BACH1;SLC7A11
+Glucose,Protein Sorting Signaling ,1.36,ADCY1;AP3S1;AP4E1;RAB11A;RAB11FIP1;SEC24D;WASHC4
+Glucose,Collagen chain trimerization,1.35,COL14A1;COL18A1;COL4A5
+Glucose,Autophagy,1.35,AKT2;ARL8B;ATF2;BNIP3;CDKN1B;FOXO3;GSK3A;PPP2R1B
+Glucose,Maturity Onset Diabetes of Young (MODY) Signaling,1.34,CACNA2D1;CACNB2;GCK;SLC2A2
+Glucose,Transport of inorganic cations/anions and amino acids/oligopeptides,1.34,SLC12A5;SLC1A4;SLC20A2;SLC26A2;SLC7A11
+Glucose,Retinoic acid Mediated Apoptosis Signaling,1.33,IFNAR1;PARP1;TNKS
+Glucose,RHO GTPases activate CIT,1.33,CDKN1B;MYH10
+Glucose,Class I peroxisomal membrane protein import,1.33,ABCD3;ACBD5
+Glucose,Extra-nuclear estrogen signaling,1.32,AKT2;CDKN1B;FOXO3;NRAS
+Glucose,Chromatin organization,1.32,ASH1L;ATF2;ING5;KAT2B;KDM3A;PHF8;SAP30;SUV39H2
+Glucose,TCF dependent signaling in response to WNT,1.32,AKT2;CHD8;CSNK1G2;PPP2R1B;RSPO4;TLE4;TNKS
+Glucose,Signaling by NOTCH1,1.31,DTX4;KAT2B;RBPJ;TLE4
+Glucose,trans-Golgi Network Vesicle Budding,1.31,AP3S1;AP4E1;BLOC1S6;CPD
+Insulin,Renin-Angiotensin Signaling,2.81,ADCY9;ELK1;PRKD1
+Insulin,MAPK targets/ Nuclear events mediated by MAP kinases,2.74,DUSP3;ELK1
+Insulin,SUMOylation of transcription cofactors,2.53,NCOA2;PIAS2
+Insulin,Corticotropin Releasing Hormone Signaling,2.52,ADCY9;ELK1;PRKD1
+Insulin,CXCR4 Signaling,2.43,ADCY9;ELK1;PRKD1
+Insulin,DNA Damage Bypass,2.42,POLD3;USP1
+Insulin,GNRH Signaling,2.25,ADCY9;ELK1;PRKD1
+Insulin,Protein Kinase A Signaling,2.21,ADCY9;DUSP3;ELK1;PRKD1
+Insulin,Growth Hormone Signaling,2.14,ELK1;PRKD1
+Insulin,COPII-mediated vesicle transport,2.09,TRAPPC10;TRAPPC9
+Insulin,Thrombin Signaling,2.08,ADCY9;ELK1;PRKD1
+Insulin,VDR/RXR Activation,2.05,NCOA2;PRKD1
+Insulin,IL-3 Signaling,1.99,ELK1;PRKD1
+Insulin,Signaling by NTRK1 (TRKA),1.98,DUSP3;ELK1
+Insulin,LPS-stimulated MAPK Signaling,1.94,ELK1;PRKD1
+Insulin,RAB GEFs exchange GTP for GDP on RABs,1.9,TRAPPC10;TRAPPC9
+Insulin,ERBB Signaling,1.86,ELK1;PRKD1
+Insulin,Insulin Secretion Signaling ,1.83,ADCY9;PRKD1;SEC61B
+Insulin,Opioid Signaling ,1.81,ADCY9;ELK1;PRKD1
+Insulin,Neuropathic Pain Signaling in Dorsal Horn Neurons,1.8,ELK1;PRKD1
+Insulin,HDR through Homologous Recombination (HRR) or Single Strand Annealing (SSA),1.8,PALB2;POLD3
+Insulin,Cellular response to mitochondrial stress,1.77,STOML2
+Insulin,α-Adrenergic Signaling,1.74,ADCY9;PRKD1
+Insulin,Activated PKN1 stimulates transcription of AR regulated genes KLK2 and KLK3,1.72,NCOA2
+Insulin,Cholecystokinin/Gastrin-mediated Signaling,1.7,ELK1;PRKD1
+Insulin,Neuregulin Signaling,1.68,ELK1;PRKD1
+Insulin,GPCR-Mediated Nutrient Sensing in Enteroendocrine Cells,1.68,ADCY9;PRKD1
+Insulin,Dolichyl-diphosphooligosaccharide Biosynthesis,1.64,ALG2
+Insulin,Gαs Signaling,1.63,ADCY9;ELK1
+Insulin,14-3-3-mediated Signaling,1.62,ELK1;PRKD1
+Insulin,HGF Signaling,1.59,ELK1;PRKD1
+Insulin,fMLP Signaling in Neutrophils,1.59,ELK1;PRKD1
+Insulin,P2Y Purinergic Receptor Signaling ,1.59,ADCY9;PRKD1
+Insulin,Mismatch Repair,1.55,POLD3
+Insulin,Apelin Endothelial Signaling ,1.52,ADCY9;PRKD1
+Insulin,Processing of SMDT1,1.52,STOML2
+Insulin,RORA activates gene expression,1.49,NCOA2
+Insulin,eNOS Signaling,1.48,ADCY9;PRKD1
+Insulin,Relaxin Signaling,1.47,ADCY9;ELK1
+Insulin,SUMOylation of transcription factors,1.45,PIAS2
+Insulin,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,1.4,SEC61B
+Insulin,Androgen Signaling,1.39,NCOA2;PRKD1
+Insulin,Gαq Signaling,1.39,ELK1;PRKD1
+Insulin,Erythropoietin Signaling ,1.39,ELK1;PRKD1
+Insulin,Estrogen Receptor Signaling,1.39,ADCY9;NCOA2;PRKD1
+Insulin,Aldosterone Signaling in Epithelial Cells,1.38,DNAJC5G;PRKD1
+Insulin,Dopamine-DARPP32 Feedback in cAMP Signaling,1.36,ADCY9;PRKD1
+Insulin,Protein Sorting Signaling ,1.36,ADCY9;PRKD1
+Insulin,Endothelin-1 Signaling,1.32,ADCY9;PRKD1
+Insulin,BMAL1:CLOCK;NPAS2 activates circadian gene expression,1.31,NCOA2
+Insulin,Acetylcholine Receptor Signaling ,1.3,ADCY9;PRKD1

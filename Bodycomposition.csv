@@ -1,0 +1,770 @@
+﻿Gene,Gene Name,Phenotype,Parameter
+Mical2,[F-actin]-monooxygenase MICAL2,decreased lean body mass,Lean mass
+Agpat4,1-acyl-sn-glycerol-3-phosphate acyltransferase delta,increased total body fat amount,Fat mass
+Jmjd4,2-oxoglutarate and iron-dependent oxygenase JMJD4,increased lean body mass,Lean/Body weight
+Ogdh,2-oxoglutarate dehydrogenase complex component E1,increased lean body mass,Lean/Body weight
+Bckdhb,"2-oxoisovalerate dehydrogenase subunit beta, mitochondrial",increased total body fat amount,Fat mass
+Pxylp1,2-phosphoxylose phosphatase 1,decreased lean body mass,Lean Mass
+Ythdc2,3'-5' RNA helicase YTHDC2,increased total body fat amount,Fat/Body weight
+Coq2,"4-hydroxybenzoate polyprenyltransferase, mitochondrial",increased total body fat amount,Fat/Body weight
+Htr1b,5-hydroxytryptamine receptor 1B,increased lean body mass,Lean mass
+Htr2b,5-hydroxytryptamine receptor 2B,increased total body fat amount,Fat mass
+Adamts16,A disintegrin and metalloproteinase with thrombospondin motifs 16,increased total body fat amount,Fat/Body weight
+Aspm,Abnormal spindle-like microcephaly-associated protein homolog,increased total body fat amount,Fat mass
+Ablim1,Actin-binding LIM protein 1,increased lean body mass,Lean/Body weight
+Ascc3,Activating signal cointegrator 1 complex subunit 3,increased total body fat amount,Fat mass
+Acbd5,Acyl-CoA-binding domain-containing protein 5,increased lean body mass,Lean/Body weight
+Acyp1,Acylphosphatase-1,increased lean body mass,Lean mass
+Adora1,Adenosine receptor A1,increased lean body mass,Lean/Body weight
+Adora2a,Adenosine receptor A2a,increased total body fat amount,Fat mass
+Adcy3,Adenylate cyclase type 3,increased total body fat amount,Fat/Body weight
+Apmap,Adipocyte plasma membrane-associated protein,increased total body fat amount,Fat mass
+Adpgk,ADP-dependent glucokinase,increased lean body mass,Lean/Body weight
+Arl10,ADP-ribosylation factor-like protein 10,increased total body fat amount,Fat/Body weight
+Adprs,ADP-ribosylhydrolase ARH3,increased lean body mass,Lean mass
+Akap9,A-kinase anchor protein 9,increased lean body mass,Lean Mass
+Aars1,"Alanine--tRNA ligase, cytoplasmic",increased lean body mass,Lean mass
+Aldh3b1,Aldehyde dehydrogenase family 3 member B1,decreased lean body mass,Lean mass
+Aldh2,"Aldehyde dehydrogenase, mitochondrial",increased lean body mass,Lean Mass
+Pdss2,All trans-polyprenyl-diphosphate synthase PDSS2,increased total body fat amount,Fat mass
+Aif1,Allograft inflammatory factor 1,decreased lean body mass,Lean mass
+Fut4,"Alpha-(1,3)-fucosyltransferase 4",increased total body fat amount,Fat mass
+Alg9,"Alpha-1,2-mannosyltransferase ALG9",increased total body fat amount,Fat/Body weight
+Ensa,Alpha-endosulfine,increased lean body mass,Lean/Body weight
+Mrps36,Alpha-ketoglutarate dehydrogenase component 4,increased total body fat amount,Fat/Body weight
+Alpk2,Alpha-protein kinase 2,increased total body fat amount,Fat/Body weight
+Slc3a1,Amino acid transporter heavy chain SLC3A1,increased lean body mass,Lean/Body weight
+Ampd3,AMP deaminase 3,increased lean body mass,Lean Mass
+Apbb3,Amyloid-beta A4 precursor protein-binding family B member 3,increased lean body mass,Lean/Body weight
+Anapc7,Anaphase-promoting complex subunit 7,increased total body fat amount,Fat mass
+Ace2,Angiotensin-converting enzyme 2,increased total body fat amount,Fat/Body weight
+Asb2,Ankyrin repeat and SOCS box protein 2,increased lean body mass,Lean/Body weight
+Ankrd10,Ankyrin repeat domain-containing protein 10,increased total body fat amount,Fat/Body weight
+Ankrd13a,Ankyrin repeat domain-containing protein 13A,increased total body fat amount,Fat mass
+Ankrd9,Ankyrin repeat domain-containing protein 9,increased lean body mass,Lean/Body weight
+Anxa6,Annexin A6,increased lean body mass,Lean Mass
+Ap1g1,AP-1 complex subunit gamma-1,increased total body fat amount,Fat mass
+Ap1g2,AP-1 complex subunit gamma-like 2,decreased lean body mass,Lean mass
+Ap4e1,AP-4 complex subunit epsilon-1,increased lean body mass,Lean/Body weight
+Apoe,Apolipoprotein E,increased total body fat amount,Fat mass
+Aqp1,Aquaporin-1,increased lean body mass,Lean/Body weight
+Aqp3,Aquaporin-3,increased lean body mass,Lean/Body weight
+Pnisr,Arginine/serine-rich protein PNISR,decreased lean body mass,Lean mass
+Cyp19a1,Aromatase,increased total body fat amount,Fat mass
+Arsj,Arylsulfatase J,increased lean body mass,Lean/Body weight
+Atl2,Atlastin-2,increased total body fat amount,Fat mass
+Abcd3,ATP-binding cassette sub-family D member 3,increased lean body mass,Lean/Body weight
+Pfkm,"ATP-dependent 6-phosphofructokinase, muscle type",increased lean body mass,Lean mass
+Clpp,"ATP-dependent Clp protease proteolytic subunit, mitochondrial",increased total body fat amount,Fat mass
+Dhx29,ATP-dependent RNA helicase DHX29,decreased lean body mass,Lean mass
+Arid4b,AT-rich interactive domain-containing protein 4B,increased lean body mass,Lean mass
+Auts2,Autism susceptibility gene 2 protein homolog,increased lean body mass,Lean/Body weight
+Epb41l1,Band 4.1-like protein 1,increased lean body mass,Lean/Body weight
+Epb41l5,Band 4.1-like protein 5,increased lean body mass,Lean mass
+Bbs2,BBSome complex member BBS2,decreased lean body mass,Lean/Body weight
+Bbs5,BBSome complex member BBS5,increased total body fat amount,Fat/Body weight
+Bnip2,BCL2/adenovirus E1B 19 kDa protein-interacting protein 2,increased lean body mass,Lean/Body weight
+Ntrk2,BDNF/NT-3 growth factors receptor,increased lean body mass,Lean mass
+Becn1,Beclin-1,increased total body fat amount,Fat/Body weight
+Bhmt,Betaine--homocysteine S-methyltransferase 1,increased lean body mass,Lean mass
+Upb1,Beta-ureidopropionase,increased total body fat amount,Fat/Body weight
+Kdm8,Bifunctional peptidase and arginyl-hydroxylase JMJD5,increased body weight,Body Weight
+Bicral,BRD4-interacting chromatin-remodeling complex-associated protein-like,increased total body fat amount,Fat mass
+Brms1l,Breast cancer metastasis-suppressor 1-like protein,increased total body fat amount,Fat mass
+Baz2b,Bromodomain adjacent to zinc finger domain protein 2B,increased total body fat amount,Fat mass
+Tnfaip1,BTB/POZ domain-containing adapter for CUL3-mediated RhoA degradation protein 2,increased total body fat amount,Fat mass
+Btbd7,BTB/POZ domain-containing protein 7,decreased lean body mass,Lean/Body weight
+Bud13,BUD13 homolog,decreased lean body mass,Lean mass
+Celsr1,Cadherin EGF LAG seven-pass G-type receptor 1,increased lean body mass,Lean/Body weight
+Cdh1,Cadherin-1,increased body weight,Body Weight
+Cdh10,Cadherin-10,increased lean body mass,Lean mass
+Cdh23,Cadherin-23,increased lean body mass,Lean/Body weight
+Rcan1,Calcipressin-1,increased lean body mass,Lean/Body weight
+Tmem63c,Calcium permeable stress-gated cation channel 1,increased total body fat amount,Fat mass
+Mcu,"Calcium uniporter protein, mitochondrial",increased total body fat amount,Fat mass
+Micu1,"Calcium uptake protein 1, mitochondrial",increased total body fat amount,Fat/Body weight
+Micu3,"Calcium uptake protein 3, mitochondrial",increased lean body mass,Lean/Body weight
+Camk1,Calcium/calmodulin-dependent protein kinase type 1,increased lean body mass,Lean mass
+Camk1d,Calcium/calmodulin-dependent protein kinase type 1D,increased total body fat amount,Fat mass
+Camsap3,Calmodulin-regulated spectrin-associated protein 3,increased total body fat amount,Fat mass
+Cmtr2,Cap-specific mRNA,increased lean body mass,Lean/Body weight
+Ydjc,Carbohydrate deacetylase,increased lean body mass,Lean mass
+Ces5a,Carboxylesterase 5A,increased total body fat amount,Fat mass
+Cibar1,CBY1-interacting BAR domain-containing protein 1,increased lean body mass,Lean mass
+Trnt1,"CCA tRNA nucleotidyltransferase 1, mitochondrial",increased body weight,Body Weight
+Cebpz,CCAAT/enhancer-binding protein zeta,increased total body fat amount,Fat/Body weight
+Cnot4,CCR4-NOT transcription complex subunit 4,increased total body fat amount,Fat/Body weight
+Cnot7,CCR4-NOT transcription complex subunit 7,increased lean body mass,Lean mass
+Cd27,CD27 antigen,decreased lean body mass,Lean/Body weight
+Cdc42ep5,Cdc42 effector protein 5,decreased lean body mass,Lean mass
+Cisd2,CDGSH iron-sulfur domain-containing protein 2,increased lean body mass,Lean/Body weight
+Cdipt,CDP-diacylglycerol--inositol 3-phosphatidyltransferase,increased total body fat amount,Fat/Body weight
+Cdc27,Cell division cycle protein 27 homolog,increased total body fat amount,Fat/Body weight
+Cenpj,Centrosomal P4.1-associated protein,increased total body fat amount,Fat Mass
+Cep19,Centrosomal protein of 19 kDa,increased total body fat amount,Fat/Body weight
+Cep250,Centrosome-associated protein CEP250,increased total body fat amount,Fat/Body weight
+Ric8a,Chaperone Ric-8A,increased total body fat amount,Fat/Body weight
+Clcnkb,Chloride channel protein ClC-Kb,increased lean body mass,Lean/Body weight
+Chsy3,Chondroitin sulfate synthase 3,increased lean body mass,Lean/Body weight
+Cbx6,Chromobox protein homolog 6,increased lean body mass,Lean/Body weight
+Pdxp,Chronophin,increased lean body mass,Lean/Body weight
+Cfap47,Cilia and flagella-associated protein 47,increased total body fat amount,Fat/Body weight
+Cimip2c,Ciliary microtubule inner protein 2C,increased lean body mass,Lean/Body weight
+Clrn2,Clarin-2,increased total body fat amount,Fat mass
+Cd300lg,CMRF35-like molecule 9,increased lean body mass,Lean mass
+F7,Coagulation factor VII,increased total body fat amount,Fat mass
+Copb2,Coatomer subunit beta',increased lean body mass,Lean/Body weight
+Stag3,Cohesin subunit SA-3,increased total body fat amount,Fat mass
+Ccdc122,Coiled-coil domain-containing protein 122,increased lean body mass,Lean/Body weight
+Ccdc127,Coiled-coil domain-containing protein 127,increased lean body mass,Lean/Body weight
+Ccdc8,Coiled-coil domain-containing protein 8 homolog,increased total body fat amount,Fat mass
+Ccdc93,Coiled-coil domain-containing protein 93,increased total body fat amount,Fat mass
+Chchd5,Coiled-coil-helix-coiled-coil-helix domain-containing protein 5,increased lean body mass,Lean mass
+Col11a2,Collagen alpha-2(XI) chain,increased lean body mass,Lean mass
+C1rl,Complement C1r subcomponent-like protein,decreased lean body mass,Lean mass
+C4b,Complement C4-B [Cleaved into: Complement C4 beta chain; Complement C4 alpha chain; C4a anaphylatoxin; Complement C4 gamma chain],decreased lean body mass,Lean mass
+Ncaph,Condensin complex subunit 2,increased lean body mass,Lean Mass
+Fam120a,Constitutive coactivator of PPAR-gamma-like protein 1,increased lean body mass,Lean mass
+Cntnap5a,Contactin-associated protein like 5-1,increased total body fat amount,Fat/Body weight
+Cobll1,Cordon-bleu protein-like 1,increased lean body mass,Lean mass
+Ckb,Creatine kinase B-type,increased lean body mass,Lean/Body weight
+Ctdspl2,CTD small phosphatase-like protein 2,increased lean body mass,Lean mass
+Clec3a,C-type lectin domain family 3 member A,increased lean body mass,Lean mass
+Csmd3,CUB and sushi domain-containing protein 3,increased lean body mass,Lean/Body weight
+Cand2,Cullin-associated NEDD8-dissociated protein 2,increased lean body mass,Lean mass
+Atg4a,Cysteine protease ATG4A,increased total body fat amount,Fat mass
+Atg4b,Cysteine protease ATG4B,decreased lean body mass,Lean mass
+Cystm1,Cysteine-rich and transmembrane domain-containing protein 1,increased total body fat amount,Fat/Body weight
+Cyba,Cytochrome b-245 light chain,increased lean body mass,Lean mass
+Cox7a2,"Cytochrome c oxidase subunit 7A2, mitochondrial",increased lean body mass,Lean mass
+Cygb,Cytoglobin,increased lean body mass,Lean/Body weight
+Dync1i2,Cytoplasmic dynein 1 intermediate chain 2,increased lean body mass,Lean Mass
+Pitpnc1,Cytoplasmic phosphatidylinositol transfer protein 1,increased lean body mass,Lean/Body weight
+Agbl1,Cytosolic carboxypeptidase 4,increased total body fat amount,Fat mass
+Dact3,Dapper homolog 3,increased lean body mass,Lean/Body weight
+Dazap1,DAZ-associated protein 1,increased lean body mass,Lean/Body weight
+Dcun1d3,DCN1-like protein 3,increased lean body mass,Lean mass
+Dnd1,Dead end protein homolog 1,increased total body fat amount,Fat mass
+Dock9,Dedicator of cytokinesis protein 9,increased lean body mass,Lean mass
+Ech1,"Delta(3,5)-Delta(2,4)-dienoyl-CoA isomerase, mitochondrial",increased total body fat amount,Fat/Body weight
+Dennd5b,DENN domain-containing protein 5B,increased lean body mass,Lean/Body weight
+Dmp1,Dentin matrix acidic phosphoprotein 1,increased total body fat amount,Fat mass
+Dguok,"Deoxyguanosine kinase, mitochondrial",increased total body fat amount,Fat mass
+Dnase1l2,Deoxyribonuclease-1-like 2,increased total body fat amount,Fat mass
+Mysm1,Deubiquitinase MYSM1,increased total body fat amount,Fat mass
+Dgkd,Diacylglycerol kinase delta,decreased lean body mass,Lean/Body weight
+Dpp8,Dipeptidyl peptidase 8,increased total body fat amount,Fat/Body weight
+Dpp9,Dipeptidyl peptidase 9,decreased lean body mass,Lean mass
+Adam32,Disintegrin and metalloproteinase domain-containing protein 32,increased total body fat amount,Fat/Body weight
+Dlg2,Disks large homolog 2,increased lean body mass,Lean Mass
+Dlg4,Disks large homolog 4,increased lean body mass,Lean/Body weight
+Dlgap4,Disks large-associated protein 4,increased lean body mass,Lean mass
+Dipk1a,Divergent protein kinase domain 1A,increased lean body mass,Lean mass
+Dmxl2,DmX-like protein 2,increased total body fat amount,Fat/Body weight
+Dnmt3a,DNA,increased total body fat amount,Fat/Body weight
+Polb,DNA polymerase beta,increased lean body mass,Lean/Body weight
+Spidr,DNA repair-scaffolding protein,increased total body fat amount,Fat/Body weight
+Dnajc14,DnaJ homolog subfamily C member 14,increased lean body mass,Lean mass
+Alg8,"Dolichyl pyrophosphate Glc1Man9GlcNAc2 alpha-1,3-glucosyltransferase",increased total body fat amount,Fat/Body weight
+Stau2,Double-stranded RNA-binding protein Staufen homolog 2,increased total body fat amount,Fat mass
+Dbn1,Drebrin,increased lean body mass,Lean/Body weight
+Duoxa2,Dual oxidase maturation factor 2,increased total body fat amount,Fat mass
+Pde1a,"Dual specificity calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1A",increased lean body mass,Lean/Body weight
+Dusp26,Dual specificity protein phosphatase 26,increased lean body mass,Lean Mass
+Dusp3,Dual specificity protein phosphatase 3,increased total body fat amount,Fat Mass
+Ccdc103,Dynein axonemal assembly factor 19,increased total body fat amount,Fat mass
+Dnaaf5,Dynein axonemal assembly factor 5,decreased lean body mass,Lean/Body weight
+Dnai2,Dynein axonemal intermediate chain 2,increased total body fat amount,Fat mass
+Dynlrb2,Dynein light chain roadblock-type 2,increased lean body mass,Lean mass
+Dmd,Dystrophin,increased lean body mass,Lean/Body weight
+Cbx4,E3 SUMO-protein ligase CBX4,increased total body fat amount,Fat mass
+Pias2,E3 SUMO-protein ligase PIAS2,increased total body fat amount,Fat mass
+Amfr,E3 ubiquitin-protein ligase AMFR,increased lean body mass,Lean Mass
+Fancl,E3 ubiquitin-protein ligase FANCL,increased total body fat amount,Fat/Body weight
+Hectd3,E3 ubiquitin-protein ligase HECTD3,increased total body fat amount,Fat mass
+Itch,E3 ubiquitin-protein ligase Itchy,increased lean body mass,Lean/Body weight
+Mib2,E3 ubiquitin-protein ligase MIB2,decreased lean body mass,Lean mass
+Mid1,E3 ubiquitin-protein ligase Midline-1,increased lean body mass,Lean mass
+Peli1,E3 ubiquitin-protein ligase pellino homolog 1,increased lean body mass,Lean/Body weight
+Rnf10,E3 ubiquitin-protein ligase RNF10,increased lean body mass,Lean Mass
+Rnf169,E3 ubiquitin-protein ligase RNF169,increased lean body mass,Lean mass
+Tmem129,E3 ubiquitin-protein ligase TM129,increased total body fat amount,Fat mass
+Topors,E3 ubiquitin-protein ligase Topors,increased total body fat amount,Fat mass
+Trim35,E3 ubiquitin-protein ligase TRIM35,increased total body fat amount,Fat mass
+Trim37,E3 ubiquitin-protein ligase TRIM37,increased total body fat amount,Fat mass
+Uhrf2,E3 ubiquitin-protein ligase UHRF2,increased total body fat amount,Fat/Body weight
+Enox1,Ecto-NOX disulfide-thiol exchanger 1,increased total body fat amount,Fat/Body weight
+Entpd1,Ectonucleoside triphosphate diphosphohydrolase 1,increased lean body mass,Lean Mass
+Bzw2,eIF5-mimic protein 1,increased lean body mass,Lean mass
+Etfa,"Electron transfer flavoprotein subunit alpha, mitochondrial",increased total body fat amount,Fat mass
+Elmod1,ELMO domain-containing protein 1,increased lean body mass,Lean/Body weight
+Elmod2,ELMO domain-containing protein 2,increased total body fat amount,Fat mass
+Erap1,Endoplasmic reticulum aminopeptidase 1,increased lean body mass,Lean/Body weight
+Erp44,Endoplasmic reticulum resident protein 44,increased lean body mass,Lean/Body weight
+Dicer1,Endoribonuclease Dicer,decreased lean body mass,Lean mass
+Epas1,Endothelial PAS domain-containing protein 1,increased total body fat amount,Fat mass
+Elmo1,Engulfment and cell motility protein 1,increased lean body mass,Lean mass
+Epc1,Enhancer of polycomb homolog 1,increased lean body mass,Lean/Body weight
+Eomes,Eomesodermin homolog,increased total body fat amount,Fat mass
+Epx,Eosinophil peroxidase,increased total body fat amount,Fat mass
+Slc29a3,Equilibrative nucleoside transporter 3,increased lean body mass,Lean/Body weight
+Edem1,ER degradation-enhancing alpha-mannosidase-like protein 1,increased lean body mass,Lean/Body weight
+Emc3,ER membrane protein complex subunit 3,increased total body fat amount,Fat/Body weight
+Emc8,ER membrane protein complex subunit 8,increased total body fat amount,Fat mass
+Erlin1,Erlin-1,decreased lean body mass,Lean/Body weight
+Esr2,Estrogen receptor beta,increased total body fat amount,Fat mass
+Elk4,ETS domain-containing protein Elk-4,decreased lean body mass,Lean mass
+Eif4g1,Eukaryotic translation initiation factor 4 gamma 1,increased total body fat amount,Fat mass
+Exoc3,Exocyst complex component 3,increased lean body mass,Lean/Body weight
+Extl1,Exostosin-like 1,increased total body fat amount,Fat mass
+Fadd,FAS-associated death domain protein,increased total body fat amount,Fat mass
+Fbf1,Fas-binding factor 1,increased total body fat amount,Fat/Body weight
+Fbxo11,F-box only protein 11,increased lean body mass,Lean/Body weight
+Fbxl3,F-box/LRR-repeat protein 3,decreased lean body mass,Lean mass
+Frmd5,FERM domain-containing protein 5,increased total body fat amount,Fat mass
+Slc40a1,Ferroportin,increased total body fat amount,Fat mass
+Fgl1,Fibrinogen-like protein 1,increased total body fat amount,Fat mass
+Fgf10,Fibroblast growth factor 10,increased total body fat amount,Fat mass
+Fndc9,Fibronectin type III domain-containing protein 9,increased total body fat amount,Fat/Body weight
+Fndc3a,Fibronectin type-III domain-containing protein 3A,increased total body fat amount,Fat/Body weight
+Flnb,Filamin-B,increased total body fat amount,Fat/Body weight
+Fshr,Follicle-stimulating hormone receptor,increased total body fat amount,Fat mass
+Fst,Follistatin,increased total body fat amount,Fat mass
+Foxn4,Forkhead box protein N4,increased total body fat amount,Fat/Body weight
+Foxp1,Forkhead box protein P1,increased lean body mass,Lean/Body weight
+Foxp2,Forkhead box protein P2,increased body weight,Body weight
+Fnbp1l,Formin-binding protein 1-like,increased lean body mass,Lean/Body weight
+Fzd3,Frizzled-3,increased total body fat amount,Fat/Body weight
+Gpatch4,G patch domain-containing protein 4,decreased lean body mass,Lean/Body weight
+Ccnd2,G1/S-specific cyclin-D2,increased lean body mass,Lean/Body weight
+G2e3,G2/M phase-specific E3 ubiquitin-protein ligase,increased total body fat amount,Fat mass
+Gabra2,Gamma-aminobutyric acid receptor subunit alpha-2,increased lean body mass,Lean/Body weight
+Gabrg3,Gamma-aminobutyric acid receptor subunit gamma-3,increased total body fat amount,Fat mass
+Gdap2,Ganglioside-induced differentiation-associated protein 2,increased lean body mass,Lean mass
+Gkn2,Gastrokine-2,increased lean body mass,Lean mass
+Depdc5,GATOR1 complex protein DEPDC5,increased total body fat amount,Fat mass
+Gzf1,GDNF-inducible zinc finger protein 1,increased total body fat amount,Fat mass
+Gmds,"GDP-mannose 4,6 dehydratase",increased total body fat amount,Fat mass
+Gcgr,Glucagon receptor,increased lean body mass,Lean mass
+Gmeb2,Glucocorticoid modulatory element-binding protein 2,increased lean body mass,Lean/Body weight
+Slc37a1,Glucose-6-phosphate exchanger SLC37A1,increased total body fat amount,Fat/Body weight
+Grik1,"Glutamate receptor ionotropic, kainate 1",increased lean body mass,Lean/Body weight
+Grik4,"Glutamate receptor ionotropic, kainate 4",increased total body fat amount,Fat/Body weight
+Gclc,Glutamate--cysteine ligase catalytic subunit,increased lean body mass,Lean Mass
+Qrsl1,"Glutamyl-tRNA(Gln) amidotransferase subunit A, mitochondrial",increased total body fat amount,Fat/Body weight
+Gstm6,Glutathione S-transferase Mu 6,increased total body fat amount,Fat/Body weight
+Gsto1,Glutathione S-transferase omega-1,increased total body fat amount,Fat/Body weight
+Gys2,"Glycogen [starch] synthase, liver",increased total body fat amount,Fat mass
+Gsk3a,Glycogen synthase kinase-3 alpha,increased total body fat amount,Fat mass
+Gmps,GMP synthase [glutamine-hydrolyzing],increased total body fat amount,Fat/Body weight
+Bpnt2,"Golgi-resident adenosine 3',5'-bisphosphate 3'-phosphatase",increased body weight,Body Weight
+Pigz,GPI mannosyltransferase 4,increased total body fat amount,Fat/Body weight
+Gpr15,G-protein coupled receptor 15,increased total body fat amount,Fat mass
+Gpr22,G-protein coupled receptor 22,increased lean body mass,Lean/Body weight
+Gpr55,G-protein coupled receptor 55,increased lean body mass,Lean mass
+Greb1l,GREB1-like protein,increased total body fat amount,Fat mass
+Gas7,Growth arrest-specific protein 7,increased total body fat amount,Fat/Body weight
+Ghrhr,Growth hormone-releasing hormone receptor,increased total body fat amount,Fat mass
+Gimap6,GTPase IMAP family member 6,increased total body fat amount,Fat/Body weight
+C9orf72,Guanine nucleotide exchange factor C9orf72 homolog,increased lean body mass,Lean/Body weight
+Gng13,Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-13,increased total body fat amount,Fat mass
+Gngt2,Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-T2,increased lean body mass,Lean mass
+Gnaz,Guanine nucleotide-binding protein G(z) subunit alpha,increased total body fat amount,Fat mass
+Gnl1,Guanine nucleotide-binding protein-like 1,increased total body fat amount,Fat mass
+Preb,Guanine nucleotide-exchange factor SEC12,increased total body fat amount,Fat/Body weight
+Ush1c,Harmonin,increased lean body mass,Lean/Body weight
+Hsf2bp,Heat shock factor 2-binding protein,increased body weight,Body Weight
+Hsf5,Heat shock factor protein 5,increased total body fat amount,Fat/Body weight
+Helq,Helicase POLQ-like,increased total body fat amount,Fat mass
+Nhlh2,Helix-loop-helix protein 2,increased total body fat amount,Fat mass
+Hgsnat,Heparan-alpha-glucosaminide N-acetyltransferase,increased lean body mass,Lean mass
+Hdgfl3,Hepatoma-derived growth factor-related protein 3,increased total body fat amount,Fat/Body weight
+Hkdc1,Hexokinase HKDC1,increased total body fat amount,Fat mass
+Pde8a,"High affinity cAMP-specific and IBMX-insensitive 3',5'-cyclic phosphodiesterase 8A",increased total body fat amount,Fat/Body weight
+Mettl18,Histidine protein methyltransferase 1 homolog,increased lean body mass,Lean/Body weight
+Mettl23,Histone-arginine methyltransferase METTL23,increased lean body mass,Lean mass
+Kmt2a,Histone-lysine N-methyltransferase 2A,increased lean body mass,Lean/Body weight
+Ehmt1,Histone-lysine N-methyltransferase EHMT1,increased lean body mass,Lean/Body weight
+Mecom,Histone-lysine N-methyltransferase MECOM,increased lean body mass,Lean/Body weight
+Nsd3,Histone-lysine N-methyltransferase NSD3,increased total body fat amount,Fat mass
+Setd1a,Histone-lysine N-methyltransferase SETD1A,increased lean body mass,Lean Mass
+Setd1b,Histone-lysine N-methyltransferase SETD1B,increased lean body mass,Lean/Body weight
+Bbx,HMG box transcription factor BBX,increased total body fat amount,Fat Mass
+Emx1,Homeobox protein EMX1,increased lean body mass,Lean/Body weight
+Hspbap1,HSPB1-associated protein 1,increased lean body mass,Lean mass
+Irgm1,Immunity-related GTPase family M protein 1,increased lean body mass,Lean/Body weight
+Kmt2e,Inactive histone-lysine N-methyltransferase 2E,increased total body fat amount,Fat/Body weight
+Pld5,Inactive phospholipase D5,decreased lean body mass,Lean mass
+Rhbdf2,Inactive rhomboid protein 2,increased total body fat amount,Fat mass
+Rnase10,Inactive ribonuclease-like protein 10,increased total body fat amount,Fat mass
+Peak1,Inactive tyrosine-protein kinase PEAK1,increased lean body mass,Lean mass
+Ino80d,INO80 complex subunit D,increased lean body mass,Lean mass
+Irag1,"Inositol 1,4,5-triphosphate receptor associated 1",increased total body fat amount,Fat/Body weight
+Inpp5a,Inositol polyphosphate-5-phosphatase A,increased total body fat amount,Fat/Body weight
+Ide,Insulin-degrading enzyme,increased lean body mass,Lean Mass
+Ints12,Integrator complex subunit 12,decreased lean body mass,Lean mass
+Itgae,Integrin alpha-E,decreased lean body mass,Lean mass
+Ifitm1,Interferon-induced transmembrane protein 1,increased lean body mass,Lean mass
+Irak2,Interleukin-1 receptor-associated kinase-like 2,increased total body fat amount,Fat/Body weight
+Il31ra,Interleukin-31 receptor subunit alpha,increased total body fat amount,Fat mass
+Vps13b,Intermembrane lipid transfer protein VPS13B,increased total body fat amount,Fat mass
+Iqcb1,IQ calmodulin-binding motif-containing protein 1,increased lean body mass,Lean mass
+Iqsec3,IQ motif and SEC7 domain-containing protein 3,increased total body fat amount,Fat mass
+Ism1,Isthmin-1,decreased lean body mass,Lean/Body weight
+Klhdc2,Kelch domain-containing protein 2,increased total body fat amount,Fat/Body weight
+Kbtbd8,Kelch repeat and BTB domain-containing protein 8,increased total body fat amount,Fat mass
+Klhl22,Kelch-like protein 22,decreased lean body mass,Lean mass
+Klhl42,Kelch-like protein 42,increased lean body mass,Lean/Body weight
+Krt75,"Keratin, type II cytoskeletal 75",increased total body fat amount,Fat mass
+Kptn,KICSTOR complex protein kaptin,increased body weight,Body Weight
+Slc25a30,Kidney mitochondrial carrier protein 1,increased lean body mass,Lean mass
+Kif21b,Kinesin-like protein KIF21B,increased lean body mass,Lean Mass
+Kiss1r,KiSS-1 receptor,increased total body fat amount,Fat mass
+Lefty1,Left-right determination factor 1,increased total body fat amount,Fat mass
+Lmod3,Leiomodin-3,increased total body fat amount,Fat mass
+Lepr,Leptin receptor gene-related protein,increased total body fat amount,Fat/Body weight
+Letmd1,LETM1 domain-containing protein 1,increased total body fat amount,Fat/Body weight
+Lingo2,Leucine-rich repeat and immunoglobulin-like domain-containing nogo receptor-interacting protein 2,increased lean body mass,Lean mass
+Lrrk1,Leucine-rich repeat serine/threonine-protein kinase 1,increased total body fat amount,Fat mass
+Lrrc41,Leucine-rich repeat-containing protein 41,increased lean body mass,Lean/Body weight
+Lst1,Leukocyte-specific transcript 1 protein,increased lean body mass,Lean mass
+Spn,Leukosialin,increased total body fat amount,Fat mass
+Gulo,L-gulonolactone oxidase,decreased lean body mass,Lean/Body weight
+Cidec,Lipid transferase CIDEC,increased lean body mass,Lean/Body weight
+Lpp,Lipoma-preferred partner homolog,abnormal lean body mass,Lean mass NMR
+Ldha,L-lactate dehydrogenase A chain,increased lean body mass,Lean Mass
+Acsl4,Long-chain-fatty-acid--CoA ligase 4,increased total body fat amount,Fat Mass
+Ly6g5b,Lymphocyte antigen 6 complex locus protein G5b,increased total body fat amount,Fat mass
+Ly86,Lymphocyte antigen 86,increased lean body mass,Lean mass
+Kdm4c,Lysine-specific demethylase 4C,increased lean body mass,Lean/Body weight
+Rsbn1,Lysine-specific demethylase 9,increased total body fat amount,Fat mass
+Lysmd1,LysM and putative peptidoglycan-binding domain-containing protein 1,increased total body fat amount,Fat/Body weight
+Mboat7,Lysophospholipid acyltransferase 7,decreased lean body mass,Lean mass
+Scarb2,Lysosome membrane protein 2,increased lean body mass,Lean/Body weight
+Minar2,Major intrinsically disordered NOTCH2-binding receptor 1-like homolog,increased total body fat amount,Fat/Body weight
+Mlec,Malectin,increased lean body mass,Lean/Body weight
+Mamld1,Mastermind-like domain-containing protein 1,increased total body fat amount,Fat/Body weight
+Mmp20,Matrix metalloproteinase-20,decreased lean body mass,Lean/Body weight
+Mturn,Maturin,increased lean body mass,Lean mass
+Mlx,Max-like protein X,increased lean body mass,Lean/Body weight
+Med23,Mediator of RNA polymerase II transcription subunit 23,increased lean body mass,Lean mass
+Med25,Mediator of RNA polymerase II transcription subunit 25,increased total body fat amount,Fat mass
+Rec8,Meiotic recombination protein REC8 homolog,increased total body fat amount,Fat mass
+Mc3r,Melanocortin receptor 3,increased total body fat amount,Fat mass
+Mrap2,Melanocortin-2 receptor accessory protein 2,increased total body fat amount,Fat/Body weight
+Mfrp,Membrane frizzled-related protein,increased body weight,Body Weight
+Magi2,"Membrane-associated guanylate kinase, WW and PDZ domain-containing protein 2",increased body weight,Body Weight
+Pitpnm1,Membrane-associated phosphatidylinositol transfer protein 1,increased lean body mass,Lean Mass
+Grm3,Metabotropic glutamate receptor 3,increased total body fat amount,Fat/Body weight
+Mta1,Metastasis-associated protein MTA1,increased total body fat amount,Fat mass
+Mta3,Metastasis-associated protein MTA3,increased body weight,Body Weight
+Mars2,"Methionine--tRNA ligase, mitochondrial",increased total body fat amount,Fat mass
+Mmaa,"Methylmalonic aciduria type A homolog, mitochondrial",increased total body fat amount,Fat mass
+Mettl26,Methyltransferase-like 26,increased total body fat amount,Fat mass
+Mapre3,Microtubule-associated protein RP/EB family member 3,increased total body fat amount,Fat mass
+Mcmbp,Mini-chromosome maintenance complex-binding protein,decreased lean body mass,Lean/Body weight
+Slc25a21,Mitochondrial 2-oxodicarboxylate carrier,increased total body fat amount,Fat/Body weight
+Mtarc2,Mitochondrial amidoxime reducing component 2,increased total body fat amount,Fat mass
+Mgme1,Mitochondrial genome maintenance exonuclease 1,increased lean body mass,Lean/Body weight
+Slc25a18,Mitochondrial glutamate carrier 2,increased total body fat amount,Fat mass
+Timm50,Mitochondrial import inner membrane translocase subunit TIM50,increased lean body mass,Lean mass
+Immp2l,Mitochondrial inner membrane protease subunit 2,decreased lean body mass,Lean/Body weight
+Slc25a15,Mitochondrial ornithine transporter 1,increased total body fat amount,Fat/Body weight
+Mfn2,Mitofusin-2,decreased lean body mass,Lean/Body weight
+Map3k1,Mitogen-activated protein kinase kinase kinase 1,increased lean body mass,Lean mass
+Mocos,Molybdenum cofactor sulfurase,increased total body fat amount,Fat mass
+Mpv17l2,Mpv17-like protein 2,increased total body fat amount,Fat mass
+Pcif1,mRNA,increased lean body mass,Lean mass
+Mcidas,Multicilin,decreased lean body mass,Lean mass
+Megf6,Multiple epidermal growth factor-like domains protein 6,increased total body fat amount,Fat mass
+Myc,Myc proto-oncogene protein,increased total body fat amount,Fat mass
+Mpzl2,Myelin protein zero-like protein 2,increased total body fat amount,Fat mass
+Myl3,Myosin light chain 3,increased lean body mass,Lean/Body weight
+Mylk4,Myosin light chain kinase family member 4,increased total body fat amount,Fat/Body weight
+Myl2,"Myosin regulatory light chain 2, ventricular/cardiac muscle isoform",increased total body fat amount,Fat mass
+Myh1,Myosin-1,increased total body fat amount,Fat mass
+Myoz1,Myozenin-1,increased total body fat amount,Fat mass
+Nans,N-acetylneuraminate-9-phosphate synthase,increased total body fat amount,Fat/Body weight
+Esco1,N-acetyltransferase ESCO1,increased lean body mass,Lean Mass
+Nadk,NAD kinase,increased lean body mass,Lean mass
+Ndufaf6,NADH dehydrogenase,increased body weight,Body Weight
+Ndufa10,"NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 10, mitochondrial",increased total body fat amount,Fat/Body weight
+Ndufs3,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 3, mitochondrial",increased lean body mass,Lean Mass
+Naa10,N-alpha-acetyltransferase 10,increased lean body mass,Lean/Body weight
+Chn1,N-chimaerin,increased lean body mass,Lean/Body weight
+Syne2,Nesprin-2,increased lean body mass,Lean mass
+Neurl4,Neuralized-like protein 4,increased lean body mass,Lean/Body weight
+Nrxn1,Neurexin-1-beta,increased lean body mass,Lean mass
+Nrxn2,Neurexin-2-beta,increased lean body mass,Lean/Body weight
+Nexmif,Neurite extension and migration factor,increased total body fat amount,Fat/Body weight
+Nbea,Neurobeachin,increased total body fat amount,Fat mass
+Scg5,Neuroendocrine protein 7B2,increased lean body mass,Lean mass
+Tacr3,Neuromedin-K receptor,increased total body fat amount,Fat/Body weight
+Chrnb2,Neuronal acetylcholine receptor subunit beta-2,increased total body fat amount,Fat/Body weight
+Npy5r,Neuropeptide Y receptor type 5,increased total body fat amount,Fat mass
+Ninj2,Ninjurin-2,increased lean body mass,Lean/Body weight
+Hmgn1,Non-histone chromosomal protein HMG-14,increased total body fat amount,Fat mass
+Ncbp3,Nuclear cap-binding protein subunit 3,increased total body fat amount,Fat mass
+Cnep1r1,Nuclear envelope phosphatase-regulatory subunit 1,decreased lean body mass,Lean/Body weight
+Ncoa1,Nuclear receptor coactivator 1,increased lean body mass,Lean/Body weight
+Tram1,Nuclear receptor coactivator 3,increased total body fat amount,Fat mass
+Ncor2,Nuclear receptor corepressor 2,increased lean body mass,Lean/Body weight
+Nfya,Nuclear transcription factor Y subunit alpha,increased lean body mass,Lean Mass
+Nucks1,Nuclear ubiquitous casein and cyclin-dependent kinase substrate 1,increased lean body mass,Lean mass
+Tial1,Nucleolysin TIAR,increased lean body mass,Lean mass
+Nup37,Nucleoporin Nup37,increased lean body mass,Lean/Body weight
+Nxnl2,Nucleoredoxin-like protein 2,decreased lean body mass,Lean/Body weight
+Nudt6,Nucleoside diphosphate-linked moiety X motif 6,increased lean body mass,Lean/Body weight
+Nutm1,NUT family member 1,increased lean body mass,Lean/Body weight
+Slc51b,Organic solute transporter subunit beta,increased lean body mass,Lean/Body weight
+Orc1,Origin recognition complex subunit 1,increased lean body mass,Lean mass
+Otud3,OTU domain-containing protein 3,increased lean body mass,Lean mass
+Oaf,Out at first protein homolog,increased lean body mass,Lean/Body weight
+Cd200,OX-2 membrane glycoprotein,increased total body fat amount,Fat mass
+Fahd2a,"Oxaloacetate tautomerase Fahd2a, mitochondrial",increased lean body mass,Lean Mass
+Osbpl11,Oxysterol-binding protein-related protein 11,increased total body fat amount,Fat/Body weight
+Osbpl3,Oxysterol-binding protein-related protein 3,increased lean body mass,Lean mass
+P2ry14,P2Y purinoceptor 14,increased total body fat amount,Fat/Body weight
+Trip13,Pachytene checkpoint protein 2 homolog,increased total body fat amount,Fat/Body weight
+Cpt1c,Palmitoyl thioesterase CPT1C,increased total body fat amount,Fat mass
+Zdhhc16,Palmitoyltransferase ZDHHC16,decreased lean body mass,Lean/Body weight
+Zdhhc19,Palmitoyltransferase ZDHHC19,increased total body fat amount,Fat/Body weight
+Pth1r,Parathyroid hormone/parathyroid hormone-related peptide receptor,increased total body fat amount,Fat/Body weight
+Ptchd1,Patched domain-containing protein 1,increased lean body mass,Lean mass
+Pdzd8,PDZ domain-containing protein 8,increased lean body mass,Lean/Body weight
+Fkbp5,Peptidyl-prolyl cis-trans isomerase FKBP5,increased lean body mass,Lean mass
+Pcm1,Pericentriolar material 1 protein,decreased lean body mass,Lean mass
+Per2,Period circadian protein homolog 2,increased lean body mass,Lean/Body weight
+Pex3,Peroxisomal biogenesis factor 3,increased lean body mass,Lean Mass
+Pparg,Peroxisome proliferator-activated receptor gamma,increased total body fat amount,Fat/Body weight
+Phlpp1,PH domain leucine-rich repeat-containing protein phosphatase 1,decreased lean body mass,Lean mass
+Phf20l1,PHD finger protein 20-like protein 1,increased lean body mass,Lean/Body weight
+Phf5a,PHD finger-like domain-containing protein 5A,increased lean body mass,Lean/Body weight
+Sgms1,Phosphatidylcholine:ceramide cholinephosphotransferase 1,increased lean body mass,Lean/Body weight
+Mtmr1,Phosphatidylinositol-3-phosphate phosphatase MTMR1,increased total body fat amount,Fat mass
+Pigf,Phosphatidylinositol-glycan biosynthesis class F protein,increased total body fat amount,Fat/Body weight
+Gpld1,Phosphatidylinositol-glycan-specific phospholipase D,increased lean body mass,Lean/Body weight
+Abhd16a,Phosphatidylserine lipase ABHD16A,increased lean body mass,Lean/Body weight
+Pacs2,Phosphofurin acidic cluster sorting protein 2,increased total body fat amount,Fat mass
+Plb1,"Phospholipase B1, membrane-associated",increased lean body mass,Lean/Body weight
+Ddhd1,Phospholipase DDHD1,increased lean body mass,Lean mass
+Atp8b1,Phospholipid-transporting ATPase IC,increased lean body mass,Lean/Body weight
+Phkb,Phosphorylase b kinase regulatory subunit beta,increased total body fat amount,Fat/Body weight
+Pgbd5,PiggyBac transposable element-derived protein 5,increased total body fat amount,Fat mass
+Pttg1ip,Pituitary tumor-transforming gene 1 protein-interacting protein,increased total body fat amount,Fat mass
+Plac9,Placenta-specific protein 9,increased total body fat amount,Fat mass
+Peds1,Plasmanylethanolamine desaturase 1,decreased lean body mass,Lean mass
+Pdgfc,Platelet-derived growth factor C,abnormal lean body mass,Lean mass NMR
+Plekhm2,Pleckstrin homology domain-containing family M member 2,increased lean body mass,Lean/Body weight
+Plxnb2,Plexin-B2,increased lean body mass,Lean Mass
+Tnks,Poly [ADP-ribose] polymerase tankyrase-1,increased lean body mass,Lean/Body weight
+Papola,Poly(A) polymerase alpha,decreased lean body mass,Lean mass
+Ttll1,Polyglutamylase complex subunit TTLL1,increased total body fat amount,Fat mass
+Galnt18,Polypeptide N-acetylgalactosaminyltransferase 18,increased lean body mass,Lean/Body weight
+Kcnb1,Potassium voltage-gated channel subfamily B member 1,increased lean body mass,Lean/Body weight
+Kcne1,Potassium voltage-gated channel subfamily E member 1,increased lean body mass,Lean/Body weight
+Prdm10,PR domain zinc finger protein 10,increased lean body mass,Lean mass
+Prdm14,PR domain zinc finger protein 14,increased total body fat amount,Fat mass
+Prdm4,PR domain zinc finger protein 4,increased lean body mass,Lean/Body weight
+Pbx3,Pre-B-cell leukemia transcription factor 3,increased total body fat amount,Fat mass
+Pfdn5,Prefoldin subunit 5,increased total body fat amount,Fat mass
+Prelid2,PRELI domain-containing protein 2,increased lean body mass,Lean/Body weight
+Rbm22,Pre-mRNA-splicing factor RBM22,increased lean body mass,Lean/Body weight
+Pcyox1l,Prenylcysteine oxidase 1-like,increased total body fat amount,Fat/Body weight
+Dhx40,Probable ATP-dependent RNA helicase DHX40,increased total body fat amount,Fat mass
+Mettl24,Probable methyltransferase-like protein 24,increased lean body mass,Lean mass
+Eif1ad,Probable RNA-binding protein EIF1AD,decreased lean body mass,Lean/Body weight
+Penk,Proenkephalin-A [Cleaved into: Synenkephalin; Met-enkephalin,increased total body fat amount,Fat mass
+Pdcd6ip,Programmed cell death 6-interacting protein,abnormal lean body mass,Lean mass NMR
+Prr5,Proline-rich protein 5,increased total body fat amount,Fat mass
+P3h1,Prolyl 3-hydroxylase 1,increased total body fat amount,Fat mass
+Ogfod1,Prolyl 3-hydroxylase OGFOD1,increased lean body mass,Lean Mass
+Pcsk5,Proprotein convertase subtilisin/kexin type 5,increased lean body mass,Lean mass
+Ptgr1,Prostaglandin reductase 1,increased total body fat amount,Fat mass
+Abhd8,Protein ABHD8,increased total body fat amount,Fat mass
+Mllt3,Protein AF-9,increased total body fat amount,Fat/Body weight
+Prmt7,Protein arginine N-methyltransferase 7,increased total body fat amount,Fat Mass
+Fos,Protein c-Fos,increased total body fat amount,Fat mass
+Dlk1,Protein delta homolog 1,increased total body fat amount,Fat mass
+Pdia6,Protein disulfide-isomerase A6,increased total body fat amount,Fat/Body weight
+Dop1b,Protein DOP1B,increased lean body mass,Lean mass
+Efr3b,Protein EFR3 homolog B,increased lean body mass,Lean/Body weight
+Fam117b,Protein FAM117B,increased lean body mass,Lean mass
+Fam161a,Protein FAM161A,increased lean body mass,Lean mass
+Fam163a,Protein FAM163A,increased lean body mass,Lean/Body weight
+Ilrun,Protein ILRUN,decreased lean body mass,Lean mass
+Kash5,Protein KASH5,increased total body fat amount,Fat mass
+Pacsin2,Protein kinase C and casein kinase substrate in neurons protein 2,increased lean body mass,Lean mass
+Prkch,Protein kinase C eta type,increased lean body mass,Lean/Body weight
+Kti12,Protein KTI12 homolog,increased total body fat amount,Fat/Body weight
+Natd1,increased lean body mass,Lean/Body weight,
+Tmem260,Protein O-mannosyl-transferase TMEM260,increased lean body mass,Lean/Body weight
+Pals2,Protein PALS2,increased total body fat amount,Fat/Body weight
+Ppp3ca,Protein phosphatase 3 catalytic subunit alpha,increased body weight,Body Weight
+Ssh2,Protein phosphatase Slingshot homolog 2,increased lean body mass,Lean/Body weight
+Prc1,Protein regulator of cytokinesis 1,increased total body fat amount,Fat mass
+Shisa7,Protein shisa-7,increased lean body mass,Lean/Body weight
+Spns1,Protein spinster homolog 1,increased total body fat amount,Fat mass
+Tex261,Protein TEX261,increased lean body mass,Lean/Body weight
+Sec23a,Protein transport protein Sec23A,increased lean body mass,Lean Mass
+Ptp4a2,Protein tyrosine phosphatase type IVA 2,increased total body fat amount,Fat mass
+Ypel4,Protein yippee-like 4,increased total body fat amount,Fat mass
+Padi3,Protein-arginine deiminase type-3,increased total body fat amount,Fat/Body weight
+Hhatl,Protein-cysteine N-palmitoyltransferase HHAT-like protein,increased total body fat amount,Fat mass
+Smyd5,Protein-lysine N-trimethyltransferase SMYD5,increased lean body mass,Lean/Body weight
+F2,Prothrombin,increased total body fat amount,Fat mass
+Pcdh18,Protocadherin 18,increased lean body mass,Lean/Body weight
+Pus7l,Pseudouridylate synthase PUS7L,increased lean body mass,Lean Mass
+Gpr65,Psychosine receptor,increased lean body mass,Lean mass
+Pum2,Pumilio homolog 2,increased lean body mass,Lean/Body weight
+Npepps,Puromycin-sensitive aminopeptidase,increased lean body mass,Lean/Body weight
+Tatdn3,Putative deoxyribonuclease TATDN3,increased total body fat amount,Fat mass
+Pxk,PX domain-containing protein kinase-like protein,increased total body fat amount,Fat mass
+Pcx,"Pyruvate carboxylase, mitochondrial",increased total body fat amount,Fat/Body weight
+Rab3ip,Rab-3A-interacting protein,increased lean body mass,Lean/Body weight
+Rabl2,Rab-like protein 2A,increased total body fat amount,Fat/Body weight
+Rabl6,Rab-like protein 6,increased lean body mass,Lean mass
+Akt2,RAC-beta serine/threonine-protein kinase,increased lean body mass,Lean/Body weight
+Rsu1,Ras suppressor protein 1,increased total body fat amount,Fat/Body weight
+Mras,Ras-related protein M-Ras,increased lean body mass,Lean/Body weight
+Rab23,Ras-related protein Rab-23,decreased lean body mass,Lean/Body weight
+Rab28,Ras-related protein Rab-28,increased total body fat amount,Fat mass
+Rab8a,Ras-related protein Rab-8A,decreased lean body mass,Lean/Body weight
+Rreb1,Ras-responsive element-binding protein 1,increased lean body mass,Lean mass
+Rasgrf1,Ras-specific guanine nucleotide-releasing factor 1,increased lean body mass,Lean/Body weight
+Flt3,Receptor-type tyrosine-protein kinase FLT3,decreased lean body mass,Lean mass
+Ptprd,Receptor-type tyrosine-protein phosphatase delta,increased lean body mass,Lean/Body weight
+Rln3,Relaxin-3,increased total body fat amount,Fat/Body weight
+Retreg3,Reticulophagy regulator 3,increased lean body mass,Lean/Body weight
+Rlbp1,Retinaldehyde-binding protein 1,increased lean body mass,Lean/Body weight
+Arhgap21,Rho GTPase-activating protein 21,increased total body fat amount,Fat/Body weight
+Arhgef10l,Rho guanine nucleotide exchange factor 10-like protein,increased lean body mass,Lean mass
+Arhgef4,Rho guanine nucleotide exchange factor 4,increased lean body mass,Lean Mass
+Rhbdd1,Rhomboid-related protein 4,decreased lean body mass,Lean mass
+Rrbp1,Ribosome-binding protein 1,increased lean body mass,Lean/Body weight
+Rbms1,"RNA-binding motif, single-stranded-interacting protein 1",decreased lean body mass,Lean mass
+Rbm45,RNA-binding protein 45,increased total body fat amount,Fat mass
+Msi2,RNA-binding protein Musashi homolog 2,increased total body fat amount,Fat mass
+Rbpms2,RNA-binding protein with multiple splicing 2,increased total body fat amount,Fat/Body weight
+Rspo1,R-spondin-1,increased lean body mass,Lean/Body weight
+Rufy1,RUN and FYVE domain-containing protein 1,decreased lean body mass,Lean/Body weight
+Runx2,Runt-related transcription factor 2,increased lean body mass,Lean/Body weight
+Rwdd1,RWD domain-containing protein 1,increased total body fat amount,Fat mass
+Rwdd2a,RWD domain-containing protein 2A,decreased lean body mass,Lean/Body weight
+Sag,S-arrestin,increased lean body mass,Lean mass
+Sfrp1,Secreted frizzled-related protein 1,increased total body fat amount,Fat mass
+Sfrp2,Secreted frizzled-related protein 2,decreased lean body mass,Lean mass
+Scamp5,Secretory carrier-associated membrane protein 5,increased lean body mass,Lean/Body weight
+Bscl2,Seipin,increased lean body mass,Lean/Body weight
+Secisbp2l,Selenocysteine insertion sequence-binding protein 2-like,increased lean body mass,Lean/Body weight
+Selenok,Selenoprotein K,increased total body fat amount,Fat mass
+Sema4d,Semaphorin-4D,increased total body fat amount,Fat/Body weight
+Prss48,Serine protease 48,decreased lean body mass,Lean mass
+Dclk2,Serine/threonine-protein kinase DCLK2,increased lean body mass,Lean mass
+Pkn1,Serine/threonine-protein kinase N1,increased total body fat amount,Fat mass
+Pak1,Serine/threonine-protein kinase PAK 1,increased total body fat amount,Fat mass
+Sik1,Serine/threonine-protein kinase SIK1,increased lean body mass,Lean/Body weight
+Sik3,Serine/threonine-protein kinase SIK3,increased lean body mass,Lean/Body weight
+Ppp2r2a,Serine/threonine-protein phosphatase 2A 55 kDa regulatory subunit B alpha isoform,decreased lean body mass,Lean mass
+Ppp2r5c,Serine/threonine-protein phosphatase 2A 56 kDa regulatory subunit gamma isoform,increased total body fat amount,Fat/Body weight
+Ppp5c,Serine/threonine-protein phosphatase 5,increased lean body mass,Lean/Body weight
+Trf,Serotransferrin,increased total body fat amount,Fat mass
+Sesn3,Sestrin-3,increased lean body mass,Lean Mass
+Shtn1,Shootin-1,decreased lean body mass,Lean/Body weight
+Trpc3,Short transient receptor potential channel 3,increased lean body mass,Lean/Body weight
+Ssbp2,Single-stranded DNA-binding protein 2,increased lean body mass,Lean/Body weight
+Dscc1,Sister chromatid cohesion protein DCC1,increased lean body mass,Lean Mass
+Smagp,Small cell adhesion glycoprotein,increased lean body mass,Lean mass
+Kcnn1,Small conductance calcium-activated potassium channel protein 1,increased total body fat amount,Fat mass
+Mrps22,Small ribosomal subunit protein mS22,increased total body fat amount,Fat/Body weight
+Mrps35,Small ribosomal subunit protein mS35,increased total body fat amount,Fat mass
+Scn11a,Sodium channel protein type 11 subunit alpha,decreased lean body mass,Lean mass
+Slc24a3,Sodium/potassium/calcium exchanger 3,increased lean body mass,Lean/Body weight
+Slc20a2,Sodium-dependent phosphate transporter 2,increased total body fat amount,Fat/Body weight
+Gda,Solute carrier family 25 member 16,increased lean body mass,Lean mass
+Ghrh,Somatoliberin,increased total body fat amount,Fat mass
+Sst,Somatostatin [Cleaved into: Antrin; Somatostatin-28; Somatostatin-14; Neuronostatin,increased total body fat amount,Fat mass
+Gh,Somatotropin,increased total body fat amount,Fat/Body weight
+Shh,Sonic hedgehog protein,increased total body fat amount,Fat/Body weight
+Spg11,Spatacsin,increased total body fat amount,Fat mass
+Izumo1r,Sperm-egg fusion protein Juno,increased lean body mass,Lean mass
+Stard3nl,STARD3 N-terminal-like protein,increased total body fat amount,Fat mass
+Stard5,StAR-related lipid transfer protein 5,increased lean body mass,Lean Mass
+Cyp17a1,"Steroid 17-alpha-hydroxylase/17,20 lyase",increased total body fat amount,Fat/Body weight
+Cyp27a1,"Sterol 26-hydroxylase, mitochondrial",increased lean body mass,Lean/Body weight
+Stim2,Stromal interaction molecule 2,increased lean body mass,Lean mass
+Smc6,Structural maintenance of chromosomes protein 6,increased total body fat amount,Fat/Body weight
+Sdhc,"Succinate dehydrogenase cytochrome b560 subunit, mitochondrial",increased body weight,Body Weight
+Sun1,SUN domain-containing protein 1,increased total body fat amount,Fat mass
+Sun2,SUN domain-containing protein 2,decreased lean body mass,Lean/Body weight
+Skic8,Superkiller complex protein 8,increased total body fat amount,Fat/Body weight
+Syce2,Synaptonemal complex central element protein 2,increased total body fat amount,Fat/Body weight
+Snap29,Synaptosomal-associated protein 29,increased lean body mass,Lean Mass
+Snap47,Synaptosomal-associated protein 47,decreased lean body mass,Lean/Body weight
+Syt1,Synaptotagmin-1,decreased lean body mass,Lean/Body weight
+Stx16,Syntaxin-16,increased lean body mass,Lean mass
+Ttbk1,Tau-tubulin kinase 2,increased lean body mass,Lean/Body weight
+Tbc1d2b,TBC1 domain family member 2B,increased lean body mass,Lean mass
+Tekt1,Tektin-1,increased total body fat amount,Fat mass
+Wrap53,Telomerase Cajal body protein 1,increased lean body mass,Lean mass
+Telo2,Telomere length regulation protein TEL2 homolog,increased total body fat amount,Fat mass
+Tenm4,Teneurin-4,decreased lean body mass,Lean mass
+Tsga13,Testis-specific gene 13 protein,decreased lean body mass,Lean/Body weight
+Tspan13,Tetraspanin-13,increased total body fat amount,Fat/Body weight
+Tspan9,Tetraspanin-9,increased total body fat amount,Fat mass
+Ttc7,Tetratricopeptide repeat protein 7A,increased total body fat amount,Fat/Body weight
+Txnip,Thioredoxin-interacting protein,increased total body fat amount,Fat mass
+Thoc1,THO complex subunit 1,increased total body fat amount,Fat/Body weight
+Trex1,Three-prime repair exonuclease 1,increased lean body mass,Lean mass
+Tars3,"Threonine--tRNA ligase 2, cytoplasmic",increased lean body mass,Lean/Body weight
+Thsd7a,"Thrombospondin type-1 domain-containing protein 7A [Cleaved into: Thrombospondin type-1 domain-containing protein 7A, soluble form]",decreased lean body mass,Lean mass
+Trappc10,Trafficking protein particle complex subunit 10,increased total body fat amount,Fat/Body weight
+Trappc9,Trafficking protein particle complex subunit 9,increased total body fat amount,Fat/Body weight
+Tifab,TRAF-interacting protein with FHA domain-containing protein B,increased lean body mass,Lean/Body weight
+Tceal1,Transcription elongation factor A protein-like 1,increased total body fat amount,Fat mass
+Tcf20,Transcription factor 20,increased total body fat amount,Fat/Body weight
+Tcf7l2,Transcription factor 7-like 2,increased lean body mass,Lean/Body weight
+E2f3,Transcription factor E2F3,increased total body fat amount,Fat mass
+Tfeb,Transcription factor EB,increased total body fat amount,Fat mass
+Ahdc1,Transcription factor Gibbin,increased total body fat amount,Fat/Body weight
+Sox21,Transcription factor SOX-10,increased lean body mass,Lean/Body weight
+Gtf2a1,Transcription initiation factor IIA subunit 1,increased total body fat amount,Fat mass
+Taf5,Transcription initiation factor TFIID subunit 5,increased total body fat amount,Fat/Body weight
+Tead1,Transcriptional enhancer factor TEF-1,increased total body fat amount,Fat mass
+Swt1,Transcriptional protein SWT1,increased total body fat amount,Fat/Body weight
+Tle4,Transducin-like enhancer protein 4,increased total body fat amount,Fat/Body weight
+Trpa1,Transient receptor potential cation channel subfamily A member 1,increased total body fat amount,Fat mass
+Tm9sf1,Transmembrane 9 superfamily member 1,increased total body fat amount,Fat/Body weight
+Tmco6,Transmembrane and coiled-coil domain-containing protein 6,increased total body fat amount,Fat mass
+Cyb561,Transmembrane ascorbate-dependent reductase CYB561,increased total body fat amount,Fat mass
+Tmc6,Transmembrane channel-like protein 6,increased lean body mass,Lean Mass
+Tmem108,Transmembrane protein 108,increased total body fat amount,Fat mass
+Tmem115,Transmembrane protein 115,increased lean body mass,Lean/Body weight
+Tmem132a,Transmembrane protein 132A,increased total body fat amount,Fat mass
+Tmem161b,Transmembrane protein 161B,increased total body fat amount,Fat/Body weight
+Tmem163,Transmembrane protein 163,increased total body fat amount,Fat/Body weight
+Tmem248,Transmembrane protein 248,increased lean body mass,Lean/Body weight
+Tmem42,Transmembrane protein 42,increased lean body mass,Lean mass
+Tmem72,Transmembrane protein 72,increased lean body mass,Lean/Body weight
+Tmem9b,Transmembrane protein 9B,increased total body fat amount,Fat mass
+Tff1,Trefoil factor 1,increased lean body mass,Lean/Body weight
+Trim10,Tripartite motif-containing protein 10,increased total body fat amount,Fat mass
+Trim29,Tripartite motif-containing protein 29,increased lean body mass,Lean mass
+Dus2,tRNA-dihydrouridine(20) synthase [NAD(P)+]-like,increased lean body mass,Lean/Body weight
+Tulp3,Tubby-related protein 3,increased total body fat amount,Fat mass
+Nudt16l1,Tudor-interacting repair regulator protein,increased total body fat amount,Fat mass
+Tnfsf18,Tumor necrosis factor ligand superfamily member 18,decreased lean body mass,Lean/Body weight
+Tusc1,Tumor suppressor candidate gene 1 protein homolog,increased total body fat amount,Fat/Body weight
+Twf1,Twinfilin-1,increased lean body mass,Lean Mass
+Twist1,Twist-related protein 1,increased lean body mass,Lean/Body weight
+Tat,Tyrosine aminotransferase,increased lean body mass,Lean/Body weight
+Syk,Tyrosine-protein kinase SYK,increased total body fat amount,Fat/Body weight
+Ptpn14,Tyrosine-protein phosphatase non-receptor type 14,increased lean body mass,Lean/Body weight
+Prpf31,U4/U6 small nuclear ribonucleoprotein Prp31,increased total body fat amount,Fat/Body weight
+Fyttd1,UAP56-interacting factor,increased total body fat amount,Fat mass
+Usp12,Ubiquitin carboxyl-terminal hydrolase 12,increased total body fat amount,Fat mass
+Usp13,Ubiquitin carboxyl-terminal hydrolase 13,increased total body fat amount,Fat/Body weight
+Usp15,Ubiquitin carboxyl-terminal hydrolase 15,increased lean body mass,Lean/Body weight
+Usp19,Ubiquitin carboxyl-terminal hydrolase 19,increased lean body mass,Lean/Body weight
+Usp22,Ubiquitin carboxyl-terminal hydrolase 22,increased lean body mass,Lean mass
+Usp38,Ubiquitin carboxyl-terminal hydrolase 38,increased total body fat amount,Fat/Body weight
+Usp40,Ubiquitin carboxyl-terminal hydrolase 40,increased total body fat amount,Fat/Body weight
+Usp42,Ubiquitin carboxyl-terminal hydrolase 42,increased total body fat amount,Fat Mass
+Mindy2,Ubiquitin carboxyl-terminal hydrolase MINDY-2,increased total body fat amount,Fat mass
+Ube4a,Ubiquitin conjugation factor E4 A,increased total body fat amount,Fat mass
+Zranb1,Ubiquitin thioesterase Zranb1,increased lean body mass,Lean mass
+Ube2d3,Ubiquitin-conjugating enzyme E2 D3,decreased lean body mass,Lean/Body weight
+Ube2j1,Ubiquitin-conjugating enzyme E2 J1,increased total body fat amount,Fat mass
+Ube2j2,Ubiquitin-conjugating enzyme E2 J2,increased total body fat amount,Fat mass
+Ufm1,Ubiquitin-fold modifier 1,increased total body fat amount,Fat/Body weight
+Ube3a,Ubiquitin-protein ligase E3A,increased total body fat amount,Fat/Body weight
+Ube3c,Ubiquitin-protein ligase E3C,increased total body fat amount,Fat mass
+Alg13,UDP-N-acetylglucosamine transferase subunit ALG13,increased total body fat amount,Fat/Body weight
+Cmpk2,"UMP-CMP kinase 2, mitochondrial",increased total body fat amount,Fat/Body weight
+Gm94,Uncharacterized protein C5orf46 homolog,increased total body fat amount,Fat/Body weight
+Myo6,Unconventional myosin-VI,increased lean body mass,Lean/Body weight
+Myo7a,Unconventional myosin-VIIa,increased lean body mass,Lean/Body weight
+Myo15a,Unconventional myosin-XV,increased total body fat amount,Fat mass
+Vps25,Vacuolar protein-sorting-associated protein 25,increased total body fat amount,Fat mass
+Elovl5,Very long chain fatty acid elongase 5,increased total body fat amount,Fat mass
+Vil1,Villin-1,increased lean body mass,Lean/Body weight
+Vdr,Vitamin D3 receptor,increased lean body mass,Lean/Body weight
+Vkorc1l1,Vitamin K epoxide reductase complex subunit 1-like protein 1,increased lean body mass,Lean/Body weight
+Cacna2d2,Voltage-dependent calcium channel subunit alpha-2/delta-2,increased lean body mass,Lean mass
+Kcnab2,Voltage-gated potassium channel subunit beta-2,increased total body fat amount,Fat/Body weight
+Atp6v0b,V-type proton ATPase 21 kDa proteolipid subunit c'',increased total body fat amount,Fat/Body weight
+Atp6v1d,V-type proton ATPase subunit D,increased lean body mass,Lean mass
+Xbp1,X-box-binding protein 1,increased body weight,Body Weight
+Xrcc5,X-ray repair cross-complementing protein 5,decreased lean body mass,Lean/Body weight
+Xxylt1,Xyloside xylosyltransferase 1,increased total body fat amount,Fat/Body weight
+Xylb,Xylulose kinase,increased total body fat amount,Fat mass
+Slc7a7,Y+L amino acid transporter 1,increased lean body mass,Lean/Body weight
+Ylpm1,YLP motif-containing protein 1,increased total body fat amount,Fat/Body weight
+Zbtb43,Zinc finger and BTB domain-containing protein 43,increased lean body mass,Lean/Body weight
+Zbtb45,Zinc finger and BTB domain-containing protein 45,increased total body fat amount,Fat mass
+Zbtb48,Zinc finger and BTB domain-containing protein 48,increased total body fat amount,Fat mass
+Zc3hc1,Zinc finger C3HC-type protein 1,increased total body fat amount,Fat Mass
+Zcchc2,Zinc finger CCHC domain-containing protein 2,increased total body fat amount,Fat/Body weight
+Zmym2,Zinc finger MYM-type protein 2,increased total body fat amount,Fat mass
+Zfp462,Zinc finger protein 462,increased total body fat amount,Fat/Body weight
+Zfp593,Zinc finger protein 593,increased total body fat amount,Fat/Body weight
+Zfp629,Zinc finger protein 629,increased total body fat amount,Fat mass
+Zfp746,Zinc finger protein 746,increased total body fat amount,Fat/Body weight
+Zfp92,Zinc finger protein 92,increased total body fat amount,Fat/Body weight
+Gfi1b,Zinc finger protein Gfi-1b,increased total body fat amount,Fat/Body weight
+Dpf1,Zinc finger protein neuro-d4,increased lean body mass,Lean/Body weight
+Zswim1,Zinc finger SWIM domain-containing protein 1,increased lean body mass,Lean/Body weight
+Zhx3,Zinc fingers and homeoboxes protein 3,increased lean body mass,Lean mass
+Slc30a7,Zinc transporter 7,increased total body fat amount,Fat mass
+Herc1,HECT and RLD domain containing E3 ubiquitin protein ligase family member 1,increased total body fat amount,Fat/Body weight
+Mir129-2,#NV,increased total body fat amount,Fat mass
+Fam81b,"Family with sequence similarity 81, member B",increased total body fat amount,Fat/Body weight
+2210408I21Rik,RIKEN cDNA 2210408I21 gene,increased total body fat amount,Fat/Body weight
+Heca,"Hdc homolog, cell cycle regulator",increased total body fat amount,Fat mass
+Lce1f,Late cornified envelope 1F,increased total body fat amount,Fat/Body weight
+Tox2,TOX high mobility group box family member 2,increased total body fat amount,Fat/Body weight
+Gemin4,Gem-associated protein 4,increased total body fat amount,Fat mass
+1700008P02Rik,Uncharacterized protein,increased total body fat amount,Fat/Body weight
+Prob1,Proline rich basic protein 1,increased total body fat amount,Fat mass
+Zfp202,Zinc finger protein 202,increased total body fat amount,Fat mass
+AU040320,Expressed sequence AU040320,increased total body fat amount,Fat/Body weight
+F730043M19Rik,Uncharacterized protein,increased total body fat amount,Fat/Body weight
+4930447C04Rik,Six6os1 protein,increased total body fat amount,Fat/Body weight
+Speer4f1,Spermatogenesis associated glutamate (E)-rich protein 4f,increased total body fat amount,Fat mass
+Nup205,Nucleoporin 205,increased total body fat amount,Fat mass
+D430041D05Rik,RIKEN cDNA D430041D05 gene,increased total body fat amount,Fat mass
+Aadacl4,Arylacetamide deacetylase like 4,increased total body fat amount,Fat mass
+Tmem132b,Transmembrane protein 132B,increased body weight,Weight
+,,,
+Uggt2,UDP-glucose glycoprotein glucosyltransferase 2,abnormal lean body mass,Lean mass NMR
+Herc3,Hect domain and RLD 3,increased lean body mass,Lean/Body weight
+Plcb4,Phosphoinositide phospholipase C (EC 3.1.4.11),increased lean body mass,Lean/Body weight
+Cpgi5563,,increased lean body mass,Lean mass
+Krtap17-1,Keratin associated protein 17-1,increased lean body mass,Lean/Body weight
+Vsig4,V-set and immunoglobulin domain containing 4,increased lean body mass,Lean mass
+Zfp84,Zinc finger protein 84,increased lean body mass,Lean/Body weight
+3425401B19Rik,,decreased lean body mass,Lean mass
+Cdh19,"Cadherin 19, type 2",decreased lean body mass,Lean mass
+Agl,Glycogen debranching enzyme (EC 2.4.1.25) (EC 3.2.1.33) (Glycogen debrancher),increased lean body mass,Lean mass
+Chrna9,"Cholinergic receptor, nicotinic, alpha polypeptide 9",increased lean body mass,Lean/Body weight
+Zbtb16,Zbtb16 protein,increased lean body mass,Lean/Body weight
+Ccdc28a,Coiled-coil domain containing 28A,increased lean body mass,Lean/Body weight
+Atp8b4,Phospholipid-transporting ATPase (EC 7.6.2.1),decreased lean body mass,Lean/Body weight
+4930591A17Rik,Uncharacterized protein,increased lean body mass,Lean mass
+A430005L14Rik,RIKEN cDNA A430005L14 gene,increased lean body mass,Lean/Body weight
+Usp31,ubiquitinyl hydrolase 1 (EC 3.4.19.12),increased lean body mass,Lean/Body weight
+Spink14,"Predicted gene, EG433178 (Serine peptidase inhibitor, Kazal type 14)",increased lean body mass,Lean mass
+Tfap4,Transcription factor AP4,increased lean body mass,Lean/Body weight
+Tgm6,Tgm6 protein,increased lean body mass,Lean mass
+Ap1ar,Adaptor-related protein complex 1 associated regulatory protein,increased lean body mass,Lean/Body weight
+Leprot,Leptin receptor gene-related protein (Endospanin-1) (OB-R gene-related protein) (OB-RGRP),increased lean body mass,Lean mass
+Mir96,,increased lean body mass,Lean/Body weight
+Zfp52,Mszf75,increased lean body mass,Lean mass
+2810408A11Rik,2810408A11Rik protein,increased lean body mass,Lean mass
+Abcc8,"ATP-binding cassette, sub-family C member 8",increased lean body mass,Lean/Body weight
+H2-M5,"Histocompatibility 2, M region locus 5 (MHC classIb protein M5)",increased lean body mass,Lean Mass
+Cpgi11865,,decreased lean body mass,Lean mass
+Reg3d,Regenerating islet-derived 3 delta,increased lean body mass,Lean mass
+Dppa1,Developmental pluripotency associated 1,increased lean body mass,Lean mass
+Col6a3,"Collagen, type VI, alpha 3",decreased lean body mass,Lean mass
+Cd300ld2,CD300 molecule like family member D2,increased lean body mass,Lean mass
